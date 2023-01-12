@@ -4,13 +4,13 @@ Pipeline for processing high-resolution spatial transcriptomics data
 In this github we present a pipeline to process high-resolution spatial transcriptomics data after obtaining the cell segmentation.
 This pipeline consists on 3 steps: Clustering, Stitching, and Cell typing.
 
-Clustering is done in R for this step you will need to install the following libraries:
+1. Clustering is done in R for this step you will need to install the following libraries:
 dplyr, Seurat, patchwork, ggplot2, sctransform, SeuratData, SeuratDisk and SeuratObject.
 
-Stitching is done in Python, for this step you will need to install the following libraries:
+2. Stitching is done in Python, for this step you will need to install the following libraries:
 stitch2d, pandas, numpy, scanpy, anndata.
 
-Cell typing is also done in Python, for this step you will need to install the following libraries:
+3. Cell typing is also done in Python, for this step you will need to install the following libraries:
 pandas, numpy, scanpy, anndata, sklearn, seaborn, sklearn
 
 Download the input data from the data folder. The gene expression file is called 'Lung5_Rep1_exprMat_file.csv' and the metadata file is called 'Lung5_Rep1_metadata_file.csv'. The expression matrix is zipped, you will have to unzip it before starting.
