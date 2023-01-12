@@ -1,0 +1,4988 @@
+,cellName,cellMarker
+0,Natural killer cell,ITGAM
+1,Natural killer cell,FCGR3A
+2,Natural killer cell,FCGR3B
+3,Natural killer cell,CD19
+4,Natural killer cell,CD2
+5,Natural killer cell,CD3D
+6,Natural killer cell,CD3E
+7,Natural killer cell,CD3G
+8,Natural killer cell,NCAM1
+9,Natural killer cell,KLRD1
+10,Natural killer cell,KLRC1
+11,CD4+ T cell,CCR6
+12,Anterior foregut endoderm cell,CPM
+13,Circulating fetal cell,ACTB
+14,Circulating fetal cell,ATF4
+15,Circulating fetal cell,CD33
+16,Circulating fetal cell,CD68
+17,Circulating fetal cell,CD9
+18,Circulating fetal cell,CDC42
+19,Circulating fetal cell,CLDN6
+20,Circulating fetal cell,COL1A2
+21,Circulating fetal cell,CRABP1
+22,Circulating fetal cell,CRIP1
+23,Circulating fetal cell,CRYL1
+24,Circulating fetal cell,CTNNB1
+25,Circulating fetal cell,DLX5
+26,Circulating fetal cell,EN1
+27,Circulating fetal cell,F11R
+28,Circulating fetal cell,FOXA2
+29,Circulating fetal cell,GATA5
+30,Circulating fetal cell,HAMP
+31,Circulating fetal cell,HMGA1
+32,Circulating fetal cell,IL7R
+33,Circulating fetal cell,JUN
+34,Circulating fetal cell,JUNB
+35,Circulating fetal cell,KCNQ4
+36,Circulating fetal cell,MCAM
+37,Circulating fetal cell,MMP9
+38,Circulating fetal cell,OLIG2
+39,Circulating fetal cell,PBLD
+40,Circulating fetal cell,PDGFC
+41,Circulating fetal cell,PF4
+42,Circulating fetal cell,PUM2
+43,Circulating fetal cell,SELE
+44,Circulating fetal cell,SELPLG
+45,Circulating fetal cell,SMAD3
+46,Circulating fetal cell,SMC3
+47,Circulating fetal cell,SOX13
+48,Circulating fetal cell,TCF3
+49,Circulating fetal cell,TNC
+50,Natural regulatory T (Treg) cell,CD6
+51,FOXP3+ natural regulatory T (Treg) cell,IL2RA
+52,FOXP3+ natural regulatory T (Treg) cell,CD4
+53,Platelet,CD14
+54,Leukocyte,GP1BA
+55,Cancer stem cell,PROM1
+56,Plasmacytoid dendritic cell,NRP1
+57,Endothelial progenitor cell,CD34
+58,Endothelial progenitor cell,PTPRC
+59,Responder T cell,LRRC32
+60,Cancer stem cell,CD44
+61,Cancer stem cell,ALDH1A1
+62,Cancer stem cell,ALCAM
+63,Cancer stem cell,THY1
+64,Immature transitional B cell,CD24
+65,Immature transitional B cell,CD38
+66,Memory B cell,CD27
+67,Plasmablast,CD40LG
+68,Effector CD4+ memory T (Tem) cell,CCR7
+69,B cell,AICDA
+70,B cell,MME
+71,B cell,TNFSF13B
+72,B cell,CD28
+73,B cell,TFRC
+74,B cell,CD86
+75,Regulatory T (Treg) cell,ITGA4
+77,B cell,MS4A1
+78,Lymphocyte,ANXA5
+79,Lymphocyte,CX3CR1
+81,Endothelial cell,PECAM1
+82,Endothelial progenitor cell,KDR
+83,Granulocyte,CEACAM8
+84,Regulatory T (Treg) cell,TNFRSF18
+85,Vascular stem cell,KIT
+86,Vascular stem cell,MKI67
+87,T cell,CD8A
+88,Lymphoid cell,GZMB
+89,Lymphoid cell,TIA1
+90,Basal cell,CD151
+91,Decidual cell,BHLHE40
+92,Activated CD4+ T cell,ITGB1
+93,Basophil,IL3RA
+94,Cancer cell,FOLH1
+95,Cancer cell,EPCAM
+96,Cancer cell,ERBB2
+97,Cancer cell,NPEPPS
+98,Cancer stem cell,CDH2
+99,Cancer stem cell,TEK
+100,Natural killer cell,NCR1
+101,Angiogenic T cell,CXCR4
+102,Cancer cell,PLAUR
+103,Malignant mesothelioma cell,MUC16
+104,Cancer stem cell,MET
+105,Platelet,ITGA2B
+106,Platelet,ITGB3
+107,Platelet,SELP
+108,Monocyte,ICAM4
+109,Monocyte,CD244
+110,Monocyte,COX2
+111,Monocyte,MPO
+112,Naive CD4+ T cell,SELL
+113,Pulmonary alveolar type II cells,PGC
+114,Migrating cancer stem cell,MPL
+115,Migrating cancer stem cell,CDCP1
+117,T cell,UCHL1
+118,Monocyte,ITGB2
+119,Basophil,SMAD1
+120,Cancer cell,CDH1
+121,Cancer cell,MUC1
+122,Cancer cell,KLK3
+123,Cancer cell,KRT8
+124,Cancer cell,KRT18
+125,Activated CD4+ T cell,CD69
+126,Activated CD4+ T cell,CXCR3
+127,CD8+ T cell,TNFRSF8
+128,Basophil,ENPP3
+129,Basophil,CD63
+130,Basophil,CCR3
+131,Basophil,CD22
+132,Cancer stem cell,MYC
+133,Cancer stem cell,NES
+134,Cancer stem cell,DCLK1
+135,Eosinophil,CEACAM5
+136,Eosinophil,CSF3R
+137,Eosinophil,CSF2RA
+138,Eosinophil,IL4R
+139,Eosinophil,IL5RA
+140,Eosinophil,IL6R
+141,Circulating fetal cell,F3
+142,Circulating fetal cell,MMP14
+143,Basophil,CCR5
+144,Plasmacytoid dendritic cell,THBD
+145,Cancer stem cell,ABCG2
+146,Cancer stem cell,ABCB1
+147,Cancer stem cell,GLI1
+148,Cancer stem cell,PDPN
+149,Cancer stem cell,NANOG
+150,Cancer stem cell,POU5F1
+151,Cancer stem cell,SOX2
+152,Cancer stem cell,KLF4
+153,Cancer stem cell,MSI1
+154,Cancer stem cell,ABCG5
+155,Cancer stem cell,FLOT2
+156,Cancer stem cell,BMI1
+157,Cancer stem cell,TP63
+158,Clara cell,SCGB1A1
+159,Dendritic cell,CD1C
+160,Dendritic cell,CLEC4C
+161,Dendritic cell,ITGAX
+162,Dendritic cell,CD209
+163,Dendritic cell,CD83
+164,Dendritic cell,CD1A
+165,Endothelial cell,CDH5
+166,Endothelial cell,VWF
+167,Endothelial cell,LYVE1
+168,Endothelial cell,ESM1
+169,Endothelial cell,FLT1
+170,Endothelial cell,EMCN
+171,Eosinophil,CD48
+172,Eosinophil,ICAM1
+173,Eosinophil,CD81
+174,Eosinophil,RNASE3
+175,Neutrophil,LCN2
+176,Monocyte,CD163
+177,Monocyte,BSG
+178,Dendritic cell,CLEC9A
+179,Endothelial cell,RFTN1
+180,Fibroblast,ACTA2
+181,Fibroblast,CD36
+182,Fibroblast,ADGRE5
+183,Fibroblast,DES
+184,Fibroblast,PTPN13
+185,Fibroblast,PDGFRA
+186,Fibroblast,PDGFRB
+187,Fibroblast,VIM
+188,Macrophage,CCL18
+189,Macrophage,CCL2
+190,Macrophage,IL1RN
+191,M1 macrophage,CXCL10
+192,Macrophage,FCGR1A
+193,Macrophage,CD80
+194,Macrophage,RETNLB
+195,Macrophage,ITGAL
+196,Myofibroblast,FN1
+197,T cell,FOXP3
+198,CD8+ T cell,ITGAE
+199,Pulmonary alveolar type II cells,ABCA3
+200,Pulmonary alveolar type II cells,SLC34A2
+201,Airway secretory cell,AQP3
+202,Airway secretory cell,MUC5AC
+203,Airway secretory cell,MUC5B
+204,Airway secretory cell,PIGR
+205,Lung epithelial cell,LPCAT1
+206,Lung epithelial cell,NAPSA
+207,Lung epithelial cell,SFTPB
+208,Lung epithelial cell,SFTPC
+209,Idiopathic pulmonary fibrosis cell,AKT2
+210,Idiopathic pulmonary fibrosis cell,COL1A1
+211,Idiopathic pulmonary fibrosis cell,IL10
+212,Idiopathic pulmonary fibrosis cell,KRT14
+213,Idiopathic pulmonary fibrosis cell,KRT5
+214,Idiopathic pulmonary fibrosis cell,LTBP4
+215,Idiopathic pulmonary fibrosis cell,NGFR
+216,Idiopathic pulmonary fibrosis cell,PLA2G4C
+217,Idiopathic pulmonary fibrosis cell,SLC26A8
+218,Idiopathic pulmonary fibrosis cell,SPDEF
+219,Basal cell,ACKR3
+220,Basal cell,ADH7
+221,Basal cell,ANXA8
+222,Basal cell,ANXA8L1
+223,Basal cell,ARL4D
+224,Basal cell,ATP1B3
+225,Basal cell,BMP7
+226,Basal cell,C10orf99
+227,Basal cell,C16orf74
+228,Basal cell,CAPG
+229,Basal cell,CAV1
+230,Basal cell,CCND2
+231,Basal cell,CD109
+232,Basal cell,CLCA2
+233,Basal cell,CLCA4
+234,Basal cell,CLDN1
+235,Basal cell,COL17A1
+236,Basal cell,CSTA
+237,Basal cell,DAPL1
+238,Basal cell,DSC3
+239,Basal cell,DSG3
+240,Basal cell,DUSP7
+241,Basal cell,FABP5
+242,Basal cell,FABP5P3
+243,Basal cell,FAT2
+244,Basal cell,FBLN1
+245,Basal cell,FGFBP1
+246,Basal cell,GJB3
+247,Basal cell,GLTP
+248,Basal cell,GM2A
+249,Basal cell,GPC1
+250,Basal cell,GPNMB
+251,Basal cell,GPX2
+252,Basal cell,HSPB1
+253,Basal cell,IFI27L2
+254,Basal cell,IGFBP6
+255,Basal cell,IL20RB
+256,Basal cell,ITGA6
+257,Basal cell,JUP
+258,Basal cell,KRT13
+259,Basal cell,KRT15
+260,Basal cell,KRT16
+261,Basal cell,KRT17
+262,Basal cell,KRT4
+263,Basal cell,KRT6A
+264,Basal cell,KRT6B
+265,Basal cell,KRT6C
+266,Basal cell,LAD1
+267,Basal cell,LGALS7
+268,Basal cell,LGALS7B
+269,Basal cell,LOXL4
+270,Basal cell,LY6D
+271,Basal cell,LYPD3
+272,Basal cell,MMP28
+273,Basal cell,MT1X
+274,Basal cell,NOTCH1
+275,Basal cell,NRARP
+276,Basal cell,NXN
+277,Basal cell,PGM2
+278,Basal cell,PHLDA3
+279,Basal cell,PKP1
+280,Basal cell,PKP3
+281,Basal cell,PLAT
+282,Basal cell,PLP2
+283,Basal cell,POLR2J3
+284,Basal cell,PPP1R13L
+285,Basal cell,PTTG1
+286,Basal cell,RAB38
+287,Basal cell,RARG
+288,Basal cell,S100A10
+289,Basal cell,S100A14
+290,Basal cell,S100A16
+291,Basal cell,S100A2
+292,Basal cell,S100A8
+293,Basal cell,SDC1
+294,Basal cell,SERPINB1
+295,Basal cell,SERPINB13
+296,Basal cell,SERPINB2
+297,Basal cell,SERPINB5
+298,Basal cell,SFN
+299,Basal cell,SH3BGRL3
+300,Basal cell,SOX15
+301,Basal cell,SPINK5
+302,Basal cell,SPRR1A
+303,Basal cell,SPRR1B
+304,Basal cell,TIMP1
+305,Basal cell,TMEM43
+306,Basal cell,TNS4
+307,Basal cell,TRIM7
+308,Basal cell,TUBB6
+309,Basal cell,WNT10A
+310,Basal cell,ZNF385A
+311,Basal cell,ZYX
+312,Secretory cell,ALDH1A3
+313,Secretory cell,AMOTL2
+314,Secretory cell,ANPEP
+315,Secretory cell,ANTXR1
+316,Secretory cell,C3
+317,Secretory cell,CA13
+318,Secretory cell,CAPN13
+319,Secretory cell,CD74
+320,Secretory cell,CFB
+321,Secretory cell,CFH
+322,Secretory cell,CILP
+323,Secretory cell,CP
+324,Secretory cell,CPD
+325,Secretory cell,CREB3L1
+326,Secretory cell,CTSC
+327,Secretory cell,CX3CL1
+328,Secretory cell,CXCL1
+329,Secretory cell,CXCL2
+330,Secretory cell,CXCL6
+331,Secretory cell,CXCL8
+332,Secretory cell,CYFIP2
+333,Secretory cell,DTX4
+334,Secretory cell,FNDC3B
+335,Secretory cell,GABRP
+336,Secretory cell,HLA-A
+337,Secretory cell,HLA-DMA
+338,Secretory cell,HLA-DMB
+339,Secretory cell,HLA-DPA1
+340,Secretory cell,HLA-DPB1
+341,Secretory cell,HLA-DQA1
+342,Secretory cell,HLA-DQA2
+343,Secretory cell,HLA-DQB1
+344,Secretory cell,HLA-DRA
+345,Secretory cell,HLA-DRB1
+346,Secretory cell,HLA-DRB5
+347,Secretory cell,HLA-DRB6
+348,Secretory cell,IFITM1
+349,Secretory cell,IFITM3
+350,Secretory cell,IL1R1
+351,Secretory cell,KNCN
+352,Secretory cell,LGALS9
+353,Secretory cell,LYPD2
+354,Secretory cell,MSMB
+355,Secretory cell,NCCRP1
+356,Secretory cell,PDZK1IP1
+357,Secretory cell,PGLYRP4
+358,Secretory cell,PI3
+359,Secretory cell,PITX2
+360,Secretory cell,PLK2
+361,Secretory cell,PODXL
+362,Secretory cell,PPP1R16B
+363,Secretory cell,PRR5L
+364,Secretory cell,PRSS23
+365,Secretory cell,RARRES1
+366,Secretory cell,SCGB3A1
+367,Secretory cell,SERPINA3
+368,Secretory cell,SERPINB7
+369,Secretory cell,SLC26A2
+370,Secretory cell,SLC4A4
+371,Secretory cell,SLC6A14
+372,Secretory cell,SLPI
+373,Secretory cell,STEAP4
+374,Secretory cell,TGM2
+375,Secretory cell,TMEM45A
+376,Secretory cell,UBD
+377,Secretory cell,VGLL1
+378,Secretory cell,VMO1
+379,Secretory cell,XBP1
+380,Secretory cell,ZG16B
+381,Ciliated cell,ACAD11
+382,Ciliated cell,AGBL5
+383,Ciliated cell,AGR3
+384,Ciliated cell,AHSA1
+385,Ciliated cell,AK1
+386,Ciliated cell,AKAP14
+387,Ciliated cell,ALDH3A1
+388,Ciliated cell,ALDH3B1
+389,Ciliated cell,ALDH9A1
+390,Ciliated cell,AMZ2
+391,Ciliated cell,ANG
+392,Ciliated cell,ANKRD37
+393,Ciliated cell,ANKRD65
+394,Ciliated cell,ANKRD66
+395,Ciliated cell,AP3M2
+396,Ciliated cell,APOBEC4
+397,Ciliated cell,APOO
+398,Ciliated cell,ARHGAP39
+399,Ciliated cell,ARL3
+400,Ciliated cell,ODAD2
+401,Ciliated cell,ATF3
+402,Ciliated cell,AZIN1
+403,Ciliated cell,B3GNT7
+404,Ciliated cell,B9D1
+405,Ciliated cell,B9D2
+406,Ciliated cell,BASP1
+407,Ciliated cell,BBS9
+408,Ciliated cell,BSCL2
+409,Ciliated cell,BTBD3
+410,Ciliated cell,C11orf49
+411,Ciliated cell,C11orf52
+412,Ciliated cell,HOATZ
+413,Ciliated cell,C11orf97
+414,Ciliated cell,C12orf75
+415,Ciliated cell,DNAAF8
+416,Ciliated cell,C17orf97
+417,Ciliated cell,CFAP141
+418,Ciliated cell,CFAP276
+419,Ciliated cell,C20orf85
+420,Ciliated cell,C2orf81
+421,Ciliated cell,C4orf3
+422,Ciliated cell,C5orf15
+423,Ciliated cell,C5orf49
+424,Ciliated cell,PIERCE1
+425,Ciliated cell,CFAP95
+426,Ciliated cell,C9orf24
+427,Ciliated cell,CALM1
+428,Ciliated cell,CALML4
+429,Ciliated cell,CAPS
+430,Ciliated cell,CAPSL
+431,Ciliated cell,CARS1
+432,Ciliated cell,DNAI7
+433,Ciliated cell,CAST
+434,Ciliated cell,CBY1
+435,Ciliated cell,CCDC103
+436,Ciliated cell,CCDC170
+437,Ciliated cell,CCDC181
+438,Ciliated cell,CCDC33
+439,Ciliated cell,CCDC60
+440,Ciliated cell,CCDC65
+441,Ciliated cell,CCDC74B
+442,Ciliated cell,CCDC81
+443,Ciliated cell,CCL15
+444,Ciliated cell,CD59
+445,Ciliated cell,CETN2
+446,Ciliated cell,CIB1
+447,Ciliated cell,CKB
+448,Ciliated cell,CST6
+449,Ciliated cell,CTBS
+450,Ciliated cell,CTF1
+451,Ciliated cell,CTSS
+452,Ciliated cell,CTXN1
+453,Ciliated cell,CWH43
+454,Ciliated cell,CYB561A3
+455,Ciliated cell,CYGB
+456,Ciliated cell,CYP4B1
+457,Ciliated cell,CYSTM1
+458,Ciliated cell,DALRD3
+459,Ciliated cell,DAW1
+460,Ciliated cell,DMKN
+461,Ciliated cell,DNAAF3
+462,Ciliated cell,DNAJB2
+463,Ciliated cell,DNAL4
+464,Ciliated cell,DNPH1
+465,Ciliated cell,DPCD
+466,Ciliated cell,DRC1
+467,Ciliated cell,DYNC2LI1
+468,Ciliated cell,DYNLL1
+469,Ciliated cell,DYNLRB2
+470,Ciliated cell,DYNLT1
+471,Ciliated cell,EBNA1BP2
+472,Ciliated cell,EEF2K
+473,Ciliated cell,EFCAB10
+474,Ciliated cell,EFHC2
+475,Ciliated cell,ENDOG
+476,Ciliated cell,ENKUR
+477,Ciliated cell,ENPP5
+478,Ciliated cell,ERF
+479,Ciliated cell,ERICH2
+480,Ciliated cell,ERICH5
+481,Ciliated cell,EZR
+482,Ciliated cell,FAM104B
+483,Ciliated cell,FAM166B
+484,Ciliated cell,FAM174A
+485,Ciliated cell,FAM183A
+486,Ciliated cell,FAM216B
+487,Ciliated cell,FAM229B
+488,Ciliated cell,FAM81B
+489,Ciliated cell,CIBAR2
+490,Ciliated cell,FBXO15
+491,Ciliated cell,FBXW9
+492,Ciliated cell,FOCAD
+493,Ciliated cell,FUZ
+494,Ciliated cell,FXYD3
+495,Ciliated cell,GALC
+496,Ciliated cell,GJA9-MYCBP
+497,Ciliated cell,GPR162
+498,Ciliated cell,GPX4
+499,Ciliated cell,H2AJ
+500,Ciliated cell,HBB
+501,Ciliated cell,HIPK1
+502,Ciliated cell,H1-2
+503,Ciliated cell,H2BC5
+504,Ciliated cell,H2AC18
+505,Ciliated cell,H2AC19
+506,Ciliated cell,HMGN3
+507,Ciliated cell,HNRNPUL2-BSCL2
+508,Ciliated cell,HS3ST6
+509,Ciliated cell,HSP90AA1
+510,Ciliated cell,HSPB2-C11orf52
+511,Ciliated cell,HSPBP1
+512,Ciliated cell,IFI27
+513,Ciliated cell,IFT22
+514,Ciliated cell,IFT43
+515,Ciliated cell,IFT46
+516,Ciliated cell,IFT52
+517,Ciliated cell,IFT57
+518,Ciliated cell,IGFBP7
+519,Ciliated cell,IK
+520,Ciliated cell,INO80B
+521,Ciliated cell,IQCE
+522,Ciliated cell,IQCG
+523,Ciliated cell,IQCH
+524,Ciliated cell,IQCK
+525,Ciliated cell,ISCA2
+526,Ciliated cell,JOSD2
+527,Ciliated cell,KCNE1
+528,Ciliated cell,KCNRG
+529,Ciliated cell,KIF19
+530,Ciliated cell,KIF9
+531,Ciliated cell,KLHDC9
+532,Ciliated cell,KLHL13
+533,Ciliated cell,LAP3
+534,Ciliated cell,LOC388780
+535,Ciliated cell,LOC728392
+536,Ciliated cell,LRRC10B
+537,Ciliated cell,LRRC23
+538,Ciliated cell,LRRC34
+539,Ciliated cell,LRRC45
+540,Ciliated cell,LRRC46
+541,Ciliated cell,DNAAF11
+542,Ciliated cell,LRRC73
+543,Ciliated cell,LRWD1
+544,Ciliated cell,LXN
+545,Ciliated cell,LYPLA2
+546,Ciliated cell,LYPLA2P2
+547,Ciliated cell,MAPK8IP1
+548,Ciliated cell,MAPRE3
+549,Ciliated cell,MGMT
+550,Ciliated cell,MIA
+551,Ciliated cell,MLF1
+552,Ciliated cell,MORN2
+553,Ciliated cell,MORN5
+554,Ciliated cell,MSRB1
+555,Ciliated cell,MYCBP
+556,Ciliated cell,NAT14
+557,Ciliated cell,NHLRC4
+558,Ciliated cell,NME5
+559,Ciliated cell,NME7
+560,Ciliated cell,NPHP3-ACAD11
+561,Ciliated cell,NQO1
+562,Ciliated cell,NSMCE1
+563,Ciliated cell,ODF3B
+564,Ciliated cell,ORMDL2
+565,Ciliated cell,PACRG
+566,Ciliated cell,PAIP2
+567,Ciliated cell,PIFO
+568,Ciliated cell,PIH1D2
+569,Ciliated cell,DNAAF6
+570,Ciliated cell,PITPNM1
+571,Ciliated cell,PLAC8
+572,Ciliated cell,PLEKHB1
+573,Ciliated cell,PNMA1
+574,Ciliated cell,POLR2I
+575,Ciliated cell,PPIL6
+576,Ciliated cell,PPP1R14C
+577,Ciliated cell,PPP1R7
+578,Ciliated cell,PRDX1
+579,Ciliated cell,PRDX5
+580,Ciliated cell,PRKAR1A
+581,Ciliated cell,PRPS1
+582,Ciliated cell,PSCA
+583,Ciliated cell,PSENEN
+584,Ciliated cell,PSMB10
+585,Ciliated cell,RBKS
+586,Ciliated cell,RHPN2
+587,Ciliated cell,RIIAD1
+588,Ciliated cell,RITA1
+589,Ciliated cell,ROPN1L
+590,Ciliated cell,RPA3
+591,Ciliated cell,RRAD
+592,Ciliated cell,RRAGA
+593,Ciliated cell,RSPH1
+594,Ciliated cell,RSPH4A
+595,Ciliated cell,RTP4
+596,Ciliated cell,RUVBL1
+597,Ciliated cell,RUVBL2
+598,Ciliated cell,SAA2
+599,Ciliated cell,SAA2-SAA4
+600,Ciliated cell,SAA3P
+601,Ciliated cell,SAA4
+602,Ciliated cell,SCGB2A1
+603,Ciliated cell,SDHC
+604,Ciliated cell,SLAIN2
+605,Ciliated cell,SMIM22
+606,Ciliated cell,SMYD2
+607,Ciliated cell,SNTN
+608,Ciliated cell,SOD1
+609,Ciliated cell,SPA17
+610,Ciliated cell,SPAG16
+611,Ciliated cell,SPAG6
+612,Ciliated cell,SPC25
+613,Ciliated cell,SRI
+614,Ciliated cell,SSB
+615,Ciliated cell,STMND1
+616,Ciliated cell,STOML3
+617,Ciliated cell,STX2
+618,Ciliated cell,STYXL1
+619,Ciliated cell,DYNLT2B
+620,Ciliated cell,DYNLT4
+621,Ciliated cell,TCTN1
+622,Ciliated cell,TEKT1
+623,Ciliated cell,TM4SF19-DYNLT2B
+624,Ciliated cell,TM9SF1
+625,Ciliated cell,TMEM107
+626,Ciliated cell,TMEM190
+627,Ciliated cell,TMEM231
+628,Ciliated cell,TMEM254
+629,Ciliated cell,TOMM34
+630,Ciliated cell,TP53TG1
+631,Ciliated cell,TPPP
+632,Ciliated cell,TPPP3
+633,Ciliated cell,TRIM32
+634,Ciliated cell,TSPAN1
+635,Ciliated cell,TSPAN19
+636,Ciliated cell,TSTD1
+637,Ciliated cell,ODAD4
+638,Ciliated cell,TUBA1A
+639,Ciliated cell,TUBA4B
+640,Ciliated cell,TUBB4B
+641,Ciliated cell,UCP2
+642,Ciliated cell,UFC1
+643,Ciliated cell,UGDH
+644,Ciliated cell,ULK4
+645,Ciliated cell,UNC119B
+646,Ciliated cell,VRK3
+647,Ciliated cell,VWA3B
+648,Ciliated cell,VWA5A
+649,Ciliated cell,WDR38
+650,Ciliated cell,WDR54
+651,Ciliated cell,CFAP251
+652,Ciliated cell,DNAI4
+653,Ciliated cell,WDR86-AS1
+654,Ciliated cell,ZBED5-AS1
+655,Ciliated cell,ZDHHC1
+656,Ciliated cell,ZMYND12
+657,Ciliated cell,ZNF688
+658,Ciliated cell,ZNHIT2
+659,Brush cell (Tuft cell),ACADSB
+660,Brush cell (Tuft cell),ACSL4
+661,Brush cell (Tuft cell),ADA
+662,Brush cell (Tuft cell),ADAM10
+663,Brush cell (Tuft cell),AEN
+664,Brush cell (Tuft cell),AFAP1
+665,Brush cell (Tuft cell),AHCY
+666,Brush cell (Tuft cell),ALPL
+667,Brush cell (Tuft cell),ANXA1
+668,Brush cell (Tuft cell),ANXA4
+669,Brush cell (Tuft cell),ASCL1
+670,Brush cell (Tuft cell),ASCL2
+671,Brush cell (Tuft cell),ATP11C
+672,Brush cell (Tuft cell),AZGP1
+673,Brush cell (Tuft cell),CCNJ
+674,Brush cell (Tuft cell),COLCA2
+675,Brush cell (Tuft cell),CPE
+676,Brush cell (Tuft cell),CRYM
+677,Brush cell (Tuft cell),DIP2B
+678,Brush cell (Tuft cell),EPB41L4A-AS1
+679,Brush cell (Tuft cell),FAM117B
+680,Brush cell (Tuft cell),FBRSL1
+681,Brush cell (Tuft cell),FGF1
+682,Brush cell (Tuft cell),FMNL2
+683,Brush cell (Tuft cell),FOXK2
+684,Brush cell (Tuft cell),FRAT2
+685,Brush cell (Tuft cell),GRAMD1A
+686,Brush cell (Tuft cell),GYS2
+687,Brush cell (Tuft cell),HDAC2
+688,Brush cell (Tuft cell),HES6
+689,Brush cell (Tuft cell),HOMER3
+690,Brush cell (Tuft cell),HOTAIRM1
+691,Brush cell (Tuft cell),HOXA1
+692,Brush cell (Tuft cell),HSPD1
+693,Brush cell (Tuft cell),ID2
+694,Brush cell (Tuft cell),IL1B
+695,Brush cell (Tuft cell),IL23A
+696,Brush cell (Tuft cell),INPP5B
+697,Brush cell (Tuft cell),KCNN3
+698,Brush cell (Tuft cell),KDM6B
+699,Brush cell (Tuft cell),KYNU
+700,Brush cell (Tuft cell),LFNG
+701,Brush cell (Tuft cell),AQP5-AS1
+702,Brush cell (Tuft cell),IRAG2
+703,Brush cell (Tuft cell),MAFF
+704,Brush cell (Tuft cell),MIAT
+705,Brush cell (Tuft cell),MLLT11
+706,Brush cell (Tuft cell),NAV1
+707,Brush cell (Tuft cell),NDC1
+708,Brush cell (Tuft cell),NFATC3
+709,Brush cell (Tuft cell),NIFK
+710,Brush cell (Tuft cell),NIP7
+711,Brush cell (Tuft cell),NKX3-1
+712,Brush cell (Tuft cell),NONO
+713,Brush cell (Tuft cell),NOS2
+714,Brush cell (Tuft cell),NREP
+715,Brush cell (Tuft cell),ODC1
+716,Brush cell (Tuft cell),PDXP
+717,Brush cell (Tuft cell),POU2F3
+718,Brush cell (Tuft cell),PPP1R14B
+719,Brush cell (Tuft cell),PRDM1
+720,Brush cell (Tuft cell),RAD51L3-RFFL
+721,Brush cell (Tuft cell),RAPGEF5
+722,Brush cell (Tuft cell),RASSF6
+723,Brush cell (Tuft cell),RCOR1
+724,Brush cell (Tuft cell),RFFL
+725,Brush cell (Tuft cell),RNF183
+726,Brush cell (Tuft cell),RTCB
+727,Brush cell (Tuft cell),SH3BP4
+728,Brush cell (Tuft cell),SKAP2
+729,Brush cell (Tuft cell),SLC16A1
+730,Brush cell (Tuft cell),SNHG1
+731,Brush cell (Tuft cell),SORL1
+732,Brush cell (Tuft cell),SOX4
+733,Brush cell (Tuft cell),SPTSSB
+734,Brush cell (Tuft cell),TMEM185B
+735,Brush cell (Tuft cell),TOMM20
+736,Brush cell (Tuft cell),TSN
+737,Brush cell (Tuft cell),TUBB2B
+738,Brush cell (Tuft cell),TUBB3
+739,Brush cell (Tuft cell),XPO5
+740,Brush cell (Tuft cell),YBX1
+741,Ionocyte cell,ACADS
+742,Ionocyte cell,ACP1
+743,Ionocyte cell,ACSL1
+744,Ionocyte cell,ACVR1
+745,Ionocyte cell,ADM
+746,Ionocyte cell,AGPAT2
+747,Ionocyte cell,AIFM1
+748,Ionocyte cell,AKAP7
+749,Ionocyte cell,AKIP1
+750,Ionocyte cell,AKIRIN1
+751,Ionocyte cell,AKR1B1
+752,Ionocyte cell,AMACR
+753,Ionocyte cell,ANGEL2
+754,Ionocyte cell,ANK2
+755,Ionocyte cell,ANKRD6
+756,Ionocyte cell,ANKRD9
+757,Ionocyte cell,APLP2
+758,Ionocyte cell,APP
+759,Ionocyte cell,ARL4A
+760,Ionocyte cell,ARL6IP5
+761,Ionocyte cell,ASCL3
+762,Ionocyte cell,ATL2
+763,Ionocyte cell,ATP11A
+764,Ionocyte cell,ATP1A1
+765,Ionocyte cell,ATP6V0A4
+766,Ionocyte cell,ATP6V0B
+767,Ionocyte cell,ATP6V0C
+768,Ionocyte cell,ATP6V0CP3
+769,Ionocyte cell,ATP6V0D2
+770,Ionocyte cell,ATP6V1A
+771,Ionocyte cell,ATP6V1B1
+772,Ionocyte cell,ATP6V1C2
+773,Ionocyte cell,ATP6V1F
+774,Ionocyte cell,ATP6V1G3
+775,Ionocyte cell,ATP7A
+776,Ionocyte cell,AXIN1
+777,Ionocyte cell,BCL2
+778,Ionocyte cell,BCOR
+779,Ionocyte cell,BCR
+780,Ionocyte cell,BFAR
+781,Ionocyte cell,BIK
+782,Ionocyte cell,BMF
+783,Ionocyte cell,BPIFA2
+784,Ionocyte cell,BRPF1
+785,Ionocyte cell,BSND
+786,Ionocyte cell,C11orf68
+787,Ionocyte cell,C1D
+788,Ionocyte cell,C1QTNF3-AMACR
+789,Ionocyte cell,C9orf152
+790,Ionocyte cell,CA12
+791,Ionocyte cell,CALML3
+792,Ionocyte cell,CAMK2B
+793,Ionocyte cell,CBR3
+794,Ionocyte cell,CCDC107
+795,Ionocyte cell,CCDC85C
+796,Ionocyte cell,CCNJL
+797,Ionocyte cell,CD164
+798,Ionocyte cell,CDA
+799,Ionocyte cell,CDKN1B
+800,Ionocyte cell,CELF2
+801,Ionocyte cell,CFTR
+802,Ionocyte cell,CGNL1
+803,Ionocyte cell,CHST15
+804,Ionocyte cell,CLCN3
+805,Ionocyte cell,CLCNKA
+806,Ionocyte cell,CLCNKB
+807,Ionocyte cell,CLGN
+808,Ionocyte cell,CMAHP
+809,Ionocyte cell,CNN3
+810,Ionocyte cell,CORO7
+811,Ionocyte cell,COX5B
+812,Ionocyte cell,COX6B2
+813,Ionocyte cell,COX7B
+814,Ionocyte cell,CSPG5
+815,Ionocyte cell,CYP51A1
+816,Ionocyte cell,DARS1
+817,Ionocyte cell,DDAH2
+818,Ionocyte cell,DHRS7
+819,Ionocyte cell,DMRT2
+820,Ionocyte cell,DOCK11
+821,Ionocyte cell,DOCK4
+822,Ionocyte cell,DOCK6
+823,Ionocyte cell,DUSP6
+824,Ionocyte cell,EFHD1
+825,Ionocyte cell,EIF2AK3
+826,Ionocyte cell,EIF4E2
+827,Ionocyte cell,ETS1
+828,Ionocyte cell,FAM114A1
+829,Ionocyte cell,FAM120AOS
+830,Ionocyte cell,FAM174B
+831,Ionocyte cell,FAM210B
+832,Ionocyte cell,FAM43A
+833,Ionocyte cell,FAM89B
+834,Ionocyte cell,FASTKD2
+835,Ionocyte cell,FBXO32
+836,Ionocyte cell,CEP20
+837,Ionocyte cell,FOXI1
+838,Ionocyte cell,FOXP1
+839,Ionocyte cell,FRYL
+840,Ionocyte cell,FXYD2
+841,Ionocyte cell,FXYD6
+842,Ionocyte cell,FXYD6-FXYD2
+843,Ionocyte cell,GABARAPL1
+844,Ionocyte cell,GADD45G
+845,Ionocyte cell,GLIDR
+846,Ionocyte cell,GNA11
+847,Ionocyte cell,GOLM1
+848,Ionocyte cell,GPD1L
+849,Ionocyte cell,GPR160
+850,Ionocyte cell,GPRC5B
+851,Ionocyte cell,GRPEL2
+852,Ionocyte cell,GYG1
+853,Ionocyte cell,H1-0
+854,Ionocyte cell,H3-3B
+855,Ionocyte cell,HDAC4
+856,Ionocyte cell,HEPACAM2
+857,Ionocyte cell,HILPDA
+858,Ionocyte cell,HPCAL1
+859,Ionocyte cell,ID3
+860,Ionocyte cell,ID4
+861,Ionocyte cell,IGF1
+862,Ionocyte cell,IGFBP5
+863,Ionocyte cell,IMPA2
+864,Ionocyte cell,INO80
+865,Ionocyte cell,INPPL1
+866,Ionocyte cell,IQGAP2
+867,Ionocyte cell,IRF2BPL
+868,Ionocyte cell,ITPKB
+869,Ionocyte cell,ITPR2
+870,Ionocyte cell,JADE1
+871,Ionocyte cell,JAM3
+872,Ionocyte cell,KCNH1
+873,Ionocyte cell,KCNMA1
+874,Ionocyte cell,KHDRBS3
+875,Ionocyte cell,KIDINS220
+876,Ionocyte cell,KLC1
+877,Ionocyte cell,KLHL23
+878,Ionocyte cell,KRT7
+879,Ionocyte cell,KRT80
+880,Ionocyte cell,LBH
+881,Ionocyte cell,LEF1
+882,Ionocyte cell,LGR4
+883,Ionocyte cell,LIMA1
+884,Ionocyte cell,LINC01187
+885,Ionocyte cell,LRRC42
+886,Ionocyte cell,LTBP2
+887,Ionocyte cell,MAF
+888,Ionocyte cell,MAN2A1
+889,Ionocyte cell,MAOA
+890,Ionocyte cell,MEF2D
+891,Ionocyte cell,MEGF9
+892,Ionocyte cell,MGAT5
+893,Ionocyte cell,MIEF1
+894,Ionocyte cell,MPC1
+895,Ionocyte cell,MRFAP1L1
+896,Ionocyte cell,MRPL34
+897,Ionocyte cell,MRPS26
+898,Ionocyte cell,MTHFD1L
+899,Ionocyte cell,MYO6
+900,Ionocyte cell,NCALD
+901,Ionocyte cell,NCKAP5
+902,Ionocyte cell,NDST1
+903,Ionocyte cell,NDUFA4
+904,Ionocyte cell,NEDD4L
+905,Ionocyte cell,NEURL1
+906,Ionocyte cell,NRIP3
+907,Ionocyte cell,NT5C
+908,Ionocyte cell,NT5DC3
+909,Ionocyte cell,NUDT16L1
+910,Ionocyte cell,OSBPL1A
+911,Ionocyte cell,PALM2AKAP2
+912,Ionocyte cell,PCBP4
+913,Ionocyte cell,PDE1C
+914,Ionocyte cell,PDK3
+915,Ionocyte cell,PHB1
+916,Ionocyte cell,PHF23
+917,Ionocyte cell,PHOSPHO2-KLHL23
+918,Ionocyte cell,PI4KB
+919,Ionocyte cell,PKIB
+920,Ionocyte cell,PLCB4
+921,Ionocyte cell,PLCG2
+922,Ionocyte cell,PLEKHF2
+923,Ionocyte cell,PLEKHG3
+924,Ionocyte cell,PLXDC2
+925,Ionocyte cell,POSTN
+926,Ionocyte cell,PPARGC1A
+927,Ionocyte cell,PPP1R12B
+928,Ionocyte cell,PPP1R18
+929,Ionocyte cell,PPP2CA
+930,Ionocyte cell,PPP2R3A
+931,Ionocyte cell,PRDM4
+932,Ionocyte cell,PRKAG2
+933,Ionocyte cell,PRPF38A
+934,Ionocyte cell,PSD3
+935,Ionocyte cell,PSEN2
+936,Ionocyte cell,PTAFR
+937,Ionocyte cell,PTGFRN
+938,Ionocyte cell,PTK2
+939,Ionocyte cell,PXDN
+940,Ionocyte cell,PYGB
+941,Ionocyte cell,PYGO2
+942,Ionocyte cell,QSOX1
+943,Ionocyte cell,RAB37
+944,Ionocyte cell,RAD51C
+945,Ionocyte cell,RALA
+946,Ionocyte cell,RARRES2
+947,Ionocyte cell,RBMXL1
+948,Ionocyte cell,RCAN2
+949,Ionocyte cell,RECQL
+950,Ionocyte cell,REPIN1
+951,Ionocyte cell,RERG
+952,Ionocyte cell,RET
+953,Ionocyte cell,RFK
+954,Ionocyte cell,RGMA
+955,Ionocyte cell,RNF34
+956,Ionocyte cell,RPS6KC1
+957,Ionocyte cell,RRM2B
+958,Ionocyte cell,SAV1
+959,Ionocyte cell,SC5D
+960,Ionocyte cell,SCARB2
+961,Ionocyte cell,SCG2
+962,Ionocyte cell,SCNN1B
+963,Ionocyte cell,SDC2
+964,Ionocyte cell,SEC11C
+965,Ionocyte cell,SEC23B
+966,Ionocyte cell,SEMA3C
+967,Ionocyte cell,SERTAD4-AS1
+968,Ionocyte cell,SH3GLB1
+969,Ionocyte cell,SHISA2
+970,Ionocyte cell,SIRT2
+971,Ionocyte cell,SLC12A2
+972,Ionocyte cell,SLC14A1
+973,Ionocyte cell,SLC25A23
+974,Ionocyte cell,SLC29A1
+975,Ionocyte cell,SLC2A12
+976,Ionocyte cell,SLC35F3
+977,Ionocyte cell,SLC9A7
+978,Ionocyte cell,SMAP1
+979,Ionocyte cell,SMARCB1
+980,Ionocyte cell,SMOC1
+981,Ionocyte cell,SNTB1
+982,Ionocyte cell,SP110
+983,Ionocyte cell,ST14
+984,Ionocyte cell,STAC2
+985,Ionocyte cell,STAP1
+986,Ionocyte cell,SUCLG1
+987,Ionocyte cell,SULT1C2
+988,Ionocyte cell,SVIL
+989,Ionocyte cell,SYT7
+990,Ionocyte cell,TBC1D1
+991,Ionocyte cell,TBC1D14
+992,Ionocyte cell,TBC1D2B
+993,Ionocyte cell,TBC1D4
+994,Ionocyte cell,TBC1D9
+995,Ionocyte cell,TFCP2L1
+996,Ionocyte cell,TFG
+997,Ionocyte cell,TFPI
+998,Ionocyte cell,TGFB3
+999,Ionocyte cell,TGFBR2
+1000,Ionocyte cell,THBS1
+1001,Ionocyte cell,TMEM160
+1002,Ionocyte cell,TMEM51
+1003,Ionocyte cell,TMEM61
+1004,Ionocyte cell,TMPRSS11E
+1005,Ionocyte cell,TMPRSS13
+1006,Ionocyte cell,TMSB4X
+1007,Ionocyte cell,TMTC3
+1008,Ionocyte cell,TMUB1
+1009,Ionocyte cell,TPD52
+1010,Ionocyte cell,TPM1
+1011,Ionocyte cell,TRIM47
+1012,Ionocyte cell,TRIM8
+1013,Ionocyte cell,TSPAN14
+1014,Ionocyte cell,TWSG1
+1015,Ionocyte cell,UBE2MP1
+1016,Ionocyte cell,UBXN2B
+1017,Ionocyte cell,UHRF1BP1L
+1018,Ionocyte cell,UNC5B-AS1
+1019,Ionocyte cell,USF2
+1020,Ionocyte cell,USP53
+1021,Ionocyte cell,UST
+1022,Ionocyte cell,VBP1
+1023,Ionocyte cell,VEGFB
+1024,Ionocyte cell,VGLL4
+1025,Ionocyte cell,WDR1
+1026,Ionocyte cell,WLS
+1027,Ionocyte cell,YTHDC1
+1028,Ionocyte cell,ZDHHC3
+1029,Ionocyte cell,ZNF410
+1030,Ionocyte cell,ZNF493
+1031,Ionocyte cell,ZNF704
+1032,FOXN4+ cell,ACTL6A
+1033,FOXN4+ cell,ACTN1
+1034,FOXN4+ cell,ADAM15
+1035,FOXN4+ cell,ALDOA
+1036,FOXN4+ cell,AMD1
+1037,FOXN4+ cell,ARL4C
+1038,FOXN4+ cell,ARNTL2
+1039,FOXN4+ cell,BAMBI
+1040,FOXN4+ cell,BTG3
+1041,FOXN4+ cell,CARHSP1
+1042,FOXN4+ cell,CASP3
+1043,FOXN4+ cell,CCNO
+1044,FOXN4+ cell,CDC20B
+1045,FOXN4+ cell,CDK1
+1046,FOXN4+ cell,CDK2AP2
+1047,FOXN4+ cell,CDKN2A
+1048,FOXN4+ cell,CDT1
+1049,FOXN4+ cell,CENPM
+1050,FOXN4+ cell,CHCHD2
+1051,FOXN4+ cell,CHORDC1
+1052,FOXN4+ cell,DBF4
+1053,FOXN4+ cell,DGCR6
+1054,FOXN4+ cell,DHFR
+1055,FOXN4+ cell,DPY19L1
+1056,FOXN4+ cell,E2F7
+1057,FOXN4+ cell,E2F8
+1058,FOXN4+ cell,EIF2S2
+1059,FOXN4+ cell,ENO1
+1060,FOXN4+ cell,FOXJ1
+1061,FOXN4+ cell,FOXN4
+1062,FOXN4+ cell,GADD45B
+1063,FOXN4+ cell,GGH
+1064,FOXN4+ cell,GSKIP
+1065,FOXN4+ cell,HELLS
+1066,FOXN4+ cell,HYLS1
+1067,FOXN4+ cell,INSIG1
+1068,FOXN4+ cell,ISYNA1
+1069,FOXN4+ cell,KIAA0895
+1070,FOXN4+ cell,LAYN
+1071,FOXN4+ cell,LCK
+1072,FOXN4+ cell,LRRC26
+1073,FOXN4+ cell,LYZ
+1074,FOXN4+ cell,MAZ
+1075,FOXN4+ cell,MCIDAS
+1076,FOXN4+ cell,MYCL
+1077,FOXN4+ cell,NEK2
+1078,FOXN4+ cell,NETO2
+1079,FOXN4+ cell,NOP16
+1080,FOXN4+ cell,OAT
+1081,FOXN4+ cell,PAQR4
+1082,FOXN4+ cell,PCSK6
+1083,FOXN4+ cell,PIGW
+1084,FOXN4+ cell,PLK4
+1085,FOXN4+ cell,POLR2L
+1086,FOXN4+ cell,PPM1G
+1087,FOXN4+ cell,PRPS2
+1088,FOXN4+ cell,PSIP1
+1089,FOXN4+ cell,PSMC3
+1090,FOXN4+ cell,PTGES3
+1091,FOXN4+ cell,PTMA
+1092,FOXN4+ cell,RANBP1
+1093,FOXN4+ cell,RB1
+1094,FOXN4+ cell,RCC2
+1095,FOXN4+ cell,RTTN
+1096,FOXN4+ cell,SLFN11
+1097,FOXN4+ cell,SNRPG
+1098,FOXN4+ cell,STIL
+1099,FOXN4+ cell,TACC1
+1100,FOXN4+ cell,TAF11
+1101,FOXN4+ cell,TCF19
+1102,FOXN4+ cell,TM7SF3
+1103,FOXN4+ cell,TMEM106C
+1104,FOXN4+ cell,TTC30A
+1105,FOXN4+ cell,TYMS
+1106,FOXN4+ cell,UBE2T
+1107,FOXN4+ cell,USP13
+1108,FOXN4+ cell,WDR61
+1109,FOXN4+ cell,YWHAH
+1110,SLC16A7+ cell,AAK1
+1111,SLC16A7+ cell,AARD
+1112,SLC16A7+ cell,AASDH
+1113,SLC16A7+ cell,ABCA13
+1114,SLC16A7+ cell,ABCA5
+1115,SLC16A7+ cell,ABCA9
+1116,SLC16A7+ cell,ABCC13
+1117,SLC16A7+ cell,ABCC6
+1118,SLC16A7+ cell,ABCC9
+1119,SLC16A7+ cell,ABCF3
+1120,SLC16A7+ cell,ABHD15
+1121,SLC16A7+ cell,ABI2
+1122,SLC16A7+ cell,ABL2
+1123,SLC16A7+ cell,ACBD7
+1124,SLC16A7+ cell,ACER3
+1125,SLC16A7+ cell,ACIN1
+1126,SLC16A7+ cell,ACKR4
+1127,SLC16A7+ cell,ACSL6
+1128,SLC16A7+ cell,ACSS3
+1129,SLC16A7+ cell,ADAM17
+1130,SLC16A7+ cell,ADAMTS2
+1131,SLC16A7+ cell,ADAR
+1132,SLC16A7+ cell,ADAT1
+1133,SLC16A7+ cell,ADCY1
+1134,SLC16A7+ cell,ADGB
+1135,SLC16A7+ cell,ADPRS
+1136,SLC16A7+ cell,AGAP6
+1137,SLC16A7+ cell,AGBL2
+1138,SLC16A7+ cell,AGER
+1139,SLC16A7+ cell,AGMAT
+1140,SLC16A7+ cell,AIPL1
+1141,SLC16A7+ cell,AIRE
+1142,SLC16A7+ cell,AK3
+1143,SLC16A7+ cell,AKAP8
+1144,SLC16A7+ cell,AKAP9
+1145,SLC16A7+ cell,AKR1D1
+1146,SLC16A7+ cell,ALG1
+1147,SLC16A7+ cell,ALKBH4
+1148,SLC16A7+ cell,ALPK1
+1149,SLC16A7+ cell,ALS2
+1150,SLC16A7+ cell,ANAPC4
+1151,SLC16A7+ cell,ANGPT2
+1152,SLC16A7+ cell,ANKIB1
+1153,SLC16A7+ cell,ANKK1
+1154,SLC16A7+ cell,ANKLE1
+1155,SLC16A7+ cell,ANKRD11
+1156,SLC16A7+ cell,ANKRD16
+1157,SLC16A7+ cell,ANKRD18A
+1158,SLC16A7+ cell,ANKRD20A9P
+1159,SLC16A7+ cell,ANKRD30BP2
+1160,SLC16A7+ cell,ANKRD36
+1161,SLC16A7+ cell,ANKRD36B
+1162,SLC16A7+ cell,ANKRD45
+1163,SLC16A7+ cell,ANKRD62
+1164,SLC16A7+ cell,ANKS6
+1165,SLC16A7+ cell,ANP32A-IT1
+1166,SLC16A7+ cell,AOC4P
+1167,SLC16A7+ cell,AP1S3
+1168,SLC16A7+ cell,AP4B1-AS1
+1169,SLC16A7+ cell,AP4S1
+1170,SLC16A7+ cell,AP5B1
+1171,SLC16A7+ cell,APOC1P1
+1172,SLC16A7+ cell,APOL6
+1173,SLC16A7+ cell,ARAP1
+1174,SLC16A7+ cell,ARFIP2
+1175,SLC16A7+ cell,ARGFX
+1176,SLC16A7+ cell,ARGLU1
+1177,SLC16A7+ cell,ARHGAP32
+1178,SLC16A7+ cell,ARHGAP8
+1179,SLC16A7+ cell,ARHGEF26-AS1
+1180,SLC16A7+ cell,ARHGEF4
+1181,SLC16A7+ cell,ARID4B
+1182,SLC16A7+ cell,ARIH2OS
+1183,SLC16A7+ cell,ARL11
+1184,SLC16A7+ cell,ARL16
+1185,SLC16A7+ cell,ARL17A
+1186,SLC16A7+ cell,ARMC9
+1187,SLC16A7+ cell,ARPC4-TTLL3
+1188,SLC16A7+ cell,ARRDC3-AS1
+1189,SLC16A7+ cell,ASB11
+1190,SLC16A7+ cell,ASB16-AS1
+1191,SLC16A7+ cell,ATAD3C
+1192,SLC16A7+ cell,ATCAY
+1193,SLC16A7+ cell,ATG14
+1194,SLC16A7+ cell,ATG16L2
+1195,SLC16A7+ cell,ATM
+1196,SLC16A7+ cell,ATP8B4
+1197,SLC16A7+ cell,ATR
+1198,SLC16A7+ cell,ATRN
+1199,SLC16A7+ cell,B3GNT6
+1200,SLC16A7+ cell,BCL2L15
+1201,SLC16A7+ cell,BEST4
+1202,SLC16A7+ cell,BHMT2
+1203,SLC16A7+ cell,BIN3
+1204,SLC16A7+ cell,BIN3-IT1
+1205,SLC16A7+ cell,BIRC6
+1206,SLC16A7+ cell,BIVM
+1207,SLC16A7+ cell,BLZF1
+1208,SLC16A7+ cell,BMPR2
+1209,SLC16A7+ cell,BRIP1
+1210,SLC16A7+ cell,BTAF1
+1211,SLC16A7+ cell,BTBD7
+1212,SLC16A7+ cell,BTBD9
+1213,SLC16A7+ cell,BTD
+1214,SLC16A7+ cell,BTN2A3P
+1215,SLC16A7+ cell,BTN3A2
+1216,SLC16A7+ cell,C14orf132
+1217,SLC16A7+ cell,C15orf40
+1218,SLC16A7+ cell,C17orf75
+1219,SLC16A7+ cell,C18orf61
+1220,SLC16A7+ cell,C1QTNF2
+1221,SLC16A7+ cell,C21orf58
+1222,SLC16A7+ cell,C21orf62
+1223,SLC16A7+ cell,C2orf15
+1224,SLC16A7+ cell,LINC02898
+1225,SLC16A7+ cell,C3orf62
+1226,SLC16A7+ cell,C4orf19
+1227,SLC16A7+ cell,C4orf47
+1228,SLC16A7+ cell,C5AR1
+1229,SLC16A7+ cell,LINC02902
+1230,SLC16A7+ cell,LINC02904
+1231,SLC16A7+ cell,C8orf44
+1232,SLC16A7+ cell,C8orf44-SGK3
+1233,SLC16A7+ cell,LINC02908
+1234,SLC16A7+ cell,CABP4
+1235,SLC16A7+ cell,CACNG8
+1236,SLC16A7+ cell,CAMK1D
+1237,SLC16A7+ cell,CAPRIN2
+1238,SLC16A7+ cell,CAPS2
+1239,SLC16A7+ cell,CARF
+1240,SLC16A7+ cell,CASD1
+1241,SLC16A7+ cell,CATSPER2P1
+1242,SLC16A7+ cell,CCAR1
+1243,SLC16A7+ cell,CCBE1
+1244,SLC16A7+ cell,ODAD1
+1245,SLC16A7+ cell,CCDC125
+1246,SLC16A7+ cell,CCDC142
+1247,SLC16A7+ cell,CCDC144B
+1248,SLC16A7+ cell,CCDC30
+1249,SLC16A7+ cell,CCDC40
+1250,SLC16A7+ cell,CCDC66
+1251,SLC16A7+ cell,CENATAC
+1252,SLC16A7+ cell,CCDC88C
+1253,SLC16A7+ cell,CCL5
+1254,SLC16A7+ cell,CCNL1
+1255,SLC16A7+ cell,CCNL2
+1256,SLC16A7+ cell,POLR1G
+1257,SLC16A7+ cell,CD82
+1258,SLC16A7+ cell,CD84
+1259,SLC16A7+ cell,CD96
+1260,SLC16A7+ cell,CDC14B
+1261,SLC16A7+ cell,CDH23
+1262,SLC16A7+ cell,CDHR3
+1263,SLC16A7+ cell,CDK5RAP1
+1264,SLC16A7+ cell,CDK5RAP3
+1265,SLC16A7+ cell,CDKN2B-AS1
+1266,SLC16A7+ cell,CEACAM22P
+1267,SLC16A7+ cell,CEP104
+1268,SLC16A7+ cell,CEP162
+1269,SLC16A7+ cell,CEP164
+1270,SLC16A7+ cell,CEP19
+1271,SLC16A7+ cell,CEP290
+1272,SLC16A7+ cell,CEP85L
+1273,SLC16A7+ cell,CERS5
+1274,SLC16A7+ cell,CFD
+1275,SLC16A7+ cell,CFLAR
+1276,SLC16A7+ cell,CHDH
+1277,SLC16A7+ cell,CHRNB1
+1278,SLC16A7+ cell,CHST12
+1279,SLC16A7+ cell,CHST5
+1280,SLC16A7+ cell,CHURC1
+1281,SLC16A7+ cell,CLASRP
+1282,SLC16A7+ cell,CLDN16
+1283,SLC16A7+ cell,CLDN19
+1284,SLC16A7+ cell,CLEC4GP1
+1285,SLC16A7+ cell,CLHC1
+1286,SLC16A7+ cell,CLK1
+1287,SLC16A7+ cell,CLK4
+1288,SLC16A7+ cell,CLMN
+1289,SLC16A7+ cell,CLMP
+1290,SLC16A7+ cell,CLN8
+1291,SLC16A7+ cell,CLUAP1
+1292,SLC16A7+ cell,CMBL
+1293,SLC16A7+ cell,CNTN3
+1294,SLC16A7+ cell,CNTRL
+1295,SLC16A7+ cell,CNTROB
+1296,SLC16A7+ cell,COA7
+1297,SLC16A7+ cell,COL21A1
+1298,SLC16A7+ cell,COL7A1
+1299,SLC16A7+ cell,COMMD2
+1300,SLC16A7+ cell,COX18
+1301,SLC16A7+ cell,COX19
+1302,SLC16A7+ cell,CPT2
+1303,SLC16A7+ cell,CREBZF
+1304,SLC16A7+ cell,CROCC
+1305,SLC16A7+ cell,CRX
+1306,SLC16A7+ cell,CSAD
+1307,SLC16A7+ cell,CSRP3
+1308,SLC16A7+ cell,CSTF3
+1309,SLC16A7+ cell,CTBP1-AS
+1310,SLC16A7+ cell,CTH
+1311,SLC16A7+ cell,CTNS
+1312,SLC16A7+ cell,CUL9
+1313,SLC16A7+ cell,CWC25
+1314,SLC16A7+ cell,CXCR2
+1315,SLC16A7+ cell,TASL
+1316,SLC16A7+ cell,CYB561
+1317,SLC16A7+ cell,CYB5D2
+1318,SLC16A7+ cell,CYB5RL
+1319,SLC16A7+ cell,CYP20A1
+1320,SLC16A7+ cell,CYP4F12
+1321,SLC16A7+ cell,DBIL5P2
+1322,SLC16A7+ cell,DBT
+1323,SLC16A7+ cell,DCAF10
+1324,SLC16A7+ cell,DCAF16
+1325,SLC16A7+ cell,DCP1A
+1326,SLC16A7+ cell,DCTN5
+1327,SLC16A7+ cell,DCUN1D2
+1328,SLC16A7+ cell,DDX17
+1329,SLC16A7+ cell,DDX3Y
+1330,SLC16A7+ cell,DDX5
+1331,SLC16A7+ cell,DDX51
+1332,SLC16A7+ cell,DDX55
+1333,SLC16A7+ cell,DENND5B
+1334,SLC16A7+ cell,DESI1
+1335,SLC16A7+ cell,DFFA
+1336,SLC16A7+ cell,DGKE
+1337,SLC16A7+ cell,DIAPH2
+1338,SLC16A7+ cell,DIP2A
+1339,SLC16A7+ cell,DIP2C
+1340,SLC16A7+ cell,DIS3L
+1341,SLC16A7+ cell,DLEC1
+1342,SLC16A7+ cell,DLEU1
+1343,SLC16A7+ cell,DLGAP1-AS2
+1344,SLC16A7+ cell,DMBT1L1
+1345,SLC16A7+ cell,DMBX1
+1346,SLC16A7+ cell,DMC1
+1347,SLC16A7+ cell,DMTF1
+1348,SLC16A7+ cell,DNAAF1
+1349,SLC16A7+ cell,DNAAF2
+1350,SLC16A7+ cell,DNAH1
+1351,SLC16A7+ cell,DNAH11
+1352,SLC16A7+ cell,DNAH12
+1353,SLC16A7+ cell,DNAH2
+1354,SLC16A7+ cell,DNAH3
+1355,SLC16A7+ cell,DNAH5
+1356,SLC16A7+ cell,DNAH7
+1357,SLC16A7+ cell,DNAJC22
+1358,SLC16A7+ cell,DNASE1
+1359,SLC16A7+ cell,DNASE2
+1360,SLC16A7+ cell,DNM1P46
+1361,SLC16A7+ cell,DNMBP
+1362,SLC16A7+ cell,DNMBP-AS1
+1363,SLC16A7+ cell,DOC2A
+1364,SLC16A7+ cell,DPH7
+1365,SLC16A7+ cell,DPP9
+1366,SLC16A7+ cell,DPY19L2P2
+1367,SLC16A7+ cell,DSC1
+1368,SLC16A7+ cell,DSEL
+1369,SLC16A7+ cell,DSTYK
+1370,SLC16A7+ cell,DUXA
+1371,SLC16A7+ cell,DYNC1LI2
+1372,SLC16A7+ cell,DYNC2H1
+1373,SLC16A7+ cell,DZANK1
+1374,SLC16A7+ cell,DZIP1L
+1375,SLC16A7+ cell,ECHDC2
+1376,SLC16A7+ cell,EFCAB11
+1377,SLC16A7+ cell,EFCAB5
+1378,SLC16A7+ cell,EFHC1
+1379,SLC16A7+ cell,EGFEM1P
+1380,SLC16A7+ cell,EHBP1L1
+1381,SLC16A7+ cell,ELMOD1
+1382,SLC16A7+ cell,ELMOD3
+1383,SLC16A7+ cell,EMC3-AS1
+1384,SLC16A7+ cell,ENGASE
+1385,SLC16A7+ cell,ENO2
+1386,SLC16A7+ cell,ENTPD4
+1387,SLC16A7+ cell,EPS8L2
+1388,SLC16A7+ cell,ERAP2
+1389,SLC16A7+ cell,ERC1
+1390,SLC16A7+ cell,ERCC6L2
+1391,SLC16A7+ cell,ERVK13-1
+1392,SLC16A7+ cell,ERVV-1
+1393,SLC16A7+ cell,EVI5L
+1394,SLC16A7+ cell,EXD3
+1395,SLC16A7+ cell,EXO5
+1396,SLC16A7+ cell,EXOC1
+1397,SLC16A7+ cell,EXOC3L2
+1398,SLC16A7+ cell,EXOG
+1399,SLC16A7+ cell,F5
+1400,SLC16A7+ cell,FAAH2
+1401,SLC16A7+ cell,FADS6
+1402,SLC16A7+ cell,FAHD1
+1403,SLC16A7+ cell,FAM106A
+1404,SLC16A7+ cell,FAM111A
+1405,SLC16A7+ cell,FAM111B
+1406,SLC16A7+ cell,FAM126B
+1407,SLC16A7+ cell,FAM133B
+1408,SLC16A7+ cell,FHIP1B
+1409,SLC16A7+ cell,FAM161A
+1410,SLC16A7+ cell,FAM184B
+1411,SLC16A7+ cell,FAM217B
+1412,SLC16A7+ cell,FAM219B
+1413,SLC16A7+ cell,FAM221A
+1414,SLC16A7+ cell,FAM227A
+1415,SLC16A7+ cell,FAM230B
+1416,SLC16A7+ cell,GARIN1A
+1417,SLC16A7+ cell,FAM74A3
+1418,SLC16A7+ cell,FAM76A
+1419,SLC16A7+ cell,FAM83E
+1420,SLC16A7+ cell,FAM95C
+1421,SLC16A7+ cell,FANCD2
+1422,SLC16A7+ cell,FANK1
+1423,SLC16A7+ cell,FBLIM1
+1424,SLC16A7+ cell,FBXL13
+1425,SLC16A7+ cell,FBXL18
+1426,SLC16A7+ cell,FBXL19-AS1
+1427,SLC16A7+ cell,FBXL20
+1428,SLC16A7+ cell,FBXO48
+1429,SLC16A7+ cell,FBXO6
+1430,SLC16A7+ cell,FCAR
+1431,SLC16A7+ cell,FDPSP2
+1432,SLC16A7+ cell,FGD5P1
+1433,SLC16A7+ cell,CEP43
+1434,SLC16A7+ cell,FGFR2
+1435,SLC16A7+ cell,FILIP1
+1436,SLC16A7+ cell,FKBP14
+1437,SLC16A7+ cell,FKBP1AP1
+1438,SLC16A7+ cell,IL6ST-DT
+1439,SLC16A7+ cell,ACTE1P
+1440,SLC16A7+ cell,FLJ42627
+1441,SLC16A7+ cell,FLVCR1
+1442,SLC16A7+ cell,FMN1
+1443,SLC16A7+ cell,FNBP1
+1444,SLC16A7+ cell,FNBP4
+1445,SLC16A7+ cell,FRAS1
+1446,SLC16A7+ cell,FRMD6-AS1
+1447,SLC16A7+ cell,FRY-AS1
+1448,SLC16A7+ cell,FSD2
+1449,SLC16A7+ cell,FUT2
+1450,SLC16A7+ cell,FUT6
+1451,SLC16A7+ cell,FXN
+1452,SLC16A7+ cell,GABPB1-AS1
+1453,SLC16A7+ cell,GABRB3
+1454,SLC16A7+ cell,GALM
+1455,SLC16A7+ cell,GALNT6
+1456,SLC16A7+ cell,GAMT
+1457,SLC16A7+ cell,GAS7
+1458,SLC16A7+ cell,GBP4
+1459,SLC16A7+ cell,GCAT
+1460,SLC16A7+ cell,GDAP1L1
+1461,SLC16A7+ cell,GDPD1
+1462,SLC16A7+ cell,GEMIN8
+1463,SLC16A7+ cell,GFOD2
+1464,SLC16A7+ cell,GGA1
+1465,SLC16A7+ cell,GGPS1
+1466,SLC16A7+ cell,GGT8P
+1467,SLC16A7+ cell,GJD4
+1468,SLC16A7+ cell,GK5
+1469,SLC16A7+ cell,GLB1L
+1470,SLC16A7+ cell,GMEB1
+1471,SLC16A7+ cell,GNB4
+1472,SLC16A7+ cell,GNB5
+1473,SLC16A7+ cell,GNE
+1474,SLC16A7+ cell,GNRHR2
+1475,SLC16A7+ cell,GOLGA2
+1476,SLC16A7+ cell,GOLGA2P5
+1477,SLC16A7+ cell,GOLGA6L10
+1478,SLC16A7+ cell,GOLGA6L4
+1479,SLC16A7+ cell,GOLGA6L9
+1480,SLC16A7+ cell,GOLGA8A
+1481,SLC16A7+ cell,GON4L
+1482,SLC16A7+ cell,GOPC
+1483,SLC16A7+ cell,GP2
+1484,SLC16A7+ cell,GPATCH2
+1485,SLC16A7+ cell,GPR155
+1486,SLC16A7+ cell,GPR82
+1487,SLC16A7+ cell,GRAMD1B
+1488,SLC16A7+ cell,GREB1
+1489,SLC16A7+ cell,GRTP1
+1490,SLC16A7+ cell,GSDMB
+1491,SLC16A7+ cell,GSG1
+1492,SLC16A7+ cell,GSTM3
+1493,SLC16A7+ cell,GSTTP2
+1494,SLC16A7+ cell,GTF2F1
+1495,SLC16A7+ cell,GTF2H2
+1496,SLC16A7+ cell,GTF2H2B
+1497,SLC16A7+ cell,GTF2H3
+1498,SLC16A7+ cell,GTF2H5
+1499,SLC16A7+ cell,GTPBP10
+1500,SLC16A7+ cell,GUCA1B
+1501,SLC16A7+ cell,GUSBP3
+1502,SLC16A7+ cell,H1-10-AS1
+1503,SLC16A7+ cell,HAUS3
+1504,SLC16A7+ cell,HCAR1
+1505,SLC16A7+ cell,HCG11
+1506,SLC16A7+ cell,HEATR3
+1507,SLC16A7+ cell,HECTD4
+1508,SLC16A7+ cell,HERC2P2
+1509,SLC16A7+ cell,HERC2P9
+1510,SLC16A7+ cell,HHLA3
+1511,SLC16A7+ cell,HIP1
+1512,SLC16A7+ cell,HIPK1-AS1
+1513,SLC16A7+ cell,HLA-J
+1514,SLC16A7+ cell,HLTF
+1515,SLC16A7+ cell,HNF1A-AS1
+1516,SLC16A7+ cell,HSCB
+1517,SLC16A7+ cell,HSH2D
+1518,SLC16A7+ cell,HSPA4L
+1519,SLC16A7+ cell,HTATSF1P2
+1520,SLC16A7+ cell,IBA57
+1521,SLC16A7+ cell,ICA1L
+1522,SLC16A7+ cell,IDO1
+1523,SLC16A7+ cell,IFI44L
+1524,SLC16A7+ cell,IFT80
+1525,SLC16A7+ cell,IGF2BP2
+1526,SLC16A7+ cell,IGSF9
+1527,SLC16A7+ cell,IKBIP
+1528,SLC16A7+ cell,IKBKB
+1529,SLC16A7+ cell,IKZF2
+1530,SLC16A7+ cell,IKZF3
+1531,SLC16A7+ cell,IKZF4
+1532,SLC16A7+ cell,IL10RB
+1533,SLC16A7+ cell,IL17RA
+1534,SLC16A7+ cell,IL17RE
+1535,SLC16A7+ cell,IL23R
+1536,SLC16A7+ cell,IL27RA
+1537,SLC16A7+ cell,INE1
+1538,SLC16A7+ cell,INE2
+1539,SLC16A7+ cell,INGX
+1540,SLC16A7+ cell,INTU
+1541,SLC16A7+ cell,IP6K1
+1542,SLC16A7+ cell,IPO5P1
+1543,SLC16A7+ cell,IPP
+1544,SLC16A7+ cell,ISG20L2
+1545,SLC16A7+ cell,ITIH5
+1546,SLC16A7+ cell,ITPK1-AS1
+1547,SLC16A7+ cell,ITSN1
+1548,SLC16A7+ cell,JAM2
+1549,SLC16A7+ cell,JMJD6
+1550,SLC16A7+ cell,JMJD7
+1551,SLC16A7+ cell,JPX
+1552,SLC16A7+ cell,KANK4
+1553,SLC16A7+ cell,KANSL1L
+1554,SLC16A7+ cell,KAT2A
+1555,SLC16A7+ cell,KATNAL1
+1556,SLC16A7+ cell,KBTBD6
+1557,SLC16A7+ cell,KCMF1
+1558,SLC16A7+ cell,KCNA7
+1559,SLC16A7+ cell,KCNH6
+1560,SLC16A7+ cell,KCNJ14
+1561,SLC16A7+ cell,KCNJ3
+1562,SLC16A7+ cell,KCNJ5
+1563,SLC16A7+ cell,KCNQ1OT1
+1564,SLC16A7+ cell,KCP
+1565,SLC16A7+ cell,KDM3A
+1566,SLC16A7+ cell,KDM4A-AS1
+1567,SLC16A7+ cell,KDSR
+1568,SLC16A7+ cell,KIAA0319
+1569,SLC16A7+ cell,KIAA0408
+1570,SLC16A7+ cell,KIAA0753
+1571,SLC16A7+ cell,KIAA0895L
+1572,SLC16A7+ cell,KIAA1614
+1573,SLC16A7+ cell,KIAA1656
+1574,SLC16A7+ cell,KIF1B
+1575,SLC16A7+ cell,KIR3DX1
+1576,SLC16A7+ cell,KLHL22
+1577,SLC16A7+ cell,KNG1
+1578,SLC16A7+ cell,KPNA6
+1579,SLC16A7+ cell,KRBA2
+1580,SLC16A7+ cell,KREMEN1
+1581,SLC16A7+ cell,L1TD1
+1582,SLC16A7+ cell,L2HGDH
+1583,SLC16A7+ cell,LACTB
+1584,SLC16A7+ cell,LAIR1
+1585,SLC16A7+ cell,LAMA5
+1586,SLC16A7+ cell,LARS1
+1587,SLC16A7+ cell,LAX1
+1588,SLC16A7+ cell,LDB3
+1589,SLC16A7+ cell,LENG8
+1590,SLC16A7+ cell,LEP
+1591,SLC16A7+ cell,LEPR
+1592,SLC16A7+ cell,LIAS
+1593,SLC16A7+ cell,LILRA5
+1594,SLC16A7+ cell,LILRB1
+1595,SLC16A7+ cell,LILRB3
+1596,SLC16A7+ cell,LIMD1
+1597,SLC16A7+ cell,LIMS3
+1598,SLC16A7+ cell,LIN52
+1599,SLC16A7+ cell,LINC00311
+1600,SLC16A7+ cell,ERCC6L2-AS1
+1601,SLC16A7+ cell,LINC00574
+1602,SLC16A7+ cell,LINC00696
+1603,SLC16A7+ cell,LMOD3
+1604,SLC16A7+ cell,LONP2
+1605,SLC16A7+ cell,LPAL2
+1606,SLC16A7+ cell,LPIN1
+1607,SLC16A7+ cell,LPP
+1608,SLC16A7+ cell,LRAT
+1609,SLC16A7+ cell,LRRC2
+1610,SLC16A7+ cell,LRRC27
+1611,SLC16A7+ cell,LRRC36
+1612,SLC16A7+ cell,LRRC57
+1613,SLC16A7+ cell,LRRC58
+1614,SLC16A7+ cell,LRRC8B
+1615,SLC16A7+ cell,LYRM7
+1616,SLC16A7+ cell,MAB21L3
+1617,SLC16A7+ cell,MACC1
+1618,SLC16A7+ cell,MAFK
+1619,SLC16A7+ cell,MAGEB10
+1620,SLC16A7+ cell,MAGI3
+1621,SLC16A7+ cell,MALAT1
+1622,SLC16A7+ cell,MANEAL
+1623,SLC16A7+ cell,MAP3K3
+1624,SLC16A7+ cell,MAP3K6
+1625,SLC16A7+ cell,MAP3K9
+1626,SLC16A7+ cell,MAP4K1
+1627,SLC16A7+ cell,MAPK10
+1628,SLC16A7+ cell,MAPK8IP3
+1629,SLC16A7+ cell,MARVELD3
+1630,SLC16A7+ cell,MAT1A
+1631,SLC16A7+ cell,MAVS
+1632,SLC16A7+ cell,MBD4
+1633,SLC16A7+ cell,MBOAT2
+1634,SLC16A7+ cell,MCHR2
+1635,SLC16A7+ cell,MCPH1
+1636,SLC16A7+ cell,MCTS1
+1637,SLC16A7+ cell,MCU
+1638,SLC16A7+ cell,MDGA1
+1639,SLC16A7+ cell,MDH1B
+1640,SLC16A7+ cell,MDM4
+1641,SLC16A7+ cell,MED15P9
+1642,SLC16A7+ cell,MED18
+1643,SLC16A7+ cell,MED29
+1644,SLC16A7+ cell,MEFV
+1645,SLC16A7+ cell,METTL16
+1646,SLC16A7+ cell,METTL17
+1647,SLC16A7+ cell,METTL21A
+1648,SLC16A7+ cell,METTL2A
+1649,SLC16A7+ cell,METTL2B
+1650,SLC16A7+ cell,METTL6
+1651,SLC16A7+ cell,METTL8
+1652,SLC16A7+ cell,MFAP5
+1653,SLC16A7+ cell,MFHAS1
+1654,SLC16A7+ cell,MFSD11
+1655,SLC16A7+ cell,MFSD8
+1656,SLC16A7+ cell,MFSD9
+1657,SLC16A7+ cell,MGAT4A
+1658,SLC16A7+ cell,MGC16275
+1659,SLC16A7+ cell,MICAL3
+1660,SLC16A7+ cell,MID1
+1661,SLC16A7+ cell,MIR17HG
+1662,SLC16A7+ cell,MIRLET7BHG
+1663,SLC16A7+ cell,MKRN2OS
+1664,SLC16A7+ cell,MLLT10
+1665,SLC16A7+ cell,MLPH
+1666,SLC16A7+ cell,MMAA
+1667,SLC16A7+ cell,MMACHC
+1668,SLC16A7+ cell,MOCS3
+1669,SLC16A7+ cell,MOG
+1670,SLC16A7+ cell,MOGAT3
+1671,SLC16A7+ cell,MOK
+1672,SLC16A7+ cell,MOV10
+1673,SLC16A7+ cell,MPPED2
+1674,SLC16A7+ cell,MR1
+1675,SLC16A7+ cell,MRI1
+1676,SLC16A7+ cell,MS4A2
+1677,SLC16A7+ cell,MSL1
+1678,SLC16A7+ cell,MSRB3
+1679,SLC16A7+ cell,MTA1
+1680,SLC16A7+ cell,MTAP
+1681,SLC16A7+ cell,MTG2
+1682,SLC16A7+ cell,MTHFR
+1683,SLC16A7+ cell,MTMR9
+1684,SLC16A7+ cell,MTX3
+1685,SLC16A7+ cell,MYCNOS
+1686,SLC16A7+ cell,MYEF2
+1687,SLC16A7+ cell,MYLK3
+1688,SLC16A7+ cell,MYO19
+1689,SLC16A7+ cell,MYO1F
+1690,SLC16A7+ cell,MYO3B
+1691,SLC16A7+ cell,MYO5A
+1692,SLC16A7+ cell,MYSM1
+1693,SLC16A7+ cell,MZF1
+1694,SLC16A7+ cell,N4BP2
+1695,SLC16A7+ cell,N4BP2L2
+1696,SLC16A7+ cell,NAA40
+1697,SLC16A7+ cell,NABP2
+1698,SLC16A7+ cell,NAPEPLD
+1699,SLC16A7+ cell,NCR3LG1
+1700,SLC16A7+ cell,NCRUPAR
+1701,SLC16A7+ cell,NEAT1
+1702,SLC16A7+ cell,NEIL1
+1703,SLC16A7+ cell,NEK11
+1704,SLC16A7+ cell,NEK3
+1705,SLC16A7+ cell,NEK8
+1706,SLC16A7+ cell,NFAT5
+1707,SLC16A7+ cell,NFATC2IP
+1708,SLC16A7+ cell,NFKBIB
+1709,SLC16A7+ cell,NFS1
+1710,SLC16A7+ cell,NFYC-AS1
+1711,SLC16A7+ cell,NIF3L1
+1712,SLC16A7+ cell,NIPAL1
+1713,SLC16A7+ cell,NKD1
+1714,SLC16A7+ cell,NLN
+1715,SLC16A7+ cell,NLRP12
+1716,SLC16A7+ cell,NME6
+1717,SLC16A7+ cell,NMNAT1
+1718,SLC16A7+ cell,NMRK1
+1719,SLC16A7+ cell,NOL9
+1720,SLC16A7+ cell,NOM1
+1721,SLC16A7+ cell,NOS1
+1722,SLC16A7+ cell,NOX4
+1723,SLC16A7+ cell,NPHP3
+1724,SLC16A7+ cell,NPIPA2
+1725,SLC16A7+ cell,NPIPA5
+1726,SLC16A7+ cell,NPIPB3
+1727,SLC16A7+ cell,NPIPB5
+1728,SLC16A7+ cell,NPIPB6
+1729,SLC16A7+ cell,NPIPB9
+1730,SLC16A7+ cell,NPTN-IT1
+1731,SLC16A7+ cell,NPTXR
+1732,SLC16A7+ cell,NR2C1
+1733,SLC16A7+ cell,NSUN6
+1734,SLC16A7+ cell,NSUN7
+1735,SLC16A7+ cell,NUMBL
+1736,SLC16A7+ cell,NXF2
+1737,SLC16A7+ cell,NXF2B
+1738,SLC16A7+ cell,NXNL1
+1739,SLC16A7+ cell,NXPE3
+1740,SLC16A7+ cell,NYAP2
+1741,SLC16A7+ cell,OCLN
+1742,SLC16A7+ cell,ODF2L
+1743,SLC16A7+ cell,OLAH
+1744,SLC16A7+ cell,OMA1
+1745,SLC16A7+ cell,OPA3
+1746,SLC16A7+ cell,OPHN1
+1747,SLC16A7+ cell,ORAI2
+1748,SLC16A7+ cell,ORC4
+1749,SLC16A7+ cell,OVGP1
+1750,SLC16A7+ cell,P2RX7
+1751,SLC16A7+ cell,PABPC1L
+1752,SLC16A7+ cell,PABPC1P2
+1753,SLC16A7+ cell,PAFAH1B2
+1754,SLC16A7+ cell,PANK2
+1755,SLC16A7+ cell,PAXBP1
+1756,SLC16A7+ cell,PBOV1
+1757,SLC16A7+ cell,PBX4
+1758,SLC16A7+ cell,PCDH11X
+1759,SLC16A7+ cell,PCDH11Y
+1760,SLC16A7+ cell,PCED1B-AS1
+1761,SLC16A7+ cell,PCMTD1
+1762,SLC16A7+ cell,PCSK5
+1763,SLC16A7+ cell,PDCD7
+1764,SLC16A7+ cell,PDE2A
+1765,SLC16A7+ cell,PDE4C
+1766,SLC16A7+ cell,PDE6A
+1767,SLC16A7+ cell,PDP2
+1768,SLC16A7+ cell,PDPR
+1769,SLC16A7+ cell,PDXDC2P
+1770,SLC16A7+ cell,PEX26
+1771,SLC16A7+ cell,PGP
+1772,SLC16A7+ cell,PHACTR4
+1773,SLC16A7+ cell,PHIP
+1774,SLC16A7+ cell,PHKG1
+1775,SLC16A7+ cell,PHKG2
+1776,SLC16A7+ cell,PHYKPL
+1777,SLC16A7+ cell,PIGM
+1778,SLC16A7+ cell,PIGO
+1779,SLC16A7+ cell,PIGU
+1780,SLC16A7+ cell,PIGX
+1781,SLC16A7+ cell,PIK3C2A
+1782,SLC16A7+ cell,PILRB
+1783,SLC16A7+ cell,PINK1-AS
+1784,SLC16A7+ cell,PIPOX
+1785,SLC16A7+ cell,PIWIL2
+1786,SLC16A7+ cell,PKD1
+1787,SLC16A7+ cell,PLA2G6
+1788,SLC16A7+ cell,PLA2G7
+1789,SLC16A7+ cell,PLEKHA5
+1790,SLC16A7+ cell,PLEKHG4B
+1791,SLC16A7+ cell,PLEKHG6
+1792,SLC16A7+ cell,PLEKHG7
+1793,SLC16A7+ cell,PLXDC1
+1794,SLC16A7+ cell,PLXNB1
+1795,SLC16A7+ cell,PMS1
+1796,SLC16A7+ cell,PNPLA6
+1797,SLC16A7+ cell,PNPLA7
+1798,SLC16A7+ cell,PNPT1
+1799,SLC16A7+ cell,POFUT2
+1800,SLC16A7+ cell,POLH
+1801,SLC16A7+ cell,POM121
+1802,SLC16A7+ cell,POM121L8P
+1803,SLC16A7+ cell,PPM1B
+1804,SLC16A7+ cell,PPOX
+1805,SLC16A7+ cell,PPP1R3B
+1806,SLC16A7+ cell,PRELID2
+1807,SLC16A7+ cell,PRELP
+1808,SLC16A7+ cell,PRKAA1
+1809,SLC16A7+ cell,PRKD2
+1810,SLC16A7+ cell,PRKX
+1811,SLC16A7+ cell,PRKXP1
+1812,SLC16A7+ cell,PRORY
+1813,SLC16A7+ cell,PRR11
+1814,SLC16A7+ cell,PRR5-ARHGAP8
+1815,SLC16A7+ cell,PRRT3
+1816,SLC16A7+ cell,PRSS12
+1817,SLC16A7+ cell,PTAR1
+1818,SLC16A7+ cell,PTK6
+1819,SLC16A7+ cell,PTPN14
+1820,SLC16A7+ cell,PTPN2
+1821,SLC16A7+ cell,PURB
+1822,SLC16A7+ cell,PWARSN
+1823,SLC16A7+ cell,PXMP4
+1824,SLC16A7+ cell,QPCTL
+1825,SLC16A7+ cell,QPRT
+1826,SLC16A7+ cell,QRFPR
+1827,SLC16A7+ cell,QRSL1
+1828,SLC16A7+ cell,RAB17
+1829,SLC16A7+ cell,RAB27A
+1830,SLC16A7+ cell,RAB42
+1831,SLC16A7+ cell,RABGGTA
+1832,SLC16A7+ cell,RAD51-AS1
+1833,SLC16A7+ cell,RAD9A
+1834,SLC16A7+ cell,RALGDS
+1835,SLC16A7+ cell,RAMP2-AS1
+1836,SLC16A7+ cell,RASA3
+1837,SLC16A7+ cell,RASEF
+1838,SLC16A7+ cell,RASSF8
+1839,SLC16A7+ cell,RAX2
+1840,SLC16A7+ cell,RBBP5
+1841,SLC16A7+ cell,RBM25
+1842,SLC16A7+ cell,RBM34
+1843,SLC16A7+ cell,RBM41
+1844,SLC16A7+ cell,RBM6
+1845,SLC16A7+ cell,RBMS2
+1846,SLC16A7+ cell,RC3H1
+1847,SLC16A7+ cell,RFC2
+1848,SLC16A7+ cell,RFPL1S
+1849,SLC16A7+ cell,RIMKLA
+1850,SLC16A7+ cell,RINL
+1851,SLC16A7+ cell,RNASEH1
+1852,SLC16A7+ cell,RNASEH1-DT
+1853,SLC16A7+ cell,RND2
+1854,SLC16A7+ cell,RNF139-DT
+1855,SLC16A7+ cell,RNF14
+1856,SLC16A7+ cell,RNF149
+1857,SLC16A7+ cell,RNF170
+1858,SLC16A7+ cell,RNF207
+1859,SLC16A7+ cell,RNF41
+1860,SLC16A7+ cell,RNPC3
+1861,SLC16A7+ cell,ROR1-AS1
+1862,SLC16A7+ cell,RP1
+1863,SLC16A7+ cell,RPL21P44
+1864,SLC16A7+ cell,RPL7L1
+1865,SLC16A7+ cell,RPLP0P2
+1866,SLC16A7+ cell,RPUSD2
+1867,SLC16A7+ cell,RRP7A
+1868,SLC16A7+ cell,RSAD2
+1869,SLC16A7+ cell,RSRP1
+1870,SLC16A7+ cell,S1PR3
+1871,SLC16A7+ cell,SAMD4B
+1872,SLC16A7+ cell,SAMD7
+1873,SLC16A7+ cell,SART1
+1874,SLC16A7+ cell,SBNO1
+1875,SLC16A7+ cell,SCAF11
+1876,SLC16A7+ cell,SCAND2P
+1877,SLC16A7+ cell,SCAP
+1878,SLC16A7+ cell,SCIMP
+1879,SLC16A7+ cell,SCIN
+1880,SLC16A7+ cell,SCN11A
+1881,SLC16A7+ cell,SCN2B
+1882,SLC16A7+ cell,SCNN1D
+1883,SLC16A7+ cell,SEC14L4
+1884,SLC16A7+ cell,SEC22C
+1885,SLC16A7+ cell,SEMA3E
+1886,SLC16A7+ cell,SEMA4F
+1887,SLC16A7+ cell,SEMA5A
+1888,SLC16A7+ cell,SENP7
+1889,SLC16A7+ cell,SETD1B
+1890,SLC16A7+ cell,SETD4
+1891,SLC16A7+ cell,SFSWAP
+1892,SLC16A7+ cell,SGK3
+1893,SLC16A7+ cell,SGSM1
+1894,SLC16A7+ cell,SGTB
+1895,SLC16A7+ cell,SH3D19
+1896,SLC16A7+ cell,SHCBP1
+1897,SLC16A7+ cell,SHE
+1898,SLC16A7+ cell,SHISA9
+1899,SLC16A7+ cell,SHROOM1
+1900,SLC16A7+ cell,SHROOM4
+1901,SLC16A7+ cell,SIAH3
+1902,SLC16A7+ cell,SIDT1
+1903,SLC16A7+ cell,SIGLEC11
+1904,SLC16A7+ cell,SIGLEC16
+1905,SLC16A7+ cell,SIRPB2
+1906,SLC16A7+ cell,SKIV2L
+1907,SLC16A7+ cell,SLAMF6
+1908,SLC16A7+ cell,SLC12A6
+1909,SLC16A7+ cell,SLC14A2
+1910,SLC16A7+ cell,SLC16A7
+1911,SLC16A7+ cell,SLC22A5
+1912,SLC16A7+ cell,SLC22A9
+1913,SLC16A7+ cell,SLC25A15
+1914,SLC16A7+ cell,SLC25A29
+1915,SLC16A7+ cell,SLC25A36
+1916,SLC16A7+ cell,SLC28A2
+1917,SLC16A7+ cell,SLC29A3
+1918,SLC16A7+ cell,SLC2A11
+1919,SLC16A7+ cell,SLC2A3
+1920,SLC16A7+ cell,SLC31A1
+1921,SLC16A7+ cell,SLC35B4
+1922,SLC16A7+ cell,SLC35E1
+1923,SLC16A7+ cell,SLC37A3
+1924,SLC16A7+ cell,SLC45A2
+1925,SLC16A7+ cell,SLC4A1
+1926,SLC16A7+ cell,SLC4A8
+1927,SLC16A7+ cell,SLC50A1
+1928,SLC16A7+ cell,SLC6A20
+1929,SLC16A7+ cell,SLC6A4
+1930,SLC16A7+ cell,SLC7A11-AS1
+1931,SLC16A7+ cell,SLC7A14
+1932,SLC16A7+ cell,SLC7A5P2
+1933,SLC16A7+ cell,SLC7A6
+1934,SLC16A7+ cell,SLC9A7P1
+1935,SLC16A7+ cell,SLFN13
+1936,SLC16A7+ cell,GUSBP15
+1937,SLC16A7+ cell,SMCR5
+1938,SLC16A7+ cell,SMG1
+1939,SLC16A7+ cell,SMG7-AS1
+1940,SLC16A7+ cell,SMYD4
+1941,SLC16A7+ cell,SNAP29
+1942,SLC16A7+ cell,SNAPC1
+1943,SLC16A7+ cell,SNAPC4
+1944,SLC16A7+ cell,SNHG12
+1945,SLC16A7+ cell,SNHG21
+1946,SLC16A7+ cell,SNHG7
+1947,SLC16A7+ cell,SNX29
+1948,SLC16A7+ cell,SOGA3
+1949,SLC16A7+ cell,SPAG17
+1950,SLC16A7+ cell,SPATS2
+1951,SLC16A7+ cell,SPEF2
+1952,SLC16A7+ cell,SPG7
+1953,SLC16A7+ cell,SPN
+1954,SLC16A7+ cell,SPRYD7
+1955,SLC16A7+ cell,SPTAN1
+1956,SLC16A7+ cell,SRCAP
+1957,SLC16A7+ cell,SRCIN1
+1958,SLC16A7+ cell,SREK1
+1959,SLC16A7+ cell,SREK1IP1
+1960,SLC16A7+ cell,SRFBP1
+1961,SLC16A7+ cell,SRGAP3
+1962,SLC16A7+ cell,SRSF11
+1963,SLC16A7+ cell,SSH1
+1964,SLC16A7+ cell,SSTR2
+1965,SLC16A7+ cell,ST6GAL2
+1966,SLC16A7+ cell,STAG3L5P-PVRIG2P-PILRB
+1967,SLC16A7+ cell,STAT2
+1968,SLC16A7+ cell,STAU2-AS1
+1969,SLC16A7+ cell,STK33
+1970,SLC16A7+ cell,STK36
+1971,SLC16A7+ cell,STOML1
+1972,SLC16A7+ cell,STX16
+1973,SLC16A7+ cell,STXBP4
+1974,SLC16A7+ cell,SUGP2
+1975,SLC16A7+ cell,SUV39H2
+1976,SLC16A7+ cell,SVOPL
+1977,SLC16A7+ cell,SYNE1
+1978,SLC16A7+ cell,SYNGAP1
+1979,SLC16A7+ cell,SYNPO2L
+1980,SLC16A7+ cell,SYNRG
+1981,SLC16A7+ cell,TADA2B
+1982,SLC16A7+ cell,TAF1
+1983,SLC16A7+ cell,TAF1A
+1984,SLC16A7+ cell,TAF8
+1985,SLC16A7+ cell,TAP2
+1986,SLC16A7+ cell,TARBP1
+1987,SLC16A7+ cell,TARS2
+1988,SLC16A7+ cell,TBC1D3
+1989,SLC16A7+ cell,TBC1D32
+1990,SLC16A7+ cell,TBC1D8
+1991,SLC16A7+ cell,TCEANC2
+1992,SLC16A7+ cell,TCF7
+1993,SLC16A7+ cell,DYNLT5
+1994,SLC16A7+ cell,TDP1
+1995,SLC16A7+ cell,TDRD3
+1996,SLC16A7+ cell,TECPR1
+1997,SLC16A7+ cell,TEKT4P2
+1998,SLC16A7+ cell,TFDP2
+1999,SLC16A7+ cell,THEM4
+2000,SLC16A7+ cell,THUMPD3-AS1
+2001,SLC16A7+ cell,TIGD1
+2002,SLC16A7+ cell,TIRAP
+2003,SLC16A7+ cell,TLCD2
+2004,SLC16A7+ cell,TLK2
+2005,SLC16A7+ cell,TLR10
+2006,SLC16A7+ cell,TLR7
+2007,SLC16A7+ cell,TMC5
+2008,SLC16A7+ cell,TMEM120B
+2009,SLC16A7+ cell,TMEM156
+2010,SLC16A7+ cell,TMEM168
+2011,SLC16A7+ cell,TMEM17
+2012,SLC16A7+ cell,TMEM198B
+2013,SLC16A7+ cell,TMEM212
+2014,SLC16A7+ cell,TMEM236
+2015,SLC16A7+ cell,TMEM254-AS1
+2016,SLC16A7+ cell,TMEM67
+2017,SLC16A7+ cell,TMIGD2
+2018,SLC16A7+ cell,TMPRSS11B
+2019,SLC16A7+ cell,TMPRSS7
+2020,SLC16A7+ cell,TNFRSF10B
+2021,SLC16A7+ cell,TNFRSF25
+2022,SLC16A7+ cell,TNFRSF9
+2023,SLC16A7+ cell,TNFSF15
+2024,SLC16A7+ cell,TNIP3
+2025,SLC16A7+ cell,TNRC6A
+2026,SLC16A7+ cell,TNRC6B
+2027,SLC16A7+ cell,TONSL
+2028,SLC16A7+ cell,TOP3A
+2029,SLC16A7+ cell,TPT1-AS1
+2030,SLC16A7+ cell,TPTE2P1
+2031,SLC16A7+ cell,TRAF3IP2
+2032,SLC16A7+ cell,TRAF6
+2033,SLC16A7+ cell,TRIM3
+2034,SLC16A7+ cell,TRIM41
+2035,SLC16A7+ cell,TRIM52
+2036,SLC16A7+ cell,TRIM52-AS1
+2037,SLC16A7+ cell,TRIM58
+2038,SLC16A7+ cell,TRIM65
+2039,SLC16A7+ cell,TRIM72
+2040,SLC16A7+ cell,TRIP11
+2041,SLC16A7+ cell,TRIP13
+2042,SLC16A7+ cell,TRMU
+2043,SLC16A7+ cell,TRPM7
+2044,SLC16A7+ cell,TSC22D1-AS1
+2045,SLC16A7+ cell,TSHZ2
+2046,SLC16A7+ cell,TSIX
+2047,SLC16A7+ cell,TSNARE1
+2048,SLC16A7+ cell,TSPYL4
+2049,SLC16A7+ cell,TSR1
+2050,SLC16A7+ cell,TSTD3
+2051,SLC16A7+ cell,TTC12
+2052,SLC16A7+ cell,TTC14
+2053,SLC16A7+ cell,TTC23
+2054,SLC16A7+ cell,TTLL3
+2055,SLC16A7+ cell,TTPAL
+2056,SLC16A7+ cell,TUBA3FP
+2057,SLC16A7+ cell,TUBD1
+2058,SLC16A7+ cell,TUBGCP4
+2059,SLC16A7+ cell,TXLNGY
+2060,SLC16A7+ cell,TYW5
+2061,SLC16A7+ cell,UBE2G2
+2062,SLC16A7+ cell,UBE2Q2P1
+2063,SLC16A7+ cell,UBIAD1
+2064,SLC16A7+ cell,UBN2
+2065,SLC16A7+ cell,UBOX5
+2066,SLC16A7+ cell,UCKL1-AS1
+2067,SLC16A7+ cell,UGDH-AS1
+2068,SLC16A7+ cell,UGGT1
+2069,SLC16A7+ cell,UGT2B15
+2070,SLC16A7+ cell,UNKL
+2071,SLC16A7+ cell,USP2
+2072,SLC16A7+ cell,USP28
+2073,SLC16A7+ cell,USP34
+2074,SLC16A7+ cell,USP40
+2075,SLC16A7+ cell,USP43
+2076,SLC16A7+ cell,USP49
+2077,SLC16A7+ cell,USP54
+2078,SLC16A7+ cell,UTP23
+2079,SLC16A7+ cell,UTRN
+2080,SLC16A7+ cell,UVSSA
+2081,SLC16A7+ cell,VN1R10P
+2082,SLC16A7+ cell,VNN1
+2083,SLC16A7+ cell,VNN3P
+2084,SLC16A7+ cell,VPS11
+2085,SLC16A7+ cell,VPS13A
+2086,SLC16A7+ cell,VPS13B
+2087,SLC16A7+ cell,VPS33A
+2088,SLC16A7+ cell,VPS39
+2089,SLC16A7+ cell,VPS53
+2090,SLC16A7+ cell,VSIG1
+2091,SLC16A7+ cell,VSTM4
+2092,SLC16A7+ cell,VWA3A
+2093,SLC16A7+ cell,VWDE
+2094,SLC16A7+ cell,WDPCP
+2095,SLC16A7+ cell,WDR17
+2096,SLC16A7+ cell,WDR27
+2097,SLC16A7+ cell,WDR45
+2098,SLC16A7+ cell,WDR73
+2099,SLC16A7+ cell,DNAAF10
+2100,SLC16A7+ cell,WDR93
+2101,SLC16A7+ cell,WSB1
+2102,SLC16A7+ cell,WWOX
+2103,SLC16A7+ cell,XAF1
+2104,SLC16A7+ cell,XIAP
+2105,SLC16A7+ cell,XPA
+2106,SLC16A7+ cell,XPC
+2107,SLC16A7+ cell,XRCC2
+2108,SLC16A7+ cell,XRN1
+2109,SLC16A7+ cell,YARS2
+2110,SLC16A7+ cell,YEATS2
+2111,SLC16A7+ cell,ZBBX
+2112,SLC16A7+ cell,ZBP1
+2113,SLC16A7+ cell,ZBTB11-AS1
+2114,SLC16A7+ cell,ZBTB8A
+2115,SLC16A7+ cell,ZC3H12D
+2116,SLC16A7+ cell,ZC3H3
+2117,SLC16A7+ cell,ZC3H6
+2118,SLC16A7+ cell,ZCWPW1
+2119,SLC16A7+ cell,ZDHHC15
+2120,SLC16A7+ cell,ZDHHC21
+2121,SLC16A7+ cell,ZFP14
+2122,SLC16A7+ cell,ZFYVE16
+2123,SLC16A7+ cell,ZFYVE27
+2124,SLC16A7+ cell,ZKSCAN1
+2125,SLC16A7+ cell,ZMAT3
+2126,SLC16A7+ cell,ZMYM5
+2127,SLC16A7+ cell,ZNF106
+2128,SLC16A7+ cell,ZNF114
+2129,SLC16A7+ cell,ZNF124
+2130,SLC16A7+ cell,ZNF135
+2131,SLC16A7+ cell,ZNF154
+2132,SLC16A7+ cell,ZNF169
+2133,SLC16A7+ cell,ZNF23
+2134,SLC16A7+ cell,ZNF234
+2135,SLC16A7+ cell,ZNF250
+2136,SLC16A7+ cell,ZNF251
+2137,SLC16A7+ cell,ZNF264
+2138,SLC16A7+ cell,ZNF273
+2139,SLC16A7+ cell,ZNF277
+2140,SLC16A7+ cell,ZNF3
+2141,SLC16A7+ cell,ZNF302
+2142,SLC16A7+ cell,ZNF316
+2143,SLC16A7+ cell,ZNF320
+2144,SLC16A7+ cell,ZNF321P
+2145,SLC16A7+ cell,ZNF33B
+2146,SLC16A7+ cell,ZNF34
+2147,SLC16A7+ cell,ZNF343
+2148,SLC16A7+ cell,ZNF365
+2149,SLC16A7+ cell,ZNF37A
+2150,SLC16A7+ cell,ZNF398
+2151,SLC16A7+ cell,ZNF417
+2152,SLC16A7+ cell,ZNF426
+2153,SLC16A7+ cell,ZNF429
+2154,SLC16A7+ cell,ZNF440
+2155,SLC16A7+ cell,ZNF445
+2156,SLC16A7+ cell,ZNF454
+2157,SLC16A7+ cell,ZNF461
+2158,SLC16A7+ cell,ZNF483
+2159,SLC16A7+ cell,ZNF514
+2160,SLC16A7+ cell,ZNF519
+2161,SLC16A7+ cell,ZNF526
+2162,SLC16A7+ cell,ZNF549
+2163,SLC16A7+ cell,ZNF551
+2164,SLC16A7+ cell,ZNF554
+2165,SLC16A7+ cell,ZNF555
+2166,SLC16A7+ cell,ZNF556
+2167,SLC16A7+ cell,ZNF561
+2168,SLC16A7+ cell,ZNF563
+2169,SLC16A7+ cell,ZNF587
+2170,SLC16A7+ cell,ZNF606
+2171,SLC16A7+ cell,ZNF621
+2172,SLC16A7+ cell,ZNF625
+2173,SLC16A7+ cell,ZNF655
+2174,SLC16A7+ cell,ZNF665
+2175,SLC16A7+ cell,ZNF669
+2176,SLC16A7+ cell,ZNF692
+2177,SLC16A7+ cell,ZNF696
+2178,SLC16A7+ cell,ZNF713
+2179,SLC16A7+ cell,ZNF714
+2180,SLC16A7+ cell,ZNF716
+2181,SLC16A7+ cell,ZNF728
+2182,SLC16A7+ cell,ZNF737
+2183,SLC16A7+ cell,ZNF749
+2184,SLC16A7+ cell,ZNF761
+2185,SLC16A7+ cell,ZNF763
+2186,SLC16A7+ cell,ZNF766
+2187,SLC16A7+ cell,ZNF773
+2188,SLC16A7+ cell,ZNF785
+2189,SLC16A7+ cell,ZNF791
+2190,SLC16A7+ cell,ZNF793
+2191,SLC16A7+ cell,ZNF816-ZNF321P
+2192,SLC16A7+ cell,ZNF83
+2193,SLC16A7+ cell,ZNF841
+2194,SLC16A7+ cell,ZNF862
+2195,SLC16A7+ cell,ZNF865
+2196,SLC16A7+ cell,ZNRF3-AS1
+2197,CD141+CLEC9A+ dendritic cell,ACSS2
+2198,CD141+CLEC9A+ dendritic cell,ADAM28
+2199,CD141+CLEC9A+ dendritic cell,APOL1
+2200,CD141+CLEC9A+ dendritic cell,APOL3
+2201,CD141+CLEC9A+ dendritic cell,ASAP1
+2202,CD141+CLEC9A+ dendritic cell,ASB2
+2203,CD141+CLEC9A+ dendritic cell,BATF3
+2204,CD141+CLEC9A+ dendritic cell,BCL6
+2205,CD141+CLEC9A+ dendritic cell,BTLA
+2206,CD141+CLEC9A+ dendritic cell,CADM1
+2207,CD141+CLEC9A+ dendritic cell,CAMK2D
+2208,CD141+CLEC9A+ dendritic cell,CCND1
+2209,CD141+CLEC9A+ dendritic cell,CD40
+2210,CD141+CLEC9A+ dendritic cell,CD93
+2211,CD141+CLEC9A+ dendritic cell,CLNK
+2212,CD141+CLEC9A+ dendritic cell,CPNE3
+2213,CD141+CLEC9A+ dendritic cell,CPVL
+2214,CD141+CLEC9A+ dendritic cell,CSRP1
+2215,CD141+CLEC9A+ dendritic cell,CTTNBP2NL
+2216,CD141+CLEC9A+ dendritic cell,CYB5R3
+2217,CD141+CLEC9A+ dendritic cell,CYP2E1
+2218,CD141+CLEC9A+ dendritic cell,DENND1B
+2219,CD141+CLEC9A+ dendritic cell,DHRS3
+2220,CD141+CLEC9A+ dendritic cell,DNASE1L3
+2221,CD141+CLEC9A+ dendritic cell,DPP4
+2222,CD141+CLEC9A+ dendritic cell,DSE
+2223,CD141+CLEC9A+ dendritic cell,DST
+2224,CD141+CLEC9A+ dendritic cell,DUSP10
+2225,CD141+CLEC9A+ dendritic cell,DUSP2
+2226,CD141+CLEC9A+ dendritic cell,EHD4
+2227,CD141+CLEC9A+ dendritic cell,ELOVL5
+2228,CD141+CLEC9A+ dendritic cell,ENPP1
+2229,CD141+CLEC9A+ dendritic cell,FAM135A
+2230,CD141+CLEC9A+ dendritic cell,FCRL6
+2231,CD141+CLEC9A+ dendritic cell,FLT3
+2232,CD141+CLEC9A+ dendritic cell,FUCA1
+2233,CD141+CLEC9A+ dendritic cell,GSTM4
+2234,CD141+CLEC9A+ dendritic cell,GYPC
+2235,CD141+CLEC9A+ dendritic cell,HAVCR2
+2236,CD141+CLEC9A+ dendritic cell,HLA-DOB
+2237,CD141+CLEC9A+ dendritic cell,HLA-DPB2
+2238,CD141+CLEC9A+ dendritic cell,IDO2
+2239,CD141+CLEC9A+ dendritic cell,INF2
+2240,CD141+CLEC9A+ dendritic cell,KCNK6
+2241,CD141+CLEC9A+ dendritic cell,KIF16B
+2242,CD141+CLEC9A+ dendritic cell,LACC1
+2243,CD141+CLEC9A+ dendritic cell,LGALS2
+2244,CD141+CLEC9A+ dendritic cell,LMNA
+2245,CD141+CLEC9A+ dendritic cell,LRRC18
+2246,CD141+CLEC9A+ dendritic cell,NDRG2
+2247,CD141+CLEC9A+ dendritic cell,NET1
+2248,CD141+CLEC9A+ dendritic cell,OSBPL3
+2249,CD141+CLEC9A+ dendritic cell,PAFAH1B3
+2250,CD141+CLEC9A+ dendritic cell,PDE4DIP
+2251,CD141+CLEC9A+ dendritic cell,PDLIM1
+2252,CD141+CLEC9A+ dendritic cell,PDLIM7
+2253,CD141+CLEC9A+ dendritic cell,PIK3CB
+2254,CD141+CLEC9A+ dendritic cell,PLCD1
+2255,CD141+CLEC9A+ dendritic cell,PPA1
+2256,CD141+CLEC9A+ dendritic cell,PPM1H
+2257,CD141+CLEC9A+ dendritic cell,PPM1M
+2258,CD141+CLEC9A+ dendritic cell,RAB11FIP4
+2259,CD141+CLEC9A+ dendritic cell,RGS10
+2260,CD141+CLEC9A+ dendritic cell,SCARF1
+2261,CD141+CLEC9A+ dendritic cell,SLAMF7
+2262,CD141+CLEC9A+ dendritic cell,SLAMF8
+2263,CD141+CLEC9A+ dendritic cell,SLC24A4
+2264,CD141+CLEC9A+ dendritic cell,SLC9A9
+2265,CD141+CLEC9A+ dendritic cell,SNX22
+2266,CD141+CLEC9A+ dendritic cell,SNX3
+2267,CD141+CLEC9A+ dendritic cell,STX3
+2268,CD141+CLEC9A+ dendritic cell,TMEM14A
+2269,CD141+CLEC9A+ dendritic cell,TRERF1
+2270,CD141+CLEC9A+ dendritic cell,VAC14
+2271,CD141+CLEC9A+ dendritic cell,VAV3
+2272,CD141+CLEC9A+ dendritic cell,WDFY4
+2273,CD141+CLEC9A+ dendritic cell,WHAMMP3
+2274,CD141+CLEC9A+ dendritic cell,XCR1
+2275,CD141+CLEC9A+ dendritic cell,ZNF366
+2276,CD1C+_A dendritic cell,ADAM8
+2277,CD1C+_A dendritic cell,AREG
+2278,CD1C+_A dendritic cell,TMEM273
+2279,CD1C+_A dendritic cell,CACNA2D3
+2280,CD1C+_A dendritic cell,CD1D
+2281,CD1C+_A dendritic cell,CD1E
+2282,CD1C+_A dendritic cell,CLEC10A
+2283,CD1C+_A dendritic cell,CLEC17A
+2284,CD1C+_A dendritic cell,CLEC4A
+2285,CD1C+_A dendritic cell,CLIC2
+2286,CD1C+_A dendritic cell,CREB5
+2287,CD1C+_A dendritic cell,ENTPD1
+2288,CD1C+_A dendritic cell,ETS2
+2289,CD1C+_A dendritic cell,FCER1A
+2290,CD1C+_A dendritic cell,FCGR2B
+2291,CD1C+_A dendritic cell,ITGA5
+2292,CD1C+_A dendritic cell,MBOAT7
+2293,CD1C+_A dendritic cell,NOD2
+2294,CD1C+_A dendritic cell,NR4A2
+2295,CD1C+_A dendritic cell,PEA15
+2296,CD1C+_A dendritic cell,PER1
+2297,CD1C+_A dendritic cell,PID1
+2298,CD1C+_A dendritic cell,PTGS1
+2299,CD1C+_A dendritic cell,SMN1
+2300,CD1C+_B dendritic cell,AOAH
+2301,CD1C+_B dendritic cell,ASGR1
+2302,CD1C+_B dendritic cell,BST1
+2303,CD1C+_B dendritic cell,CES1
+2304,CD1C+_B dendritic cell,CES1P1
+2305,CD1C+_B dendritic cell,EREG
+2306,CD1C+_B dendritic cell,F13A1
+2307,CD1C+_B dendritic cell,FCN1
+2308,CD1C+_B dendritic cell,FPR1
+2309,CD1C+_B dendritic cell,HBEGF
+2310,CD1C+_B dendritic cell,HNMT
+2311,CD1C+_B dendritic cell,IL13RA1
+2312,CD1C+_B dendritic cell,LAT2
+2313,CD1C+_B dendritic cell,MIR23AHG
+2314,CD1C+_B dendritic cell,MGST1
+2315,CD1C+_B dendritic cell,MICAL2
+2316,CD1C+_B dendritic cell,MNDA
+2317,CD1C+_B dendritic cell,MPP7
+2318,CD1C+_B dendritic cell,MTMR11
+2319,CD1C+_B dendritic cell,NAIP
+2320,CD1C+_B dendritic cell,NFE2
+2321,CD1C+_B dendritic cell,NLRP3
+2322,CD1C+_B dendritic cell,PLBD1
+2323,CD1C+_B dendritic cell,RAB3D
+2324,CD1C+_B dendritic cell,RETN
+2325,CD1C+_B dendritic cell,RNASE2
+2326,CD1C+_B dendritic cell,S100A12
+2327,CD1C+_B dendritic cell,S100A9
+2328,CD1C+_B dendritic cell,STING1
+2329,CD1C+_B dendritic cell,TREM1
+2330,CD1C+_B dendritic cell,VCAN
+2331,CD1C-CD141- dendritic cell,ABCC3
+2332,CD1C-CD141- dendritic cell,ABHD3
+2333,CD1C-CD141- dendritic cell,ABI3
+2334,CD1C-CD141- dendritic cell,ACOT9
+2335,CD1C-CD141- dendritic cell,AGTRAP
+2336,CD1C-CD141- dendritic cell,AIF1
+2337,CD1C-CD141- dendritic cell,ALOX5
+2338,CD1C-CD141- dendritic cell,AMPD2
+2339,CD1C-CD141- dendritic cell,AP2A1
+2340,CD1C-CD141- dendritic cell,APOBEC3A
+2341,CD1C-CD141- dendritic cell,ARAP2
+2342,CD1C-CD141- dendritic cell,ARHGEF3
+2343,CD1C-CD141- dendritic cell,ARRB1
+2344,CD1C-CD141- dendritic cell,ARRB2
+2345,CD1C-CD141- dendritic cell,ARRDC3
+2346,CD1C-CD141- dendritic cell,ASAH1
+2347,CD1C-CD141- dendritic cell,BACH1
+2348,CD1C-CD141- dendritic cell,BCL2A1
+2349,CD1C-CD141- dendritic cell,BID
+2350,CD1C-CD141- dendritic cell,BIN2
+2351,CD1C-CD141- dendritic cell,BLOC1S3
+2352,CD1C-CD141- dendritic cell,BLVRA
+2353,CD1C-CD141- dendritic cell,C3AR1
+2354,CD1C-CD141- dendritic cell,CAMK1
+2355,CD1C-CD141- dendritic cell,CAMKK2
+2356,CD1C-CD141- dendritic cell,CASP1
+2357,CD1C-CD141- dendritic cell,CASP4
+2358,CD1C-CD141- dendritic cell,CCM2
+2359,CD1C-CD141- dendritic cell,CCPG1
+2360,CD1C-CD141- dendritic cell,CD300A
+2361,CD1C-CD141- dendritic cell,CD300E
+2362,CD1C-CD141- dendritic cell,CD300LF
+2363,CD1C-CD141- dendritic cell,CD52
+2364,CD1C-CD141- dendritic cell,CD79B
+2365,CD1C-CD141- dendritic cell,CDC42EP3
+2366,CD1C-CD141- dendritic cell,CDKN1C
+2367,CD1C-CD141- dendritic cell,CLEC12A
+2368,CD1C-CD141- dendritic cell,CLEC4F
+2369,CD1C-CD141- dendritic cell,CLEC7A
+2370,CD1C-CD141- dendritic cell,CMTM7
+2371,CD1C-CD141- dendritic cell,CNIH4
+2372,CD1C-CD141- dendritic cell,CORO2A
+2373,CD1C-CD141- dendritic cell,CPPED1
+2374,CD1C-CD141- dendritic cell,CSF1R
+2375,CD1C-CD141- dendritic cell,CSGALNACT2
+2376,CD1C-CD141- dendritic cell,CSK
+2377,CD1C-CD141- dendritic cell,CXCL16
+2378,CD1C-CD141- dendritic cell,CYTIP
+2379,CD1C-CD141- dendritic cell,DDX58
+2380,CD1C-CD141- dendritic cell,DDX60
+2381,CD1C-CD141- dendritic cell,DDX60L
+2382,CD1C-CD141- dendritic cell,DENND3
+2383,CD1C-CD141- dendritic cell,DENND5A
+2384,CD1C-CD141- dendritic cell,DMXL2
+2385,CD1C-CD141- dendritic cell,DNAJB1
+2386,CD1C-CD141- dendritic cell,DOK2
+2387,CD1C-CD141- dendritic cell,DOK3
+2388,CD1C-CD141- dendritic cell,DPEP2
+2389,CD1C-CD141- dendritic cell,DRAP1
+2390,CD1C-CD141- dendritic cell,DUSP1
+2391,CD1C-CD141- dendritic cell,EHD1
+2392,CD1C-CD141- dendritic cell,ERICH1
+2393,CD1C-CD141- dendritic cell,EVL
+2394,CD1C-CD141- dendritic cell,FAM110A
+2395,CD1C-CD141- dendritic cell,FAM126A
+2396,CD1C-CD141- dendritic cell,FCGR2A
+2397,CD1C-CD141- dendritic cell,FCGR2C
+2398,CD1C-CD141- dendritic cell,FGD3
+2399,CD1C-CD141- dendritic cell,FGD4
+2400,CD1C-CD141- dendritic cell,FGR
+2401,CD1C-CD141- dendritic cell,FLNA
+2402,CD1C-CD141- dendritic cell,FOXO1
+2403,CD1C-CD141- dendritic cell,FTH1
+2404,CD1C-CD141- dendritic cell,FTL
+2405,CD1C-CD141- dendritic cell,GBP1
+2406,CD1C-CD141- dendritic cell,GBP2
+2407,CD1C-CD141- dendritic cell,GBP5
+2408,CD1C-CD141- dendritic cell,GIMAP1
+2409,CD1C-CD141- dendritic cell,GIMAP2
+2410,CD1C-CD141- dendritic cell,GIMAP4
+2411,CD1C-CD141- dendritic cell,GIMAP7
+2412,CD1C-CD141- dendritic cell,GLUL
+2413,CD1C-CD141- dendritic cell,GNG2
+2414,CD1C-CD141- dendritic cell,GNS
+2415,CD1C-CD141- dendritic cell,GPBAR1
+2416,CD1C-CD141- dendritic cell,HCK
+2417,CD1C-CD141- dendritic cell,HEG1
+2418,CD1C-CD141- dendritic cell,HK1
+2419,CD1C-CD141- dendritic cell,HK3
+2420,CD1C-CD141- dendritic cell,HLA-E
+2421,CD1C-CD141- dendritic cell,HMOX1
+2422,CD1C-CD141- dendritic cell,HSBP1
+2423,CD1C-CD141- dendritic cell,HSPA7
+2424,CD1C-CD141- dendritic cell,ICAM2
+2425,CD1C-CD141- dendritic cell,IFI30
+2426,CD1C-CD141- dendritic cell,IFI6
+2427,CD1C-CD141- dendritic cell,IFIT2
+2428,CD1C-CD141- dendritic cell,IFIT3
+2429,CD1C-CD141- dendritic cell,IFITM2
+2430,CD1C-CD141- dendritic cell,IFNGR2
+2431,CD1C-CD141- dendritic cell,IL12RB1
+2432,CD1C-CD141- dendritic cell,IMPDH1
+2433,CD1C-CD141- dendritic cell,IRAK3
+2434,CD1C-CD141- dendritic cell,IRF1
+2435,CD1C-CD141- dendritic cell,ISG15
+2436,CD1C-CD141- dendritic cell,ITM2B
+2437,CD1C-CD141- dendritic cell,KDM1B
+2438,CD1C-CD141- dendritic cell,KIAA0513
+2439,CD1C-CD141- dendritic cell,KLF11
+2440,CD1C-CD141- dendritic cell,KLF3
+2441,CD1C-CD141- dendritic cell,KSR1
+2442,CD1C-CD141- dendritic cell,LCP2
+2443,CD1C-CD141- dendritic cell,LGALS3
+2444,CD1C-CD141- dendritic cell,LILRA2
+2445,CD1C-CD141- dendritic cell,LILRA6
+2446,CD1C-CD141- dendritic cell,LILRB2
+2447,CD1C-CD141- dendritic cell,LIMS1
+2448,CD1C-CD141- dendritic cell,UICLM
+2449,CD1C-CD141- dendritic cell,LRP1
+2450,CD1C-CD141- dendritic cell,LRRC25
+2451,CD1C-CD141- dendritic cell,LST1
+2452,CD1C-CD141- dendritic cell,LTA4H
+2453,CD1C-CD141- dendritic cell,LY6E
+2454,CD1C-CD141- dendritic cell,LYN
+2455,CD1C-CD141- dendritic cell,LYST
+2456,CD1C-CD141- dendritic cell,MAFB
+2457,CD1C-CD141- dendritic cell,MAGED2
+2458,CD1C-CD141- dendritic cell,MAP3K1
+2459,CD1C-CD141- dendritic cell,MARCKS
+2460,CD1C-CD141- dendritic cell,MBD2
+2461,CD1C-CD141- dendritic cell,MCTP1
+2462,CD1C-CD141- dendritic cell,MPP1
+2463,CD1C-CD141- dendritic cell,MS4A4A
+2464,CD1C-CD141- dendritic cell,MS4A7
+2465,CD1C-CD141- dendritic cell,MSN
+2466,CD1C-CD141- dendritic cell,MT2A
+2467,CD1C-CD141- dendritic cell,MTSS1
+2468,CD1C-CD141- dendritic cell,MXD3
+2469,CD1C-CD141- dendritic cell,MYO1G
+2470,CD1C-CD141- dendritic cell,MYOF
+2471,CD1C-CD141- dendritic cell,NAAA
+2472,CD1C-CD141- dendritic cell,NADK
+2473,CD1C-CD141- dendritic cell,NAMPT
+2474,CD1C-CD141- dendritic cell,NAP1L1
+2475,CD1C-CD141- dendritic cell,NBEAL2
+2476,CD1C-CD141- dendritic cell,NCF2
+2477,CD1C-CD141- dendritic cell,NDUFB3
+2478,CD1C-CD141- dendritic cell,NECAP2
+2479,CD1C-CD141- dendritic cell,NFAM1
+2480,CD1C-CD141- dendritic cell,NFKBIZ
+2481,CD1C-CD141- dendritic cell,NINJ1
+2482,CD1C-CD141- dendritic cell,NLRP1
+2483,CD1C-CD141- dendritic cell,NPL
+2484,CD1C-CD141- dendritic cell,NR4A1
+2485,CD1C-CD141- dendritic cell,NUDT16
+2486,CD1C-CD141- dendritic cell,OAS1
+2487,CD1C-CD141- dendritic cell,P2RX1
+2488,CD1C-CD141- dendritic cell,P2RY13
+2489,CD1C-CD141- dendritic cell,PAG1
+2490,CD1C-CD141- dendritic cell,PDLIM5
+2491,CD1C-CD141- dendritic cell,PDP1
+2492,CD1C-CD141- dendritic cell,PELI1
+2493,CD1C-CD141- dendritic cell,PHTF2
+2494,CD1C-CD141- dendritic cell,PIEZO1
+2495,CD1C-CD141- dendritic cell,PIK3AP1
+2496,CD1C-CD141- dendritic cell,PIK3IP1
+2497,CD1C-CD141- dendritic cell,PILRA
+2498,CD1C-CD141- dendritic cell,PLEKHO2
+2499,CD1C-CD141- dendritic cell,PLIN2
+2500,CD1C-CD141- dendritic cell,PLXNC1
+2501,CD1C-CD141- dendritic cell,POU2F2
+2502,CD1C-CD141- dendritic cell,PPM1F
+2503,CD1C-CD141- dendritic cell,PRAM1
+2504,CD1C-CD141- dendritic cell,PSAP
+2505,CD1C-CD141- dendritic cell,PSTPIP2
+2506,CD1C-CD141- dendritic cell,PTGER2
+2507,CD1C-CD141- dendritic cell,PTGER4
+2508,CD1C-CD141- dendritic cell,PTP4A3
+2509,CD1C-CD141- dendritic cell,PTPN6
+2510,CD1C-CD141- dendritic cell,PYGL
+2511,CD1C-CD141- dendritic cell,RAB10
+2512,CD1C-CD141- dendritic cell,RAB24
+2513,CD1C-CD141- dendritic cell,RALB
+2514,CD1C-CD141- dendritic cell,RAP1B
+2515,CD1C-CD141- dendritic cell,RAP1GAP2
+2516,CD1C-CD141- dendritic cell,RASGRP4
+2517,CD1C-CD141- dendritic cell,RELT
+2518,CD1C-CD141- dendritic cell,RHOC
+2519,CD1C-CD141- dendritic cell,RNF144B
+2520,CD1C-CD141- dendritic cell,RXRA
+2521,CD1C-CD141- dendritic cell,S100A11
+2522,CD1C-CD141- dendritic cell,S100A4
+2523,CD1C-CD141- dendritic cell,SAMSN1
+2524,CD1C-CD141- dendritic cell,SASH1
+2525,CD1C-CD141- dendritic cell,SAT1
+2526,CD1C-CD141- dendritic cell,SCPEP1
+2527,CD1C-CD141- dendritic cell,SDCBP
+2528,CD1C-CD141- dendritic cell,SERPINA1
+2529,CD1C-CD141- dendritic cell,SGPL1
+2530,CD1C-CD141- dendritic cell,SH2D1B
+2531,CD1C-CD141- dendritic cell,SH3BP2
+2532,CD1C-CD141- dendritic cell,SIDT2
+2533,CD1C-CD141- dendritic cell,SIGLEC10
+2534,CD1C-CD141- dendritic cell,SIRPB1
+2535,CD1C-CD141- dendritic cell,SLA
+2536,CD1C-CD141- dendritic cell,SLC11A1
+2537,CD1C-CD141- dendritic cell,SLC2A6
+2538,CD1C-CD141- dendritic cell,SLC31A2
+2539,CD1C-CD141- dendritic cell,SLC44A2
+2540,CD1C-CD141- dendritic cell,SLC7A7
+2541,CD1C-CD141- dendritic cell,SMAP2
+2542,CD1C-CD141- dendritic cell,SNX18
+2543,CD1C-CD141- dendritic cell,SOD2
+2544,CD1C-CD141- dendritic cell,SSH2
+2545,CD1C-CD141- dendritic cell,STK10
+2546,CD1C-CD141- dendritic cell,STK38
+2547,CD1C-CD141- dendritic cell,STX11
+2548,CD1C-CD141- dendritic cell,STXBP2
+2549,CD1C-CD141- dendritic cell,SULT1A1
+2550,CD1C-CD141- dendritic cell,SWAP70
+2551,CD1C-CD141- dendritic cell,SYTL1
+2552,CD1C-CD141- dendritic cell,TAGLN
+2553,CD1C-CD141- dendritic cell,TBCD
+2554,CD1C-CD141- dendritic cell,TBXAS1
+2555,CD1C-CD141- dendritic cell,TCF7L2
+2556,CD1C-CD141- dendritic cell,TCIRG1
+2557,CD1C-CD141- dendritic cell,TESC
+2558,CD1C-CD141- dendritic cell,TIAM1
+2559,CD1C-CD141- dendritic cell,TKT
+2560,CD1C-CD141- dendritic cell,TLE4
+2561,CD1C-CD141- dendritic cell,TLR2
+2562,CD1C-CD141- dendritic cell,TLR4
+2563,CD1C-CD141- dendritic cell,TMBIM1
+2564,CD1C-CD141- dendritic cell,TMC6
+2565,CD1C-CD141- dendritic cell,TMEM11
+2566,CD1C-CD141- dendritic cell,TMEM134
+2567,CD1C-CD141- dendritic cell,TMEM154
+2568,CD1C-CD141- dendritic cell,TMEM176B
+2569,CD1C-CD141- dendritic cell,TMPO
+2570,CD1C-CD141- dendritic cell,TMTC1
+2571,CD1C-CD141- dendritic cell,TNFRSF14
+2572,CD1C-CD141- dendritic cell,TNFRSF1B
+2573,CD1C-CD141- dendritic cell,TNFSF10
+2574,CD1C-CD141- dendritic cell,TSC22D3
+2575,CD1C-CD141- dendritic cell,TSPAN32
+2576,CD1C-CD141- dendritic cell,TTYH3
+2577,CD1C-CD141- dendritic cell,TXNIP
+2578,CD1C-CD141- dendritic cell,TYMP
+2579,CD1C-CD141- dendritic cell,TYROBP
+2580,CD1C-CD141- dendritic cell,UBXN11
+2581,CD1C-CD141- dendritic cell,UNC13D
+2582,CD1C-CD141- dendritic cell,UPP1
+2583,CD1C-CD141- dendritic cell,VAMP5
+2584,CD1C-CD141- dendritic cell,VASP
+2585,CD1C-CD141- dendritic cell,VMP1
+2586,CD1C-CD141- dendritic cell,WARS1
+2587,CD1C-CD141- dendritic cell,WDFY1
+2588,CD1C-CD141- dendritic cell,WDR11
+2589,CD1C-CD141- dendritic cell,YPEL2
+2590,CD1C-CD141- dendritic cell,ZEB2
+2591,CD1C-CD141- dendritic cell,ZFAND5
+2592,CD1C-CD141- dendritic cell,ZNFX1
+2593,AXL+SIGLEC6+ dendritic cell,ACP3
+2594,AXL+SIGLEC6+ dendritic cell,ADAM33
+2595,AXL+SIGLEC6+ dendritic cell,ALDH2
+2596,AXL+SIGLEC6+ dendritic cell,APEX1
+2597,AXL+SIGLEC6+ dendritic cell,ARHGAP18
+2598,AXL+SIGLEC6+ dendritic cell,ATF5
+2599,AXL+SIGLEC6+ dendritic cell,ATP2B4
+2600,AXL+SIGLEC6+ dendritic cell,AXL
+2601,AXL+SIGLEC6+ dendritic cell,BAIAP2
+2602,AXL+SIGLEC6+ dendritic cell,BIN1
+2603,AXL+SIGLEC6+ dendritic cell,CCND3
+2604,AXL+SIGLEC6+ dendritic cell,CD300LB
+2605,AXL+SIGLEC6+ dendritic cell,CD300LG
+2606,AXL+SIGLEC6+ dendritic cell,CD5
+2607,AXL+SIGLEC6+ dendritic cell,CD72
+2608,AXL+SIGLEC6+ dendritic cell,CDKN1A
+2609,AXL+SIGLEC6+ dendritic cell,CEP95
+2610,AXL+SIGLEC6+ dendritic cell,COQ7
+2611,AXL+SIGLEC6+ dendritic cell,CTSW
+2612,AXL+SIGLEC6+ dendritic cell,DAB2
+2613,AXL+SIGLEC6+ dendritic cell,DPYSL2
+2614,AXL+SIGLEC6+ dendritic cell,ENTPD7
+2615,AXL+SIGLEC6+ dendritic cell,GGTA1
+2616,AXL+SIGLEC6+ dendritic cell,GNAQ
+2617,AXL+SIGLEC6+ dendritic cell,GPR146
+2618,AXL+SIGLEC6+ dendritic cell,IRF4
+2619,AXL+SIGLEC6+ dendritic cell,KLF12
+2620,AXL+SIGLEC6+ dendritic cell,LGMN
+2621,AXL+SIGLEC6+ dendritic cell,LTK
+2622,AXL+SIGLEC6+ dendritic cell,MECR
+2623,AXL+SIGLEC6+ dendritic cell,MED12L
+2624,AXL+SIGLEC6+ dendritic cell,MGLL
+2625,AXL+SIGLEC6+ dendritic cell,MRPS6
+2626,AXL+SIGLEC6+ dendritic cell,MYH11
+2627,AXL+SIGLEC6+ dendritic cell,MYO1E
+2628,AXL+SIGLEC6+ dendritic cell,NDRG1
+2629,AXL+SIGLEC6+ dendritic cell,PIM2
+2630,AXL+SIGLEC6+ dendritic cell,PPP1R14A
+2631,AXL+SIGLEC6+ dendritic cell,PTGDS
+2632,AXL+SIGLEC6+ dendritic cell,RAD1
+2633,AXL+SIGLEC6+ dendritic cell,RBL1
+2634,AXL+SIGLEC6+ dendritic cell,RNASEL
+2635,AXL+SIGLEC6+ dendritic cell,RNF141
+2636,AXL+SIGLEC6+ dendritic cell,RUNX2
+2637,AXL+SIGLEC6+ dendritic cell,SCN9A
+2638,AXL+SIGLEC6+ dendritic cell,SIGLEC1
+2639,AXL+SIGLEC6+ dendritic cell,SIGLEC6
+2640,AXL+SIGLEC6+ dendritic cell,SLC20A1
+2641,AXL+SIGLEC6+ dendritic cell,SLC35C2
+2642,AXL+SIGLEC6+ dendritic cell,SLC41A2
+2643,AXL+SIGLEC6+ dendritic cell,SLC4A3
+2644,AXL+SIGLEC6+ dendritic cell,SNRNP25
+2645,AXL+SIGLEC6+ dendritic cell,SP4
+2646,AXL+SIGLEC6+ dendritic cell,STAG3L4
+2647,AXL+SIGLEC6+ dendritic cell,STX18
+2648,AXL+SIGLEC6+ dendritic cell,SUCLA2
+2649,AXL+SIGLEC6+ dendritic cell,SUSD1
+2650,AXL+SIGLEC6+ dendritic cell,TNFSF12
+2651,AXL+SIGLEC6+ dendritic cell,TNNI2
+2652,AXL+SIGLEC6+ dendritic cell,TSEN54
+2653,AXL+SIGLEC6+ dendritic cell,TXN
+2654,AXL+SIGLEC6+ dendritic cell,UPK3A
+2655,AXL+SIGLEC6+ dendritic cell,VASH1
+2656,AXL+SIGLEC6+ dendritic cell,ZEB1
+2657,AXL+SIGLEC6+ dendritic cell,ZNF789
+2658,Plasmacytoid dendritic cell,ABCA2
+2659,Plasmacytoid dendritic cell,ABCA7
+2660,Plasmacytoid dendritic cell,ADAM19
+2661,Plasmacytoid dendritic cell,AHI1
+2662,Plasmacytoid dendritic cell,AHNAK2
+2663,Plasmacytoid dendritic cell,ALDH5A1
+2664,Plasmacytoid dendritic cell,ALG2
+2665,Plasmacytoid dendritic cell,ALOX5AP
+2666,Plasmacytoid dendritic cell,ANKRD36BP1
+2667,Plasmacytoid dendritic cell,ANKS3
+2668,Plasmacytoid dendritic cell,ARL6IP6
+2669,Plasmacytoid dendritic cell,ASPH
+2670,Plasmacytoid dendritic cell,ATP13A2
+2671,Plasmacytoid dendritic cell,ATP2A3
+2672,Plasmacytoid dendritic cell,B4GALT1
+2673,Plasmacytoid dendritic cell,BCL11A
+2674,Plasmacytoid dendritic cell,BEX4
+2675,Plasmacytoid dendritic cell,BLNK
+2676,Plasmacytoid dendritic cell,CARD11
+2677,Plasmacytoid dendritic cell,CCDC50
+2678,Plasmacytoid dendritic cell,CCDC69
+2679,Plasmacytoid dendritic cell,CCR2
+2680,Plasmacytoid dendritic cell,CCS
+2681,Plasmacytoid dendritic cell,CD2AP
+2682,Plasmacytoid dendritic cell,CD99
+2683,Plasmacytoid dendritic cell,CDCA7L
+2684,Plasmacytoid dendritic cell,CEP135
+2685,Plasmacytoid dendritic cell,CLCN5
+2686,Plasmacytoid dendritic cell,CLIC3
+2687,Plasmacytoid dendritic cell,CMKLR1
+2688,Plasmacytoid dendritic cell,CNP
+2689,Plasmacytoid dendritic cell,COBLL1
+2690,Plasmacytoid dendritic cell,COL24A1
+2691,Plasmacytoid dendritic cell,CREB3L2
+2692,Plasmacytoid dendritic cell,CRIM1
+2693,Plasmacytoid dendritic cell,CRYM-AS1
+2694,Plasmacytoid dendritic cell,CSF2RB
+2695,Plasmacytoid dendritic cell,CSNK1E
+2696,Plasmacytoid dendritic cell,CTSB
+2697,Plasmacytoid dendritic cell,CUX2
+2698,Plasmacytoid dendritic cell,CYP46A1
+2699,Plasmacytoid dendritic cell,CYSLTR1
+2700,Plasmacytoid dendritic cell,CYTH4
+2701,Plasmacytoid dendritic cell,DAAM1
+2702,Plasmacytoid dendritic cell,DAPK2
+2703,Plasmacytoid dendritic cell,DCK
+2704,Plasmacytoid dendritic cell,DCPS
+2705,Plasmacytoid dendritic cell,DERL3
+2706,Plasmacytoid dendritic cell,DHTKD1
+2707,Plasmacytoid dendritic cell,DKFZP586I1420
+2708,Plasmacytoid dendritic cell,DPPA4
+2709,Plasmacytoid dendritic cell,DSN1
+2710,Plasmacytoid dendritic cell,DUSP5
+2711,Plasmacytoid dendritic cell,EGLN3
+2712,Plasmacytoid dendritic cell,EIF4A3
+2713,Plasmacytoid dendritic cell,EMB
+2714,Plasmacytoid dendritic cell,EPHB1
+2715,Plasmacytoid dendritic cell,ERN1
+2716,Plasmacytoid dendritic cell,ERP29
+2717,Plasmacytoid dendritic cell,FHIP1A
+2718,Plasmacytoid dendritic cell,FCHSD2
+2719,Plasmacytoid dendritic cell,FKBP2
+2720,Plasmacytoid dendritic cell,FLNB
+2721,Plasmacytoid dendritic cell,FMNL3
+2722,Plasmacytoid dendritic cell,FOXRED2
+2723,Plasmacytoid dendritic cell,FUT7
+2724,Plasmacytoid dendritic cell,FZD3
+2725,Plasmacytoid dendritic cell,GAB1
+2726,Plasmacytoid dendritic cell,GALNT2
+2727,Plasmacytoid dendritic cell,GAPT
+2728,Plasmacytoid dendritic cell,GAS6
+2729,Plasmacytoid dendritic cell,GGA2
+2730,Plasmacytoid dendritic cell,GLCE
+2731,Plasmacytoid dendritic cell,GNG7
+2732,Plasmacytoid dendritic cell,GPM6B
+2733,Plasmacytoid dendritic cell,GPR183
+2734,Plasmacytoid dendritic cell,HERPUD1
+2735,Plasmacytoid dendritic cell,HIGD1A
+2736,Plasmacytoid dendritic cell,HNRNPA1L2
+2737,Plasmacytoid dendritic cell,HPS4
+2738,Plasmacytoid dendritic cell,HSP90B1
+2739,Plasmacytoid dendritic cell,IDH3A
+2740,Plasmacytoid dendritic cell,IGFBP3
+2741,Plasmacytoid dendritic cell,IGFLR1
+2742,Plasmacytoid dendritic cell,IRF2BP2
+2743,Plasmacytoid dendritic cell,IRF7
+2744,Plasmacytoid dendritic cell,IRF8
+2745,Plasmacytoid dendritic cell,ITM2C
+2746,Plasmacytoid dendritic cell,ITPR1
+2747,Plasmacytoid dendritic cell,KANK1
+2748,Plasmacytoid dendritic cell,KIRREL3
+2749,Plasmacytoid dendritic cell,KRR1
+2750,Plasmacytoid dendritic cell,LAMP5
+2751,Plasmacytoid dendritic cell,LILRA4
+2752,Plasmacytoid dendritic cell,LILRB4
+2753,Plasmacytoid dendritic cell,LIME1
+2754,Plasmacytoid dendritic cell,LMAN1
+2755,Plasmacytoid dendritic cell,LCT-AS1
+2756,Plasmacytoid dendritic cell,LOC652276
+2757,Plasmacytoid dendritic cell,LRP8
+2758,Plasmacytoid dendritic cell,LTB
+2759,Plasmacytoid dendritic cell,LY9
+2760,Plasmacytoid dendritic cell,MAGED1
+2761,Plasmacytoid dendritic cell,MAN2B1
+2762,Plasmacytoid dendritic cell,MAP1A
+2763,Plasmacytoid dendritic cell,MAP2K6
+2764,Plasmacytoid dendritic cell,MAP4K4
+2765,Plasmacytoid dendritic cell,MAPKAPK2
+2766,Plasmacytoid dendritic cell,MCOLN2
+2767,Plasmacytoid dendritic cell,MDFIC
+2768,Plasmacytoid dendritic cell,MDN1
+2769,Plasmacytoid dendritic cell,MFSD2A
+2770,Plasmacytoid dendritic cell,MIF4GD
+2771,Plasmacytoid dendritic cell,MILR1
+2772,Plasmacytoid dendritic cell,MRPL36
+2773,Plasmacytoid dendritic cell,MS4A6A
+2774,Plasmacytoid dendritic cell,MYB
+2775,Plasmacytoid dendritic cell,MYBL2
+2776,Plasmacytoid dendritic cell,MZB1
+2777,Plasmacytoid dendritic cell,N4BP2L1
+2778,Plasmacytoid dendritic cell,NCF1
+2779,Plasmacytoid dendritic cell,NCF1B
+2780,Plasmacytoid dendritic cell,NCF1C
+2781,Plasmacytoid dendritic cell,NFX1
+2782,Plasmacytoid dendritic cell,NGLY1
+2783,Plasmacytoid dendritic cell,NICN1
+2784,Plasmacytoid dendritic cell,NOP56
+2785,Plasmacytoid dendritic cell,NOTCH4
+2786,Plasmacytoid dendritic cell,NPC1
+2787,Plasmacytoid dendritic cell,NPC2
+2788,Plasmacytoid dendritic cell,NUCB2
+2789,Plasmacytoid dendritic cell,OFD1
+2790,Plasmacytoid dendritic cell,OGT
+2791,Plasmacytoid dendritic cell,OVOS2
+2792,Plasmacytoid dendritic cell,P2RY14
+2793,Plasmacytoid dendritic cell,P2RY6
+2794,Plasmacytoid dendritic cell,P4HB
+2795,Plasmacytoid dendritic cell,PACSIN1
+2796,Plasmacytoid dendritic cell,PAFAH2
+2797,Plasmacytoid dendritic cell,PAIP1
+2798,Plasmacytoid dendritic cell,PAPLN
+2799,Plasmacytoid dendritic cell,PARK7
+2800,Plasmacytoid dendritic cell,PARP10
+2801,Plasmacytoid dendritic cell,PCYOX1
+2802,Plasmacytoid dendritic cell,PDCD4
+2803,Plasmacytoid dendritic cell,PDIA4
+2804,Plasmacytoid dendritic cell,PFKFB2
+2805,Plasmacytoid dendritic cell,PFKP
+2806,Plasmacytoid dendritic cell,PHC3
+2807,Plasmacytoid dendritic cell,PHEX
+2808,Plasmacytoid dendritic cell,PHLPP2
+2809,Plasmacytoid dendritic cell,PIK3CD
+2810,Plasmacytoid dendritic cell,PLD4
+2811,Plasmacytoid dendritic cell,PLXNA4
+2812,Plasmacytoid dendritic cell,PMS2P5
+2813,Plasmacytoid dendritic cell,POLB
+2814,Plasmacytoid dendritic cell,PPARA
+2815,Plasmacytoid dendritic cell,PPFIBP1
+2816,Plasmacytoid dendritic cell,PPM1J
+2817,Plasmacytoid dendritic cell,PPM1K
+2818,Plasmacytoid dendritic cell,PPP6R1
+2819,Plasmacytoid dendritic cell,PTCRA
+2820,Plasmacytoid dendritic cell,PTK7
+2821,Plasmacytoid dendritic cell,PTPRCAP
+2822,Plasmacytoid dendritic cell,PTPRS
+2823,Plasmacytoid dendritic cell,QDPR
+2824,Plasmacytoid dendritic cell,RABGAP1L
+2825,Plasmacytoid dendritic cell,RASD1
+2826,Plasmacytoid dendritic cell,RCL1
+2827,Plasmacytoid dendritic cell,RNASE6
+2828,Plasmacytoid dendritic cell,RNASEH2B
+2829,Plasmacytoid dendritic cell,RNASET2
+2830,Plasmacytoid dendritic cell,RNF5
+2831,Plasmacytoid dendritic cell,RRBP1
+2832,Plasmacytoid dendritic cell,RREB1
+2833,Plasmacytoid dendritic cell,S100PBP
+2834,Plasmacytoid dendritic cell,SBDS
+2835,Plasmacytoid dendritic cell,SCAMP5
+2836,Plasmacytoid dendritic cell,SEC61A1
+2837,Plasmacytoid dendritic cell,SEC61B
+2838,Plasmacytoid dendritic cell,SEC61G
+2839,Plasmacytoid dendritic cell,SEL1L3
+2840,Plasmacytoid dendritic cell,SERPINF1
+2841,Plasmacytoid dendritic cell,SERTAD2
+2842,Plasmacytoid dendritic cell,SETBP1
+2843,Plasmacytoid dendritic cell,SFT2D2
+2844,Plasmacytoid dendritic cell,SGSM3
+2845,Plasmacytoid dendritic cell,SIT1
+2846,Plasmacytoid dendritic cell,SIVA1
+2847,Plasmacytoid dendritic cell,SLA2
+2848,Plasmacytoid dendritic cell,SLC12A3
+2849,Plasmacytoid dendritic cell,SLC15A4
+2850,Plasmacytoid dendritic cell,SLC23A2
+2851,Plasmacytoid dendritic cell,SLC2A1
+2852,Plasmacytoid dendritic cell,SLC33A1
+2853,Plasmacytoid dendritic cell,SLC38A1
+2854,Plasmacytoid dendritic cell,SLC38A2
+2855,Plasmacytoid dendritic cell,SLC3A2
+2856,Plasmacytoid dendritic cell,SLC7A11
+2857,Plasmacytoid dendritic cell,SLC7A5
+2858,Plasmacytoid dendritic cell,SMC6
+2859,Plasmacytoid dendritic cell,SMPD3
+2860,Plasmacytoid dendritic cell,SND1
+2861,Plasmacytoid dendritic cell,SNRPN
+2862,Plasmacytoid dendritic cell,SPATA5
+2863,Plasmacytoid dendritic cell,SPCS1
+2864,Plasmacytoid dendritic cell,SPIB
+2865,Plasmacytoid dendritic cell,SPICE1
+2866,Plasmacytoid dendritic cell,SPNS3
+2867,Plasmacytoid dendritic cell,SPON2
+2868,Plasmacytoid dendritic cell,SSR4
+2869,Plasmacytoid dendritic cell,ST3GAL2
+2870,Plasmacytoid dendritic cell,ST3GAL4
+2871,Plasmacytoid dendritic cell,ST6GALNAC4
+2872,Plasmacytoid dendritic cell,STAG3L1
+2873,Plasmacytoid dendritic cell,STAG3L3
+2874,Plasmacytoid dendritic cell,STAMBPL1
+2875,Plasmacytoid dendritic cell,STMN1
+2876,Plasmacytoid dendritic cell,STRBP
+2877,Plasmacytoid dendritic cell,STT3A
+2878,Plasmacytoid dendritic cell,SULF2
+2879,Plasmacytoid dendritic cell,SYS1
+2880,Plasmacytoid dendritic cell,TASP1
+2881,Plasmacytoid dendritic cell,TATDN3
+2882,Plasmacytoid dendritic cell,TAX1BP3
+2883,Plasmacytoid dendritic cell,TBCC
+2884,Plasmacytoid dendritic cell,TCF4
+2885,Plasmacytoid dendritic cell,TCL1A
+2886,Plasmacytoid dendritic cell,TCL6
+2887,Plasmacytoid dendritic cell,TEX2
+2888,Plasmacytoid dendritic cell,TGFBI
+2889,Plasmacytoid dendritic cell,THSD1P1
+2890,Plasmacytoid dendritic cell,TMEM109
+2891,Plasmacytoid dendritic cell,TMEM19
+2892,Plasmacytoid dendritic cell,TMEM63A
+2893,Plasmacytoid dendritic cell,TNFAIP3
+2894,Plasmacytoid dendritic cell,TNFRSF21
+2895,Plasmacytoid dendritic cell,TP53I11
+2896,Plasmacytoid dendritic cell,TP53I13
+2897,Plasmacytoid dendritic cell,TPM2
+2898,Plasmacytoid dendritic cell,TPST2
+2899,Plasmacytoid dendritic cell,TRAF4
+2900,Plasmacytoid dendritic cell,TRAM1
+2901,Plasmacytoid dendritic cell,TRDMT1
+2902,Plasmacytoid dendritic cell,TRIM74
+2903,Plasmacytoid dendritic cell,TRRAP
+2904,Plasmacytoid dendritic cell,TSPAN13
+2905,Plasmacytoid dendritic cell,TSPAN3
+2906,Plasmacytoid dendritic cell,TTC24
+2907,Plasmacytoid dendritic cell,TULP4
+2908,Plasmacytoid dendritic cell,TXNDC5
+2909,Plasmacytoid dendritic cell,UBA5
+2910,Plasmacytoid dendritic cell,UBE2J1
+2911,Plasmacytoid dendritic cell,UGCG
+2912,Plasmacytoid dendritic cell,USP11
+2913,Plasmacytoid dendritic cell,USP24
+2914,Plasmacytoid dendritic cell,VAMP1
+2915,Plasmacytoid dendritic cell,VIPR2
+2916,Plasmacytoid dendritic cell,ZBTB33
+2917,Plasmacytoid dendritic cell,ZDHHC17
+2918,Plasmacytoid dendritic cell,ZDHHC4
+2919,Plasmacytoid dendritic cell,ZFAT
+2920,Plasmacytoid dendritic cell,ZFYVE26
+2921,Plasmacytoid dendritic cell,ZNF506
+2922,Plasmacytoid dendritic cell,ZNF527
+2923,Megakaryocyte,FUT4
+2924,Basal cell,FYB1
+2925,Basal cell,NECTIN1
+2926,Basal cell,UPK3BL1
+2927,Secretory cell,PLAAT4
+2928,Secretory cell,SELENOM
+2929,Ciliated cell,ATP5IF1
+2930,Ciliated cell,CABCOCO1
+2931,Ciliated cell,GON7
+2932,Ciliated cell,CFAP161
+2933,Ciliated cell,CFAP126
+2934,Ciliated cell,CFAP61
+2935,Ciliated cell,CFAP298
+2936,Ciliated cell,ECRG4
+2937,Ciliated cell,CFAP77
+2938,Ciliated cell,SPACA9
+2939,Ciliated cell,CFAP36
+2940,Ciliated cell,CFAP53
+2941,Ciliated cell,BBOF1
+2942,Ciliated cell,CFAP73
+2943,Ciliated cell,CCN2
+2944,Ciliated cell,SAXO2
+2945,Ciliated cell,GRAMD2A
+2946,Ciliated cell,DNAAF5
+2947,Ciliated cell,PLAAT2
+2948,Ciliated cell,BRD3OS
+2949,Ciliated cell,MTSS2
+2950,Ciliated cell,PLAAT3
+2951,Ciliated cell,HACD4
+2952,Ciliated cell,RSPH14
+2953,Ciliated cell,METTL27
+2954,Ciliated cell,CFAP52
+2955,Ciliated cell,GET1
+2956,Ionocyte cell,VPS50
+2957,Ionocyte cell,RTL8A
+2958,Ionocyte cell,MCRIP2
+2959,Ionocyte cell,GAREM1
+2960,Ionocyte cell,NIPSNAP2
+2961,Ionocyte cell,ADGRF5
+2962,Ionocyte cell,SHTN1
+2963,Ionocyte cell,RTL6
+2964,Ionocyte cell,METTL13
+2965,Ionocyte cell,ITPRID2
+2966,Ionocyte cell,EIPR1
+2967,FOXN4+ cell,POGLUT3
+2968,FOXN4+ cell,HACD3
+2969,FOXN4+ cell,NSD2
+2970,SLC16A7+ cell,GRK3
+2971,SLC16A7+ cell,AHSA2P
+2972,SLC16A7+ cell,COA8
+2973,SLC16A7+ cell,DMAC2L
+2974,SLC16A7+ cell,BAIAP2-DT
+2975,SLC16A7+ cell,BMS1P1
+2976,SLC16A7+ cell,BSN-DT
+2977,SLC16A7+ cell,TSPOAP1
+2978,SLC16A7+ cell,BORCS7
+2979,SLC16A7+ cell,JHY
+2980,SLC16A7+ cell,TIGAR
+2981,SLC16A7+ cell,CCDC198
+2982,SLC16A7+ cell,DGLUCY
+2983,SLC16A7+ cell,LINC01588
+2984,SLC16A7+ cell,LINC01551
+2985,SLC16A7+ cell,CCDC32
+2986,SLC16A7+ cell,MOSMO
+2987,SLC16A7+ cell,FAAP24
+2988,SLC16A7+ cell,SHFL
+2989,SLC16A7+ cell,ARMH1
+2990,SLC16A7+ cell,CFAP410
+2991,SLC16A7+ cell,RTL10
+2992,SLC16A7+ cell,ABHD18
+2993,SLC16A7+ cell,TMEM267
+2994,SLC16A7+ cell,CPLANE1
+2995,SLC16A7+ cell,MRNIP
+2996,SLC16A7+ cell,EXOC3-AS1
+2997,SLC16A7+ cell,CFAP69
+2998,SLC16A7+ cell,CFAP157
+2999,SLC16A7+ cell,AOPEP
+3000,SLC16A7+ cell,CAPN10-DT
+3001,SLC16A7+ cell,NAXD
+3002,SLC16A7+ cell,CFAP100
+3003,SLC16A7+ cell,CFAP47
+3004,SLC16A7+ cell,DIPK2B
+3005,SLC16A7+ cell,TKFC
+3006,SLC16A7+ cell,DCDC1
+3007,SLC16A7+ cell,INTS6L
+3008,SLC16A7+ cell,DOP1A
+3009,SLC16A7+ cell,ADGRE4P
+3010,SLC16A7+ cell,FAM153CP
+3011,SLC16A7+ cell,TOGARAM2
+3012,SLC16A7+ cell,TASOR2
+3013,SLC16A7+ cell,INKA2
+3014,SLC16A7+ cell,MINDY2
+3015,SLC16A7+ cell,MIGA1
+3016,SLC16A7+ cell,MFSD14C
+3017,SLC16A7+ cell,ZNF875
+3018,SLC16A7+ cell,HNRNPU
+3019,SLC16A7+ cell,ILF3-DT
+3020,SLC16A7+ cell,CRPPA
+3021,SLC16A7+ cell,PCLAF
+3022,SLC16A7+ cell,RUBCN
+3023,SLC16A7+ cell,KHDC4
+3024,SLC16A7+ cell,WASHC4
+3025,SLC16A7+ cell,ARFGEF3
+3026,SLC16A7+ cell,CEP126
+3027,SLC16A7+ cell,VIRMA
+3028,SLC16A7+ cell,TRMT9B
+3029,SLC16A7+ cell,LNPK
+3030,SLC16A7+ cell,CFAP74
+3031,SLC16A7+ cell,MFSD4B
+3032,SLC16A7+ cell,P3H4
+3033,SLC16A7+ cell,ANKRD40CL
+3034,SLC16A7+ cell,MAN1B1-DT
+3035,SLC16A7+ cell,MICOS10P1
+3036,SLC16A7+ cell,AFDN
+3037,SLC16A7+ cell,AFDN-DT
+3038,SLC16A7+ cell,NUP50-DT
+3039,SLC16A7+ cell,OSER1-DT
+3040,SLC16A7+ cell,ACP7
+3041,SLC16A7+ cell,PRKN
+3042,SLC16A7+ cell,GATD1
+3043,SLC16A7+ cell,PNMA8A
+3044,SLC16A7+ cell,SLC66A1
+3045,SLC16A7+ cell,PYCR3
+3046,SLC16A7+ cell,RRP7BP
+3047,SLC16A7+ cell,RSKR
+3048,SLC16A7+ cell,SGO1
+3049,SLC16A7+ cell,SMIM11
+3050,SLC16A7+ cell,SPART
+3051,SLC16A7+ cell,ELOC
+3052,SLC16A7+ cell,MEAK7
+3053,SLC16A7+ cell,CFAP70
+3054,SLC16A7+ cell,CFAP46
+3055,SLC16A7+ cell,CFAP44
+3056,CD141+CLEC9A+ dendritic cell,CCSER1
+3057,CD141+CLEC9A+ dendritic cell,GCSAM
+3058,CD141+CLEC9A+ dendritic cell,MTERF2
+3059,CD1C-CD141- dendritic cell,GRK2
+3060,CD1C-CD141- dendritic cell,CTSL
+3061,CD1C-CD141- dendritic cell,ADGRE1
+3062,CD1C-CD141- dendritic cell,ADGRE2
+3063,CD1C-CD141- dendritic cell,CALHM6
+3064,CD1C-CD141- dendritic cell,DENND10P1
+3065,CD1C-CD141- dendritic cell,TENT5A
+3066,CD1C-CD141- dendritic cell,TUT7
+3067,AXL+SIGLEC6+ dendritic cell,OTULINL
+3068,AXL+SIGLEC6+ dendritic cell,NIBAN1
+3069,Plasmacytoid dendritic cell,SEPTIN11
+3070,Plasmacytoid dendritic cell,ERO1B
+3071,Plasmacytoid dendritic cell,NIBAN3
+3072,Plasmacytoid dendritic cell,ADGRG5
+3073,Plasmacytoid dendritic cell,JCHAIN
+3074,Plasmacytoid dendritic cell,IFNLR1
+3075,Plasmacytoid dendritic cell,RUBCNL
+3076,Plasmacytoid dendritic cell,RIOX2
+3077,Plasmacytoid dendritic cell,PCNX1
+3078,Plasmacytoid dendritic cell,SELENOS
+3079,Plasmacytoid dendritic cell,CAPN15
+3080,Plasmacytoid dendritic cell,SRPRA
+3081,Plasmacytoid dendritic cell,SUZ12P1
+3082,Plasmacytoid dendritic cell,TUT4
+3083,Alveolar cell,CLDN18
+3084,Alveolar cell,FOLR1
+3085,Alveolar cell,AQP4
+3086,Alveolar cell,PEBP4
+3087,Endothelial cell,CLDN5
+3088,Endothelial cell,RAMP2
+3089,Fibroblast,DCN
+3090,Fibroblast,C1R
+3091,B cell,CD79A
+3092,B cell,IGKC
+3093,B cell,IGLC3
+3094,B cell,IGHG3
+3095,Myeloid cell,MARCO
+3096,T cell,TRBC1
+3097,T cell,TRBC2
+3098,T cell,TRAC
+3099,T cell,CD8B
+3100,Red blood cell (erythrocyte),GYPA
+3101,SLC16A7+ cell,ADPRHL2
+3102,SLC16A7+ cell,ADRBK2
+3103,SLC16A7+ cell,AHSA2
+3104,Ionocyte cell,AKAP2
+3105,SLC16A7+ cell,APOPT1
+3106,Ciliated cell,ARMC4
+3107,SLC16A7+ cell,ATP5S
+3108,Ciliated cell,ATPIF1
+3109,SLC16A7+ cell,BAIAP2-AS1
+3110,SLC16A7+ cell,BMS1P5
+3111,SLC16A7+ cell,BSN-AS2
+3112,SLC16A7+ cell,BZRAP1
+3113,Ciliated cell,C10orf107
+3114,SLC16A7+ cell,C10orf32
+3115,SLC16A7+ cell,C11orf63
+3116,Ciliated cell,C11orf88
+3117,SLC16A7+ cell,C12orf5
+3118,SLC16A7+ cell,C14orf105
+3119,Ciliated cell,C14orf142
+3120,SLC16A7+ cell,C14orf159
+3121,SLC16A7+ cell,C14orf182
+3122,SLC16A7+ cell,C14orf23
+3123,Ciliated cell,C15orf26
+3124,SLC16A7+ cell,C15orf57
+3125,SLC16A7+ cell,C16orf52
+3126,Ciliated cell,C16orf71
+3127,SLC16A7+ cell,C19orf40
+3128,SLC16A7+ cell,C19orf66
+3129,Ciliated cell,C1orf189
+3130,Ciliated cell,C1orf192
+3131,Ciliated cell,C1orf194
+3132,SLC16A7+ cell,C1orf228
+3133,Ciliated cell,C20orf26
+3134,SLC16A7+ cell,C21orf2
+3135,Ciliated cell,C21orf59
+3136,SLC16A7+ cell,C22orf29
+3137,Ciliated cell,C2orf40
+3138,SLC16A7+ cell,C2orf91
+3139,SLC16A7+ cell,C4orf29
+3140,SLC16A7+ cell,C5orf28
+3141,SLC16A7+ cell,C5orf42
+3142,SLC16A7+ cell,C5orf45
+3143,SLC16A7+ cell,C5orf55
+3144,SLC16A7+ cell,C7orf55
+3145,SLC16A7+ cell,C7orf63
+3146,SLC16A7+ cell,C7orf65
+3147,SLC16A7+ cell,C8orf31
+3148,Ciliated cell,C9orf116
+3149,SLC16A7+ cell,C9orf117
+3150,Ciliated cell,C9orf135
+3151,SLC16A7+ cell,C9orf139
+3152,Ciliated cell,C9orf171
+3153,SLC16A7+ cell,C9orf3
+3154,Ciliated cell,C9orf9
+3155,SLC16A7+ cell,CAPN10-AS1
+3156,SLC16A7+ cell,CARKD
+3157,Ciliated cell,CARS
+3158,Ciliated cell,CASC1
+3159,Ciliated cell,CCDC104
+3160,Ciliated cell,CCDC11
+3161,SLC16A7+ cell,CCDC114
+3162,Ionocyte cell,CCDC132
+3163,Ciliated cell,CCDC176
+3164,SLC16A7+ cell,CCDC37
+3165,Ciliated cell,CCDC42B
+3166,SLC16A7+ cell,CCDC84
+3167,SLC16A7+ cell,CD3EAP
+3168,SLC16A7+ cell,CRIPAK
+3169,Ciliated cell,CTGF
+3170,SLC16A7+ cell,CXorf21
+3171,SLC16A7+ cell,CXorf30
+3172,SLC16A7+ cell,CXorf36
+3173,SLC16A7+ cell,DAK
+3174,Ionocyte cell,DARS
+3175,SLC16A7+ cell,DCDC5
+3176,SLC16A7+ cell,DDX26B
+3177,SLC16A7+ cell,DMBT1P1
+3178,SLC16A7+ cell,DOPEY1
+3179,SLC16A7+ cell,EMR4P
+3180,Ionocyte cell,FAM127B
+3181,SLC16A7+ cell,FAM153C
+3182,Ciliated cell,FAM154B
+3183,SLC16A7+ cell,FAM160A2
+3184,SLC16A7+ cell,FAM179A
+3185,Ionocyte cell,FAM195A
+3186,SLC16A7+ cell,FAM208B
+3187,SLC16A7+ cell,FAM212B
+3188,SLC16A7+ cell,FAM63B
+3189,SLC16A7+ cell,FAM71F2
+3190,SLC16A7+ cell,FAM73A
+3191,Ciliated cell,FAM92B
+3192,SLC16A7+ cell,FGFR1OP
+3193,SLC16A7+ cell,FLJ30403
+3194,SLC16A7+ cell,FLJ31104
+3195,SLC16A7+ cell,FLJ42102
+3196,SLC16A7+ cell,FLJ45079
+3197,Ionocyte cell,FOPNL
+3198,Basal cell,FYB
+3199,Ionocyte cell,GAREM
+3200,Ionocyte cell,GBAS
+3201,Ionocyte cell,GPR116
+3202,Ciliated cell,GRAMD2
+3203,Ionocyte cell,H1F0
+3204,SLC16A7+ cell,H1FX-AS1
+3205,Ciliated cell,H2AFJ
+3206,Ionocyte cell,H3F3B
+3207,Ciliated cell,HEATR2
+3208,SLC16A7+ cell,HIATL2
+3209,Ciliated cell,HIST1H1C
+3210,Ciliated cell,HIST1H2BD
+3211,Ciliated cell,HIST2H2AA3
+3212,Ciliated cell,HIST2H2AA4
+3213,SLC16A7+ cell,HKR1
+3214,Ciliated cell,HN1L
+3215,SLC16A7+ cell,HNRNPU-AS1
+3216,Ciliated cell,HRASLS2
+3217,SLC16A7+ cell,ILF3-AS1
+3218,SLC16A7+ cell,ISPD
+3219,FOXN4+ cell,KDELC2
+3220,SLC16A7+ cell,KIAA0101
+3221,SLC16A7+ cell,KIAA0226
+3222,SLC16A7+ cell,KIAA0907
+3223,SLC16A7+ cell,KIAA1033
+3224,SLC16A7+ cell,KIAA1244
+3225,SLC16A7+ cell,KIAA1377
+3226,SLC16A7+ cell,KIAA1429
+3227,SLC16A7+ cell,KIAA1456
+3228,Ionocyte cell,KIAA1598
+3229,SLC16A7+ cell,KIAA1715
+3230,SLC16A7+ cell,KIAA1751
+3231,SLC16A7+ cell,KIAA1919
+3232,SLC16A7+ cell,LARS
+3233,Ionocyte cell,LDOC1L
+3234,SLC16A7+ cell,LEPREL4
+3235,SLC16A7+ cell,LIMS3L
+3236,Ciliated cell,LINC00094
+3237,SLC16A7+ cell,LINC00476
+3238,SLC16A7+ cell,LINC00483
+3239,Brush cell (Tuft cell),LOC101927318
+3240,Ciliated cell,LOC158960
+3241,Ciliated cell,LOC644172
+3242,Brush cell (Tuft cell),LOC644961
+3243,Ciliated cell,LOC645638
+3244,Brush cell (Tuft cell),LRMP
+3245,Ciliated cell,LRRC6
+3246,SLC16A7+ cell,MAN1B1-AS1
+3247,SLC16A7+ cell,MINOS1P1
+3248,SLC16A7+ cell,MLLT4
+3249,SLC16A7+ cell,MLLT4-AS1
+3250,Ciliated cell,MTSS1L
+3251,SLC16A7+ cell,NUP50-AS1
+3252,SLC16A7+ cell,OSER1-AS1
+3253,SLC16A7+ cell,PALM2
+3254,Ionocyte cell,PALM2-AKAP2
+3255,SLC16A7+ cell,PAPL
+3256,SLC16A7+ cell,PARK2
+3257,SLC16A7+ cell,PDDC1
+3258,Ionocyte cell,PHB
+3259,Ciliated cell,PIH1D3
+3260,Ciliated cell,PLA2G16
+3261,SLC16A7+ cell,PNMAL1
+3262,SLC16A7+ cell,PQLC2
+3263,FOXN4+ cell,PTPLAD1
+3264,Ciliated cell,PTPLAD2
+3265,Basal cell,PVRL1
+3266,SLC16A7+ cell,PYCRL
+3267,Secretory cell,RARRES3
+3268,SLC16A7+ cell,RNASEH1-AS1
+3269,SLC16A7+ cell,RNF139-AS1
+3270,SLC16A7+ cell,RRP7B
+3271,Ciliated cell,RTDR1
+3272,Secretory cell,SELM
+3273,SLC16A7+ cell,SGK494
+3274,SLC16A7+ cell,SGOL1
+3275,SLC16A7+ cell,SLC35E2
+3276,SLC16A7+ cell,SMA5
+3277,SLC16A7+ cell,SPG20
+3278,Ionocyte cell,SSFA2
+3279,SLC16A7+ cell,TCEB1
+3280,SLC16A7+ cell,TCTEX1D1
+3281,Ciliated cell,TCTEX1D2
+3282,Ciliated cell,TCTEX1D4
+3283,SLC16A7+ cell,TLDC1
+3284,Ciliated cell,TM4SF19-TCTEX1D2
+3285,Ionocyte cell,TSSC1
+3286,SLC16A7+ cell,TTC18
+3287,Ciliated cell,TTC25
+3288,SLC16A7+ cell,TTC40
+3289,Basal cell,UPK3BL
+3290,SLC16A7+ cell,VNN3
+3291,Ciliated cell,WBSCR27
+3292,Ciliated cell,WDR16
+3293,SLC16A7+ cell,WDR52
+3294,Ciliated cell,WDR66
+3295,Ciliated cell,WDR78
+3296,SLC16A7+ cell,WDR92
+3297,FOXN4+ cell,WHSC1
+3298,Ciliated cell,WRB
+3299,Pro-B cells,IgD
+3300,Pro-B cells,PAX5
+3301,Pro-B cells,DNTT
+3302,Pro-B cells,C10orf10
+3303,Pro-B cells,VPREB1
+3304,Pro-B cells,ARPP21
+3305,Pro-B cells,IGLL1
+3306,Pro-B cells,IGLL5
+3307,Pro-B cells,VPREB3
+3308,Pre-B cells,PCDH9
+3309,Pre-B cells,ACSM3
+3310,Pre-B cells,CCDC191
+3311,Naive B cells,CD20
+3312,Naive B cells,FKBP11
+3313,Naive B cells,PRDX4
+3314,Naive B cells,CD138
+3315,Naive CD4+ T cell,CD8
+3316,Naive CD4+ T cell,CD3Z
+3317,Naive CD4+ T cell,CD45RA
+3318,Naive CD4+ T cell,CD62L
+3319,Naive CD4+ T cell,CD127
+3320,Naive CD4+ T cell,CD45
+3321,Naive CD4+ T cell,CD11b
+3322,Naive CD4+ T cell,CD30
+3323,Naive CD4+ T cell,CTLA4
+3324,Naive CD4+ T cell,GNLY
+3325,Naive CD4+ T cell,Trac
+3326,Naive CD4+ T cell,Ltb
+3327,Naive CD4+ T cell,Cd52
+3328,Naive CD4+ T cell,Trbc2
+3329,Naive CD4+ T cell,Shisa5
+3330,Naive CD4+ T cell,Lck
+3331,Naive CD4+ T cell,Thy1
+3332,Naive CD4+ T cell,Dapl1
+3333,Memory CD8+ T cells,CD25
+3334,Memory CD8+ T cells,CD45RO
+3335,γδ-T cells,TRDV2
+3336,γδ-T cells,TRGV9
+3337,γδ-T cells,TRGC1
+3338,Platelet,CD41
+3339,Platelet,CD42b
+3340,Platelet,CD61
+3341,Platelet,CD31
+3342,Platelet,PPBP
+3343,Platelet,GNG11
+3344,Platelet,SDPR
+3345,Platelet,CLU
+3346,Platelet,CD110
+3347,CD8+ NKT-like cells,CD56
+3348,CD8+ NKT-like cells,CD16
+3349,CD8+ NKT-like cells,CD94
+3350,CD8+ NKT-like cells,NKp46
+3351,CD8+ NKT-like cells,CD161
+3352,CD8+ NKT-like cells,CD314
+3353,CD8+ NKT-like cells,NKG7
+3354,CD8+ NKT-like cells,CD122
+3355,CD8+ NKT-like cells,NKG2D
+3356,CD8+ NKT-like cells,GZMA
+3357,CD8+ NKT-like cells,GZMM
+3358,CD8+ NKT-like cells,COX6A2
+3359,CD8+ NKT-like cells,ZMAT4
+3360,CD8+ NKT-like cells,KIR2DL4
+3361,Eosinophil,CD193
+3362,Eosinophil,CD123
+3363,Eosinophil,CD125
+3364,Eosinophil,CD15
+3365,Eosinophil,SIGLEC8
+3366,Eosinophil,CLC
+3367,Eosinophil,GATA1
+3368,Eosinophil,CEBPE
+3369,Eosinophil,SEMG1
+3370,Eosinophil,ALOX15
+3371,Eosinophil,CCL23
+3372,Eosinophil,PRSS41
+3373,Eosinophil,PRSS33
+3374,Eosinophil,THBS4
+3375,Neutrophil,CD66b
+3376,Neutrophil,ELANE
+3377,Neutrophil,PRTN3
+3378,Neutrophil,AZU1
+3379,Neutrophil,CHI3L1
+3380,Neutrophil,ANXA3
+3381,Neutrophil,TGM3
+3382,Neutrophil,BTNL3
+3383,Neutrophil,C4BPA
+3384,Neutrophil,BPI
+3385,Neutrophil,LTF
+3386,Neutrophil,GCA
+3387,Neutrophil,Camp
+3388,Neutrophil,Ngp
+3389,Neutrophil,Chil3
+3390,Neutrophil,Ltf
+3391,Basophil,CD203c
+3392,Basophil,MS4A3
+3393,Basophil,TCN1
+3394,Basophil,CPA3
+3395,Basophil,HDC
+3396,Basophil,GATA2
+3397,Basophil,IL4
+3398,Basophil,GCSAML
+3399,Basophil,TPSAB1
+3400,Mast cells,CD117
+3401,Mast cells,SLC18A2
+3402,Mast cells,CD32
+3403,Mast cells,TPSD1
+3404,Mast cells,HPGDS
+3405,Classical Monocytes,HLA-DR
+3406,Classical Monocytes,CD11c
+3407,Classical Monocytes,CST3
+3408,Classical Monocytes,Elane1
+3409,Non-classical monocytes,FCER1G
+3410,Non-classical monocytes,C1QC
+3411,Macrophage,CD206
+3412,Macrophage,CD64
+3413,Macrophage,CD115
+3414,Macrophage,MRC1
+3415,Macrophage,MSR1
+3416,Macrophage,Pf4
+3417,Megakaryocyte,CD41a
+3418,Megakaryocyte,CD42a
+3419,Endothelial cell,VCAM1
+3420,Endothelial cell,ENG
+3421,Endothelial cell,FLT4
+3422,Erythroid-like and erythroid precursor cells,CD235a
+3423,Erythroid-like and erythroid precursor cells,HBD
+3424,Erythroid-like and erythroid precursor cells,CA1
+3425,HSC/MPP cells,CD105
+3426,HSC/MPP cells,CD73
+3427,HSC/MPP cells,CD29
+3428,HSC/MPP cells,STRO-1
+3429,HSC/MPP cells,CD133
+3430,HSC/MPP cells,CD166
+3431,HSC/MPP cells,CD146
+3432,HSC/MPP cells,Nestin
+3433,HSC/MPP cells,4-Oct
+3434,HSC/MPP cells,AVP
+3435,HSC/MPP cells,CRHBP
+3436,HSC/MPP cells,CD49
+3437,HSC/MPP cells,CD90
+3438,HSC/MPP cells,Keratin-19
+3439,HSC/MPP cells,ASPM
+3440,HSC/MPP cells,CD10
+3441,HSC/MPP cells,CD135
+3442,HSC/MPP cells,CD49f
+3443,HSC/MPP cells,EpCAM
+3444,HSC/MPP cells,Keratin-7
+3445,HSC/MPP cells,SCA-1
+3446,HSC/MPP cells,CD150
+3447,HSC/MPP cells,CD271
+3448,Myeloid Dendritic cells,GPR31
+3449,Myeloid Dendritic cells,ODF3L1
+3450,Myeloid Dendritic cells,PRB2
+3451,Myeloid Dendritic cells,CD207
+3452,Myeloid Dendritic cells,ARSE
+3453,Myeloid Dendritic cells,CLEC141
+3454,Myeloid Dendritic cells,MRC
+3455,Myeloid Dendritic cells,EBLN1
+3456,Myeloid Dendritic cells,CRIP3
+3457,Plasmacytoid dendritic cell,ASIP
+3458,Plasmacytoid dendritic cell,NTM
+3459,Plasmacytoid dendritic cell,SCT
+3460,Plasmacytoid dendritic cell,SHD
+3461,Plasmacytoid dendritic cell,KCNA5
+3462,Plasmacytoid dendritic cell,SCARA5
+3463,Plasmacytoid dendritic cell,EPHA2
+3464,Plasmacytoid dendritic cell,MYMX
+3465,Granulocyte,Fc-epsilon RI-alpha
+3466,Granulocyte,CD13
+3467,Granulocyte,CD116
+3468,Granulocyte,CD43
+3469,Granulocyte,CTSG
+3470,ISG expressing immune cells,IFIT1
+3471,ISG expressing immune cells,IFIT5
+3472,ISG expressing immune cells,CCL3
+3473,ISG expressing immune cells,CCL4
+3474,ISG expressing immune cells,CCL3L3
+3475,ISG expressing immune cells,OASL
+3476,ISG expressing immune cells,IFI15
+3477,ISG expressing immune cells,ISG20
+3478,Airway epithelial cells,AQP1
+3479,Airway epithelial cells,SEC14L3
+3480,Airway goblet cells,AGR2
+3481,Airway goblet cells,AQP5
+3482,Airway goblet cells,CEACAM1
+3483,Airway goblet cells,DMBT1
+3484,Airway goblet cells,DUSP4
+3485,Airway goblet cells,GALNT5
+3486,Airway goblet cells,GOLPH3
+3487,Airway goblet cells,IL19
+3488,Airway goblet cells,LIPF
+3489,Airway goblet cells,LYNX1
+3490,Airway goblet cells,MSLN
+3491,Airway goblet cells,MUC4
+3492,Airway goblet cells,TFF2
+3493,Mesothelial cells,C2
+3494,Mesothelial cells,CALB2
+3495,Mesothelial cells,EFEMP1
+3496,Mesothelial cells,GSTA3
+3497,Mesothelial cells,KRT72
+3498,Mesothelial cells,LRRN4
+3499,Mesothelial cells,ME1
+3500,Mesothelial cells,ME2
+3501,Mesothelial cells,OSR1
+3502,Mesothelial cells,RSPO1
+3503,Mesothelial cells,UPK3B
+3504,Mesothelial cells,WT1
+3505,Fibroblast,COL3A1
+3506,Fibroblast,COL5A2
+3507,Fibroblast,DPT
+3508,Fibroblast,GSN
+3509,Fibroblast,TCF21
+3510,Basal cell,ABI3BP
+3511,Basal cell,GSTM2
+3512,Basal cell,HPGD
+3513,Basal cell,RPS18
+3514,Alveolar macrophages,ABCG1
+3515,Alveolar macrophages,G0S2
+3516,Alveolar macrophages,GAL
+3517,Alveolar macrophages,GDA
+3518,Alveolar macrophages,GNGT2
+3519,Alveolar macrophages,IL18
+3520,Alveolar macrophages,KLHDC4
+3521,Alveolar macrophages,MCEMP1
+3522,Alveolar macrophages,OLR1
+3523,Alveolar macrophages,PLET1
+3524,Alveolar macrophages,TNFAIP2
+3525,Alveolar macrophages,TRIM25
+3526,Ciliated cell,APPL2
+3527,Ciliated cell,ATP5MD
+3528,Ciliated cell,CCDC153
+3529,Ciliated cell,CCDC17
+3530,Ciliated cell,CCDC39
+3531,Ciliated cell,CYP2S1
+3532,Ciliated cell,STK11
+3533,Clara cell,AHR
+3534,Clara cell,BPIFA1
+3535,Clara cell,CTSE
+3536,Clara cell,FOXM1
+3537,Clara cell,SCGB3A2
+3538,Clara cell,SFTPA1
+3539,Clara cell,SFTPD
+3540,Clara cell,SYT2
+3541,Immune system cells,ARG1
+3542,Immune system cells,BIRC5
+3543,Immune system cells,CCL17
+3544,Immune system cells,CDCA3
+3545,Immune system cells,CR2
+3546,Immune system cells,EAF2
+3547,Immune system cells,FCER2
+3548,Immune system cells,GIMAP3P
+3549,Immune system cells,HMMR
+3550,Immune system cells,IGHM
+3551,Immune system cells,MS4A14
+3552,Immune system cells,NUSAP1
+3553,Immune system cells,PRG2
+3554,Immune system cells,TNFRSF17
+3555,Endothelial cell,EGFL7
+3556,Endothelial cell,ESAM
+3557,Pulmonary alveolar type I cells,AKAP5
+3558,Pulmonary alveolar type I cells,CLIC5
+3559,Pulmonary alveolar type I cells,COL4A3
+3560,Pulmonary alveolar type I cells,COL4A4
+3561,Pulmonary alveolar type I cells,CRLF1
+3562,Pulmonary alveolar type I cells,EGFL6
+3563,Pulmonary alveolar type I cells,EMP2
+3564,Pulmonary alveolar type I cells,FSTL3
+3565,Pulmonary alveolar type I cells,GPRC5A
+3566,Pulmonary alveolar type I cells,HOPX
+3567,Pulmonary alveolar type I cells,MEX3B
+3568,Pulmonary alveolar type I cells,MMP11
+3569,Pulmonary alveolar type I cells,PXDC1
+3570,Pulmonary alveolar type I cells,RTKN2
+3571,Pulmonary alveolar type I cells,SCNN1A
+3572,Pulmonary alveolar type I cells,SCNN1G
+3573,Pulmonary alveolar type I cells,SEMA3B
+3574,Pulmonary alveolar type I cells,SMARCA1
+3575,Pulmonary alveolar type I cells,VEGFA
+3576,Pulmonary alveolar type II cells,CEBPA
+3577,Pulmonary alveolar type II cells,CTNND1
+3578,Pulmonary alveolar type II cells,ETV5
+3579,Pulmonary alveolar type II cells,INMT
+3580,Pulmonary alveolar type II cells,IRX1
+3581,Pulmonary alveolar type II cells,LAMP3
+3582,Pulmonary alveolar type II cells,LRG1
+3583,Pulmonary alveolar type II cells,NKX2-1
+3584,Pulmonary alveolar type II cells,NRN1
+3585,Pulmonary alveolar type II cells,RUNX3
+3586,Pulmonary alveolar type II cells,S100G
+3587,Pulmonary alveolar type II cells,SFTA2
+3588,Pulmonary alveolar type II cells,SOAT1
+3589,Airway goblet cells,MUC20
+3590,B cell,CD70
+3591,B cell,TNFSF4
+3592,B cell,TNFRSF13B
+3593,B cell,TNFRSF13C
+3594,B cell,PDCD1
+3595,B cell,IGHD
+3596,B cell,RASGRP3
+3597,B cell,FLI1
+3598,B cell,SEMA6D
+3599,B cell,B3GAT1
+3600,B cell,MUM1
+3601,B cell,FCMR
+3602,B cell,BANK1
+3603,B cell,EDEM1
+3604,B cell,POU2AF1
+3605,B cell,CRELD2
+3606,B cell,RALGPS2
+3607,B cell,POLD4
+3608,B cell,HVCN1
+3609,B cell,FCRLA
+3610,B cell,EDEM2
+3611,B cell,TXNDC11
+3612,B cell,SPCS3
+3613,B cell,BIRC3
+3614,B cell,IGLC2
+3615,B cell,IGLC1
+3616,B cell,IL21R
+3617,B cell,KLHL6
+3618,B cell,FAM129C
+3619,B cell,MSH5
+3620,B cell,BACH2
+3621,B cell,PXK
+3622,B cell,IGHG1
+3623,B cell,IGHG4
+3624,B cell,EBF1
+3625,B cell,CD55
+3626,B cell,TLR9
+3627,B cells memory,NT5E
+3628,B cells memory,AIM2
+3629,B cells memory,BLK
+3630,B cells memory,CD180
+3631,B cells memory,CD37
+3632,B cells memory,CLCA3P
+3633,B cells memory,CXCR5
+3634,B cells memory,FCRL2
+3635,B cells memory,FRK
+3636,B cells memory,GPR18
+3637,B cells memory,GUSBP11
+3638,B cells memory,HHEX
+3639,B cells memory,IFNA10
+3640,B cells memory,IGLL3P
+3641,B cells memory,IL7
+3642,B cells memory,LY86
+3643,B cells memory,MBL2
+3644,B cells memory,NMBR
+3645,B cells memory,NPIPB15
+3646,B cells memory,P2RX5
+3647,B cells memory,PNOC
+3648,B cells memory,RASGRP2
+3649,B cells memory,SIK1
+3650,B cells memory,SLC12A1
+3651,B cells memory,SP140
+3652,B cells memory,ZBTB32
+3653,B cells naive,ABCB4
+3654,B cells naive,BCL7A
+3655,B cells naive,BEND5
+3656,B cells naive,BRAF
+3657,B cells naive,MEP1A
+3658,B cells naive,PSG2
+3659,B cells naive,UGT1A8
+3660,B cells naive,ZNF286A
+3661,B cells naive,TNFSF8
+3662,B cells naive,MITF
+3663,B cells naive,LINC00926
+3664,B cells naive,STAG3
+3665,Basophil,LTC4S
+3666,Basophil,ITGB7
+3667,Basophil,HTR1B
+3668,Basophil,DNASE2B
+3669,Basophil,FADS2
+3670,Basophil,GPC4
+3671,Basophil,GRM6
+3672,Basophil,ADORA2B
+3673,Basophil,AQP9
+3674,Basophil,BACE1
+3675,Basophil,BMP4
+3676,Basophil,CABLES1
+3677,Basophil,FADS1
+3678,Basophil,FAR2
+3679,Basophil,FBXO9
+3680,Basophil,GABBR1
+3681,Basophil,HGF
+3682,Basophil,HIST1H1D
+3683,Basophil,HIST1H2AC
+3684,Basophil,JAZF1
+3685,Basophil,L1CAM
+3686,Basophil,MBOAT1
+3687,Basophil,NFIL3
+3688,Basophil,OSBPL5
+3689,Basophil,OTUB2
+3690,Basophil,P2RY1
+3691,Basophil,PDZD4
+3692,Basophil,PERP
+3693,Basophil,PIGY
+3694,Basophil,PLEKHG5
+3695,Basophil,PLG
+3696,Basophil,RNF39
+3697,Basophil,SLC26A3
+3698,Basophil,SNCAIP
+3699,Basophil,ST6GALNAC5
+3700,Basophil,SUPT3H
+3701,Basophil,TULP3
+3702,Basophil,TEC
+3703,Basophil,UNC93A
+3704,Basophil,WRN
+3705,Basophil,ID1
+3706,Ciliated cell,USMG5
+3707,Clara cell,CARM1
+3708,Dendritic cell,IL6
+3709,Dendritic cell,CD1B
+3710,Dendritic cell,TREM2
+3711,Dendritic cell,FABP4
+3712,Dendritic cell,ETV6
+3713,Dendritic cell,VSIG4
+3714,Dendritic cell,NR4A3
+3715,Dendritic cell,TRAF1
+3716,Dendritic cell,RELB
+3717,Dendritic cell,CCL22
+3718,Dendritic cell,FGD2
+3719,Dendritic cell,RAB7B
+3720,Dendritic cell,HFE
+3721,Dendritic cell,RYR1
+3722,Dendritic cell,SEMA4A
+3723,Dendritic cell,TLR3
+3724,Dendritic cell,GPR132
+3725,Dendritic cell,ASS1
+3726,Dendritic cell,GPR68
+3727,Dendritic cell,KMO
+3728,Dendritic cell,P2RY10
+3729,Dendritic cell,RAB30
+3730,Dendritic cell,6-Sep
+3731,Dendritic cell,ZBTB46
+3732,Dendritic cell,LY75
+3733,Dendritic cell,PDCD1LG2
+3734,Dendritic cell,SIRPA
+3735,Dendritic cell,C1ORF54
+3736,Dendritic cell,H2AFY
+3737,Dendritic cell,S100B
+3738,Dendritic cell,PPL
+3739,Dendritic cell,SLURP1
+3740,Dendritic cell,HLA-B
+3741,Dendritic cell,HLA-C
+3742,Dendritic cell,SERPINB9
+3743,Eosinophil,CCR1
+3744,Eosinophil,PTGDR2
+3745,Eosinophil,PGLYRP1
+3746,Eosinophil,EPX
+3747,Eosinophil,IL5
+3748,Eosinophil,PRG3
+3749,Eosinophil,CCL11
+3750,Eosinophil,CSF2
+3751,Gamma delta T cells,FGFBP2
+3752,Gamma delta T cells,PRF1
+3753,Gamma delta T cells,KLRF1
+3754,Gamma delta T cells,CST7
+3755,Gamma delta T cells,CD247
+3756,Gamma delta T cells,CD7
+3757,Gamma delta T cells,ADGRG1
+3758,Gamma delta T cells,TRDC
+3759,Gamma delta T cells,HMGB2
+3760,Gamma delta T cells,UBE2C
+3761,Gamma delta T cells,TUBA1B
+3762,Gamma delta T cells,CENPA
+3763,Gamma delta T cells,TOP2A
+3764,Gamma delta T cells,PCNA
+3765,Gamma delta T cells,AURKB
+3766,Gamma delta T cells,TROAP
+3767,Gamma delta T cells,TUBB
+3768,Gamma delta T cells,H2AFX
+3769,Gamma delta T cells,CENPF
+3770,Gamma delta T cells,CCNB1
+3771,Gamma delta T cells,H2AFZ
+3772,Gamma delta T cells,TRGV2
+3773,Gamma delta T cells,TRGV10
+3774,Gamma delta T cells,TRGV11
+3775,Gamma delta T cells,TRGV1
+3776,Gamma delta T cells,TRGV3
+3777,Gamma delta T cells,TRGV4
+3778,Gamma delta T cells,TRGV5
+3779,Gamma delta T cells,TRGV8
+3780,Gamma delta T cells,TRGJ1
+3781,Gamma delta T cells,TRGJ2
+3782,Gamma delta T cells,TRGJP1
+3783,Gamma delta T cells,TRGJP2
+3784,Gamma delta T cells,TRGJP
+3785,Gamma delta T cells,TRGC2
+3786,Gamma delta T cells,TRDD1
+3787,Gamma delta T cells,TRDD2
+3788,Gamma delta T cells,TRDD3
+3789,Gamma delta T cells,TRDJ1
+3790,Gamma delta T cells,TRDJ2
+3791,Gamma delta T cells,TRDJ3
+3792,Gamma delta T cells,TRDJ4
+3793,Gamma delta T cells,TRDV1
+3794,Gamma delta T cells,TRDV3
+3795,Ionocyte cell,SLC9A4
+3796,Macrophage,GPR34
+3797,Macrophage,CHIT1
+3798,Macrophage,TGFBR1
+3799,Macrophage,SLAMF9
+3800,Macrophage,STAB1
+3801,Macrophage,PARP14
+3802,Macrophage,RBPJ
+3803,Macrophage,SLCO2B1
+3804,Macrophage,1-Mar
+3805,Macrophage,JAML
+3806,Macrophage,FGL2
+3807,Macrophage,CLEC4D
+3808,Macrophage,MMP12
+3809,Macrophage,PLTP
+3810,Macrophage,GDF15
+3811,Macrophage,RAB20
+3812,Macrophage,TNF
+3813,Macrophage,SNX20
+3814,Macrophage,FMNL1
+3815,Macrophage,NCEH1
+3816,Macrophage,CCL24
+3817,Macrophage,CCL7
+3818,Macrophage,IRF5
+3819,Macrophage,GPR171
+3820,Macrophage,NRP2
+3821,Macrophage,SLC37A2
+3822,Macrophage,CTSK
+3823,Macrophage,LPCAT2
+3824,Macrophage,IFNAR2
+3825,Macrophage,CD5L
+3826,Macrophage,TREML4
+3827,Macrophage,CYBB
+3828,Macrophage,CD200
+3829,Macrophage,CD200R1
+3830,Macrophage,GATA6
+3831,Macrophage,PPARG
+3832,Macrophage,RGS1
+3833,Macrophage,SLC15A3
+3834,Macrophage,CYP27A1
+3835,Macrophage,SYK
+3836,Mast cells,IL17A
+3837,Mast cells,CRH
+3838,Mast cells,HSD11B1
+3839,Mast cells,CD274
+3840,Mast cells,MGST2
+3841,Mast cells,ACHE
+3842,Mast cells,CPA1
+3843,Mast cells,CMA1
+3844,Mast cells,PTGDS 
+3845,Mast cells,CFP
+3846,Mast cells,RAB27B
+3847,Mast cells,IL1RL1
+3848,Mast cells,GNAI1
+3849,Mast cells,OSBPL8
+3850,Mast cells,ADORA3
+3851,Mast cells,HS3ST1
+3852,Mast cells,DAPP1
+3853,Mast cells,MAOB
+3854,Mast cells,CSRNP1
+3855,Mast cells,CYP11A1
+3856,Mast cells,PLEK
+3857,Mast cells,TPSB2
+3858,Mast cells,TPH1
+3859,Mast cells,RGS13
+3860,Mast cells,TPSG1
+3861,Mast cells,SOCS1
+3862,Mast cells,BTK
+3863,Mast cells,EDNRA
+3864,Mast cells,HS6ST2
+3865,Mast cells,KCNE3
+3866,Mast cells,MEIS2
+3867,Mast cells,MRGPRX2
+3868,Mast cells,PLAU
+3869,Mast cells,ADAMTS9
+3870,Mast cells,CHST1
+3871,Mast cells,COBL
+3872,Mast cells,DNM3
+3873,Mast cells,FAM198B
+3874,Mast cells,GRIK2
+3875,Mast cells,HS3ST3A1
+3876,Mast cells,PAPSS2
+3877,Mast cells,PCBD1
+3878,Mast cells,PCP4L1
+3879,Mast cells,RNF128
+3880,Mast cells,SLC45A3
+3881,Mast cells,STARD13
+3882,Mast cells,A4GALT
+3883,Mast cells,ARMCX3
+3884,Mast cells,BBS10
+3885,Mast cells,CCDC141
+3886,Mast cells,CDC42BPA
+3887,Mast cells,CDH9
+3888,Mast cells,COPZ2
+3889,Mast cells,ZDHHC13
+3890,Mast cells,WDR60
+3891,Mast cells,UNC13B
+3892,Mast cells,TRANK1
+3893,Mast cells,TIAM2
+3894,Mast cells,TCF7L1
+3895,Mast cells,STK32B
+3896,Mast cells,ST6GALNAC3
+3897,Mast cells,SOCS2
+3898,Mast cells,SPRED1
+3899,Mast cells,SMPX
+3900,Mast cells,SGCE
+3901,Mast cells,ROR1
+3902,Mast cells,RNF180
+3903,Mast cells,RIOK2
+3904,Mast cells,RBFOX1
+3905,Mast cells,RAPGEF2
+3906,Mast cells,PCDH7
+3907,Mast cells,OPTN
+3908,Mast cells,OAF
+3909,Mast cells,NEO1
+3910,Mast cells,NDST2
+3911,Mast cells,MRGPRX1
+3912,Mast cells,MFGE8
+3913,Mast cells,LSAMP
+3914,Mast cells,LRRC66
+3915,Mast cells,KDELR3
+3916,Mast cells,IDS
+3917,Mast cells,HSPA13
+3918,Mast cells,HS2ST1
+3919,Mast cells,GPM6A
+3920,Mast cells,GNAZ
+3921,Mast cells,FAM84A
+3922,Mast cells,FAM129B
+3923,Mast cells,EXT1
+3924,Mast cells,ESYT3
+3925,Mast cells,ENAH
+3926,Mast cells,DGKI
+3927,Mast cells,DDC
+3928,Mast cells,DCLK3
+3929,Megakaryocyte,LAT
+3930,Megakaryocyte,EPOR
+3931,Megakaryocyte,GP5
+3932,Megakaryocyte,CXCR1
+3933,Megakaryocyte,SLAMF1
+3934,Megakaryocyte,PDE6B
+3935,Megakaryocyte,MATK
+3936,Megakaryocyte,MKL2
+3937,Megakaryocyte,KIF5B
+3938,Megakaryocyte,PROX1
+3939,Megakaryocyte,SYP
+3940,Megakaryocyte,TSPAN9
+3941,Megakaryocyte,RGS18
+3942,Megakaryocyte,TREML1
+3943,Megakaryocyte,ALOX12
+3944,Megakaryocyte,NFATC1
+3945,Megakaryocyte,PLK3
+3946,Megakaryocyte,MAFG
+3947,Megakaryocyte,TGFB1
+3948,Megakaryocyte,GP9
+3949,Monocyte,TET2
+3950,Monocyte,DYSF
+3951,Monocyte,PADI4
+3952,Monocyte,GHSR
+3953,Monocyte,AR
+3954,Monocyte,ADA2
+3955,Monocyte,ACE
+3956,Monocyte,ACP5
+3957,Monocyte,PLSCR1
+3958,Monocyte,MX1
+3959,Monocyte,ZFP36L2
+3960,Monocyte,CEBPB
+3961,Monocyte,RGS2
+3962,Monocyte,SPI1
+3963,Monocyte,PYCARD
+3964,Natural killer T cells,IL12RB2
+3965,Natural killer T cells,KLRB1
+3966,Natural killer T cells,RORA
+3967,Natural killer T cells,EGR1
+3968,Natural killer T cells,MAP3K8
+3969,Natural killer T cells,IL2RB
+3970,Natural killer T cells,ZBTB16
+3971,Natural killer T cells,TBX21
+3972,Natural killer T cells,GATA3
+3973,Natural killer T cells,S1PR1
+3974,Natural killer T cells,STYK1
+3975,Neutrophil,MYLK
+3976,Neutrophil,CRP
+3977,Neutrophil,DEFA1
+3978,Neutrophil,DEFA3
+3979,Neutrophil,HP
+3980,Neutrophil,MMP8
+3981,Neutrophil,OSM
+3982,Neutrophil,CLEC4E
+3983,Neutrophil,ASPRV1
+3984,Neutrophil,CCRL2
+3985,Neutrophil,ARG2
+3986,Neutrophil,IL1R2
+3987,Neutrophil,CD177
+3988,Neutrophil,PTGS2
+3989,Neutrophil,OAS3
+3990,Neutrophil,CAMP
+3991,Neutrophil,SLC1A5
+3992,Neutrophil,ADPGK
+3993,Neutrophil,PSTPIP1
+3994,Neutrophil,DOCK8
+3995,NK cells,KLRK1
+3996,NK cells,SIGLEC7
+3997,NK cells,IL32
+3998,NK cells,GZMH
+3999,NK cells,HMBOX1
+4000,NK cells,FHL2
+4001,NK cells,PCDH15
+4002,NK cells,TXK
+4003,NK cells,KLRC2
+4004,NK cells,SAMD3
+4005,NK cells,CHSY1
+4006,NK cells,XCL2
+4007,NK cells,IL18R1
+4008,NK cells,DOCK2
+4009,NK cells,SH2D2A
+4010,NK cells,XCL1
+4011,NK cells,GZMK
+4012,NK cells,IFNG
+4013,NK cells,IL2RG
+4014,NK cells,KIR2DL1
+4015,NK cells,KIR3DL1
+4016,NK cells,KLRG1
+4017,NK cells,NCR3
+4018,NK cells,ADAMTS14
+4019,NK cells,ITGA2
+4020,NK cells,CLEC2D
+4021,NK cells,LAIR2
+4022,Nuocytes,ICOS
+4023,Nuocytes,IL17RB
+4024,Nuocytes,CRLF2
+4025,Nuocytes,BCL11B
+4026,Nuocytes,IL13
+4027,Plasma cells,PIAS1
+4028,Plasma cells,CYCS
+4029,Plasma cells,DIABLO
+4030,Plasma cells,HTRA2
+4031,Plasma cells,CCR10
+4032,Plasma cells,ABCB9
+4033,Plasma cells,AMPD1
+4034,Plasma cells,ANGPT4
+4035,Plasma cells,ATXN8OS
+4036,Plasma cells,C11ORF80
+4037,Plasma cells,GPR25
+4038,Plasma cells,HIST1H2AE
+4039,Plasma cells,HIST1H2BG
+4040,Plasma cells,IGHE
+4041,Plasma cells,KCNA3
+4042,Plasma cells,KCNG2
+4043,Plasma cells,MAN1A1
+4044,Plasma cells,MANEA
+4045,Plasma cells,MAST1
+4046,Plasma cells,MROH7
+4047,Plasma cells,PAX7
+4048,Plasma cells,PDK1
+4049,Plasma cells,REN
+4050,Plasma cells,RPL3P7
+4051,Plasma cells,SPAG4
+4052,Plasma cells,TGM5
+4053,Plasma cells,UGT2B17
+4054,Plasma cells,ZNF165
+4055,Plasma cells,IGHG2
+4056,Plasma cells,IGHGP
+4057,Plasma cells,IGHA1
+4058,Plasma cells,IGHA2
+4059,Plasma cells,IGLV3-1
+4060,Plasma cells,IGLC7
+4061,Plasma cells,IL16
+4062,Plasma cells,BHLHA15
+4063,Plasma cells,PPIB
+4064,Plasmacytoid dendritic cell,TRADD
+4065,Plasmacytoid dendritic cell,ARHGAP9
+4066,Plasmacytoid dendritic cell,MAP3K2
+4067,Plasmacytoid dendritic cell,MCTP2
+4068,Plasmacytoid dendritic cell,KLK1
+4069,Plasmacytoid dendritic cell,GRM8
+4070,Plasmacytoid dendritic cell,PRKCA
+4071,Plasmacytoid dendritic cell,CARD6
+4072,Plasmacytoid dendritic cell,CLEC4G
+4073,Plasmacytoid dendritic cell,CCR9
+4074,Plasmacytoid dendritic cell,BST2
+4075,Pulmonary alveolar type I cells,RADIL
+4076,Pulmonary alveolar type II cells,ABCD3
+4077,Red pulp macrophages,NR1H3
+4078,Red pulp macrophages,MERTK
+4079,Red pulp macrophages,SPIC
+4080,Red pulp macrophages,SLC40A1
+4081,T cell,SYT3
+4082,T cell,NOTCH3
+4083,T cell,DKK3
+4084,T cell,CERK
+4085,T cell,PMCH
+4086,T cell,CXCR6
+4087,T cell,SATB1
+4088,T cell,ITK
+4089,T cell,GEM
+4090,T cell,TGIF1
+4091,T cell,CREM
+4092,T cell,NABP1
+4093,T cell,EEF1B2P3
+4094,T cell,PFN1P1
+4095,T cell,1-Sep
+4096,T cell,CYTL1
+4097,T cell,PTPN22
+4098,T cell,GDPD3
+4099,T cell,LAG3
+4100,T cell,SH2D1A
+4101,T cell,S1PR4
+4102,T cell,GIMAP5
+4103,T cell,CD160
+4104,T cell,RHOH
+4105,T cell,CD163L1
+4106,T cell,TNFRSF4
+4107,T cell,CCL20
+4108,T cell,SKAP1
+4109,T cell,CCL4L2
+4110,T cell,PYHIN1
+4111,T helper cells,IL2
+4112,T helper cells,TNFSF11
+4113,T helper cells,LTBR
+4114,T helper cells,LTA
+4115,T helper cells,CCR8
+4116,T helper cells,HAVCR1
+4117,T helper cells,STAT6
+4118,T helper cells,IL17F
+4119,T helper cells,IL21
+4120,T helper cells,IL22
+4121,T helper cells,RORC
+4122,T helper cells,CCR4
+4123,T helper cells,IL9
+4124,T helper cells,NFATC2
+4125,T helper cells,NFKB1
+4126,T helper cells,NR3C1
+4127,T memory cells,ITGB5
+4128,T memory cells,GRAP2
+4129,T memory cells,TBC1D10C
+4130,T memory cells,KPNA4
+4131,T memory cells,EPSTI1
+4132,T memory cells,APBB1IP
+4133,T memory cells,IKZF1
+4134,T memory cells,SP100
+4135,T memory cells,DGKA
+4136,T memory cells,RAPGEF6
+4137,T memory cells,ARHGEF1
+4138,T memory cells,ARHGAP15
+4139,T memory cells,ARHGAP45
+4140,T regulatory cells,IZUMO1R
+4141,T regulatory cells,CNGB1
+4142,T regulatory cells,ITGB8
+4143,Eosinophil,
+1731,Hematopoietic stem cell,Itgal
+1732,Hematopoietic stem cell,Procr
+1733,Hematopoietic stem cell,Slamf1
+1734,Hematopoietic stem cell,Cd48
+1735,Cancer stem cell,Kit
+1736,Cancer stem cell,Ly6a
+1737,Hematopoietic cell,Vav1
+1738,Embryonic stem cell,B2m
+1739,Embryonic stem cell,Bmp4
+1740,Embryonic stem cell,T2
+1741,Embryonic stem cell,Fgf4
+1742,Embryonic stem cell,Lif
+1743,Embryonic stem cell,Lifr
+1744,Embryonic stem cell,Nanog
+1745,Embryonic stem cell,Pou5f1
+1746,Embryonic stem cell,Zfp42
+1747,Embryonic stem cell,Sox2
+1748,Embryonic stem cell,Stat3
+1749,Embryonic stem cell,Tert
+1750,Hematopoietic stem cell,Abcg2
+1751,Mesenchymal progenitor cell,Cd14
+1752,CD3+ T cell,Cd3d
+1753,CD3+ T cell,Cd3e
+1754,CD3+ T cell,Cd3g
+1755,CD8+ T cell,Cd8a
+1756,Leukocyte,Ptprc
+1757,Polymorphonuclear neutrophil,Ly6g
+1758,Cancer cell,Epcam
+1759,Basophil,Mcpt8
+1760,Basophil,Itga2
+1761,Basophil,Fcer1a
+1762,Cancer stem cell,Cd44
+1763,Megakaryocyte,Itga2b
+1764,Megakaryocyte,Gp1ba
+1765,Myeloid cell,Itgam
+1766,Neutrophil,Prtn3
+1767,B cell,Cd19
+1768,Platelet,Ly76
+1769,T cell,Cd4
+1770,Natural killer cell,Fcgr3
+1771,Natural killer cell,Ncam1
+1772,Monocyte,Itgax
+1773,B cell,Cd79b
+1774,B cell,Ly6d
+1775,CD4+ T cell,Igfbp4
+1776,CD4+ T cell,Tcf7
+1778,CD8+ T cell,Cd8b1
+1779,Activated CD8+ T cell,Ccl5
+1780,Natural killer cell,Gzma
+1781,Inflammatory monocyte,S100a4
+1782,Germinal center B cell,Basp1
+1783,Germinal center B cell,Jchain
+1784,Induced regulatory T (Treg) cell,Izumo1r
+1785,Ly6c+ monocyte,Ccr2
+1786,Ly6c+ monocyte,Lyz2
+1787,Dendritic cell,Fscn1
+1788,Plasmacytoid dendritic cell,Bst2
+1789,Macrophage,Cd5l
+1790,Macrophage,Vcam1
+1791,Activated B cell,Cd22
+1792,Dendritic cell,Il3ra
+1793,Natural killer cell,Ncr1
+1794,Hematopoietic stem cell,Cd34
+1795,Macrophage,Adgre1
+1796,Granulocyte,Ly6c1
+1797,Platelet,Itgb3
+1798,Platelet,Cd9
+1799,Activated platelet,Selp
+1800,Red blood cell (erythrocyte),Gypa
+1801,Endothelial cell,Mcam
+1802,Endothelial cell,Plvap
+1803,Endothelial cell,Pecam1
+1804,Activated endothelial cell,Sele
+1805,Multilymphoid progenitor cell,AARS2
+1806,Multilymphoid progenitor cell,AARSD1
+1809,Naive CD4+ T cell,ABLIM1
+1810,Plasmacytoid dendritic cell,ABPARTS
+1811,Multilymphoid progenitor cell,ACAP1
+1813,AXL+SIGLEC6+ dendritic cell,ACPP
+1814,Multilymphoid progenitor cell,ACRC
+1815,Multilymphoid progenitor cell,ADAMTS6
+1816,Multilymphoid progenitor cell,ADAP1
+1817,Multilymphoid progenitor cell,ADGRL1
+1818,Granulocyte-monocyte progenitor,ADK
+1819,Effector CD8+ memory T (Tem) cell,ADRB2
+1820,CD1C-CD141- dendritic cell,ADRBK1
+1821,Multilymphoid progenitor cell,AES
+1822,Multilymphoid progenitor cell,AFF1
+1823,Multilymphoid progenitor cell,AFF3
+1826,CD1C+_A dendritic cell,AGPAT9
+1827,Effector CD8+ memory T (Tem) cell,AGTPBP1
+1828,Effector CD8+ memory T (Tem) cell,AHNAK
+1829,Plasmacytoid dendritic cell,AK057596
+1830,Plasmacytoid dendritic cell,AK093551
+1831,Plasmacytoid dendritic cell,AK095700
+1832,CD1C-CD141- dendritic cell,AK123771
+1833,CD1C-CD141- dendritic cell,AK124399
+1834,AXL+SIGLEC6+ dendritic cell,AK125727
+1835,Plasmacytoid dendritic cell,AK128525
+1836,CD1C-CD141- dendritic cell,AK307192
+1837,Multilymphoid progenitor cell,AKAP17A
+1840,CD1C-CD141- dendritic cell,AL137655
+1841,Plasmacytoid dendritic cell,AL833181
+1842,Granulocyte-monocyte progenitor,ALDH4A1
+1843,Multilymphoid progenitor cell,ALOX12P2
+1844,Lymphoid-primed multipotent progenitor cell(LMPP),ALOX15B
+1845,Multilymphoid progenitor cell,AMHR2
+1846,Multilymphoid progenitor cell,AMN1
+1847,Multilymphoid progenitor cell,AMPH
+1848,Multilymphoid progenitor cell,ANKHD1-EIF4EBP3
+1850,Multilymphoid progenitor cell,ANKRD13D
+1851,Lymphoid-primed multipotent progenitor cell(LMPP),ANKRD44
+1852,Regulatory T (Treg) cell,ANXA2P2
+1853,Multilymphoid progenitor cell,AP2A2
+1854,Granulocyte-monocyte progenitor,AP3S1
+1855,Naive CD8+ T cell,APBA2
+1857,Granulocyte-monocyte progenitor,APPL1
+1858,Lymphoid-primed multipotent progenitor cell(LMPP),ARFGAP1
+1859,Multilymphoid progenitor cell,ARHGAP24
+1860,Effector CD8+ memory T (Tem) cell,ARHGAP25
+1861,Multilymphoid progenitor cell,ARHGAP4
+1862,Naive CD8+ T cell,ARHGEF18
+1863,Multilymphoid progenitor cell,ARHGEF2
+1864,Multilymphoid progenitor cell,ARHGEF7
+1865,Multilymphoid progenitor cell,ARID5B
+1867,Multilymphoid progenitor cell,ARNT2
+1869,Multilymphoid progenitor cell,ATAD3B
+1870,Multilymphoid progenitor cell,ATF7IP2
+1871,Multilymphoid progenitor cell,ATHL1
+1873,Multilymphoid progenitor cell,ATN1
+1874,Multilymphoid progenitor cell,ATP10A
+1875,Multilymphoid progenitor cell,ATP11A-AS1
+1876,Multilymphoid progenitor cell,ATP13A4
+1877,Regulatory T (Treg) cell,ATP2B1
+1878,Multilymphoid progenitor cell,ATP9A
+1879,Multilymphoid progenitor cell,AUTS2
+1880,Multilymphoid progenitor cell,AVIL
+1881,CD141+CLEC9A+ dendritic cell,AX747832
+1882,Plasmacytoid dendritic cell,AX747844
+1883,Granulocyte-monocyte progenitor,B3GALNT1
+1884,Lymphoid-primed multipotent progenitor cell(LMPP),B3GAT2
+1885,Regulatory T (Treg) cell,B3GNT2
+1887,Plasmacytoid dendritic cell,BC034268
+1888,Plasmacytoid dendritic cell,BC051760
+1889,Multilymphoid progenitor cell,BCAS4
+1890,Multilymphoid progenitor cell,BDP1
+1892,Lymphoid-primed multipotent progenitor cell(LMPP),BNIP3P11
+1893,Multilymphoid progenitor cell,BRF1
+1894,Granulocyte-monocyte progenitor,BTF3L4
+1895,Multilymphoid progenitor cell,BTG1
+1896,Multilymphoid progenitor cell,BTN2A1
+1897,Multilymphoid progenitor cell,BTN3A1
+1898,Plasmacytoid dendritic cell,BX647938
+1899,Plasmacytoid dendritic cell,C10ORF118
+1900,CD1C+_A dendritic cell,C10ORF128
+1901,CD1C-CD141- dendritic cell,C10ORF46
+1902,CD1C-CD141- dendritic cell,C10ORF54
+1903,Plasmacytoid dendritic cell,C10ORF58
+1904,Multilymphoid progenitor cell,C10orf76
+1905,CD1C-CD141- dendritic cell,C11ORF21
+1906,Multilymphoid progenitor cell,C11orf72
+1907,Plasmacytoid dendritic cell,C12ORF44
+1908,Plasmacytoid dendritic cell,C12ORF45
+1910,Plasmacytoid dendritic cell,C12ORF75
+1911,CD1C-CD141- dendritic cell,C15ORF39
+1912,Multilymphoid progenitor cell,C15orf39
+1913,Multilymphoid progenitor cell,C15orf52
+1915,Plasmacytoid dendritic cell,C17ORF109
+1916,Plasmacytoid dendritic cell,C18ORF8
+1917,CD1C-CD141- dendritic cell,C19ORF38
+1918,Multilymphoid progenitor cell,C19orf43
+1920,Naive CD4+ T cell,C1orf162
+1921,Plasmacytoid dendritic cell,C1ORF186
+1922,CD141+CLEC9A+ dendritic cell,C1ORF21
+1923,Effector CD8+ memory T (Tem) cell,C1orf21
+1925,Plasmacytoid dendritic cell,C1ORF55
+1926,CD1C-CD141- dendritic cell,C20ORF112
+1927,Lymphoid-primed multipotent progenitor cell(LMPP),C20orf197
+1928,Multilymphoid progenitor cell,C2CD2L
+1929,AXL+SIGLEC6+ dendritic cell,C5ORF25
+1930,Plasmacytoid dendritic cell,C5ORF45
+1931,Plasmacytoid dendritic cell,C5ORF62
+1932,Plasmacytoid dendritic cell,C5ORF64
+1933,Plasmacytoid dendritic cell,C6ORF170
+1934,Plasmacytoid dendritic cell,C6ORF25
+1935,Multilymphoid progenitor cell,C6orf48
+1936,Multilymphoid progenitor cell,C6orf99
+1937,Plasmacytoid dendritic cell,C9ORF142
+1938,CD1C-CD141- dendritic cell,C9ORF72
+1939,CD1C+_B dendritic cell,C9ORF89
+1940,Plasmacytoid dendritic cell,C9ORF91
+1941,Naive CD8+ T cell,CA6
+1942,Multilymphoid progenitor cell,CABLES2
+1943,Multilymphoid progenitor cell,CACNA1C
+1944,Lymphoid-primed multipotent progenitor cell(LMPP),CACNB4
+1945,Multilymphoid progenitor cell,CADM2
+1946,Granulocyte-monocyte progenitor,CALCOCO2
+1947,Granulocyte-monocyte progenitor,CALR
+1948,Multilymphoid progenitor cell,CAMK2G
+1949,Multilymphoid progenitor cell,CAMK4
+1950,Effector CD8+ memory T (Tem) cell,CAPN2
+1952,Regulatory T (Treg) cell,CASP2
+1953,Effector CD8+ memory T (Tem) cell,CASP8
+1954,Granulocyte-monocyte progenitor,CASQ1
+1955,Multilymphoid progenitor cell,CASZ1
+1957,Multilymphoid progenitor cell,CBX4
+1958,Multilymphoid progenitor cell,CBX7
+1959,Multilymphoid progenitor cell,CCDC144CP
+1960,Multilymphoid progenitor cell,CCDC162P
+1961,Lymphoid-primed multipotent progenitor cell(LMPP),CCDC168
+1963,Multilymphoid progenitor cell,CCDC6
+1965,Multilymphoid progenitor cell,CCDC88B
+1966,Multilymphoid progenitor cell,CCDC92
+1967,Multilymphoid progenitor cell,CCHCR1
+1968,Multilymphoid progenitor cell,CCL4L1
+1969,Granulocyte-monocyte progenitor,CCNE2
+1970,Multilymphoid progenitor cell,CCZ1
+1974,Naive CD8+ T cell,CD248
+1978,Lymphoid-primed multipotent progenitor cell(LMPP),CD47
+1980,CD1C-CD141- dendritic cell,CD97
+1982,Lymphoid-primed multipotent progenitor cell(LMPP),CDK9
+1983,Multilymphoid progenitor cell,CDKN2D
+1984,Granulocyte-monocyte progenitor,CDKN3
+1985,Multilymphoid progenitor cell,CDYL
+1986,Multilymphoid progenitor cell,CELF1
+1987,Naive CD8+ T cell,CEP68
+1988,Effector CD8+ memory T (Tem) cell,CEP78
+1989,Multilymphoid progenitor cell,CHD3
+1990,Multilymphoid progenitor cell,CHRM3
+1991,Multilymphoid progenitor cell,CHRNA3
+1992,Multilymphoid progenitor cell,CIR1
+1993,Multilymphoid progenitor cell,CIRBP
+1994,Regulatory T (Treg) cell,CLDND1
+1995,Lymphoid-primed multipotent progenitor cell(LMPP),CLIP3
+1996,Multilymphoid progenitor cell,CLN3
+1997,Granulocyte-monocyte progenitor,CLSPN
+1998,Multilymphoid progenitor cell,CMC2
+1999,Multilymphoid progenitor cell,CMIP
+2000,Multilymphoid progenitor cell,CMPK2
+2001,Multilymphoid progenitor cell,CMYA5
+2002,Multilymphoid progenitor cell,CNOT1
+2003,Multilymphoid progenitor cell,CNTNAP1
+2006,Lymphoid-primed multipotent progenitor cell(LMPP),COL6A3
+2007,Granulocyte-monocyte progenitor,COMMD5
+2008,Naive CD8+ T cell,COQ8A
+2010,Regulatory T (Treg) cell,CORO7-PAM16
+2011,Multilymphoid progenitor cell,COTL1
+2013,Regulatory T (Treg) cell,CPNE2
+2014,Lymphoid-primed multipotent progenitor cell(LMPP),CRAT
+2015,Multilymphoid progenitor cell,CREG2
+2016,Granulocyte-monocyte progenitor,CRNDE
+2018,Multilymphoid progenitor cell,CROCCP2
+2019,Multilymphoid progenitor cell,CRY2
+2020,Multilymphoid progenitor cell,CSMD1
+2021,Multilymphoid progenitor cell,CSN1S1
+2022,Multilymphoid progenitor cell,CSNK1G2
+2024,Multilymphoid progenitor cell,CTSD
+2025,CD1C-CD141- dendritic cell,CTSL1
+2026,Multilymphoid progenitor cell,CUBN
+2027,Multilymphoid progenitor cell,CUTA
+2028,Plasmacytoid dendritic cell,CXORF21
+2029,Lymphoid-primed multipotent progenitor cell(LMPP),CXorf23
+2030,Multilymphoid progenitor cell,CXXC5
+2031,Plasmacytoid dendritic cell,CYBASC3
+2033,Multilymphoid progenitor cell,DARS-AS1
+2035,Multilymphoid progenitor cell,DDX23
+2036,Granulocyte-monocyte progenitor,DEPDC7
+2037,Multilymphoid progenitor cell,DGKD
+2038,Multilymphoid progenitor cell,DGKQ
+2039,Multilymphoid progenitor cell,DHFRL1
+2040,Multilymphoid progenitor cell,DHX30
+2041,Multilymphoid progenitor cell,DHX8
+2043,CD1C-CD141- dendritic cell,DKFZP451J181
+2044,Plasmacytoid dendritic cell,DKFZP667P0924
+2045,Multilymphoid progenitor cell,DLGAP1-AS1
+2046,Multilymphoid progenitor cell,DLGAP4-AS1
+2047,Multilymphoid progenitor cell,DNAL1
+2049,Multilymphoid progenitor cell,DNHD1
+2050,Multilymphoid progenitor cell,DNM1
+2051,Multilymphoid progenitor cell,DOC2GP
+2052,Multilymphoid progenitor cell,DPF1
+2054,Lymphoid-primed multipotent progenitor cell(LMPP),DPYSL3
+2055,Plasmacytoid dendritic cell,DQ572107
+2056,CD1C+_B dendritic cell,DQ575504
+2057,Plasmacytoid dendritic cell,DQ576756
+2058,Effector CD8+ memory T (Tem) cell,DSTN
+2059,Multilymphoid progenitor cell,DTX3
+2060,Multilymphoid progenitor cell,DUSP22
+2062,Multilymphoid progenitor cell,DVL1
+2063,Multilymphoid progenitor cell,DYNLL2
+2064,Multilymphoid progenitor cell,DYRK2
+2065,Lymphoid-primed multipotent progenitor cell(LMPP),EDC4
+2066,Naive CD4+ T cell,EEF1B2
+2067,Naive CD8+ T cell,EEF2
+2068,Effector CD8+ memory T (Tem) cell,EFHD2
+2069,Multilymphoid progenitor cell,EFNB2
+2070,Multilymphoid progenitor cell,EFR3B
+2071,Multilymphoid progenitor cell,EGLN2
+2072,Multilymphoid progenitor cell,EIF1AX-AS1
+2073,Multilymphoid progenitor cell,EIF2S2P3
+2074,Naive CD8+ T cell,EIF3E
+2075,Multilymphoid progenitor cell,EIF3EP1
+2076,Naive CD4+ T cell,EIF3L
+2077,Multilymphoid progenitor cell,EIF4A1
+2078,Multilymphoid progenitor cell,ELK1
+2079,Regulatory T (Treg) cell,ELK3
+2080,Multilymphoid progenitor cell,ELP5
+2081,Multilymphoid progenitor cell,EMC8
+2082,Effector CD8+ memory T (Tem) cell,EMP3
+2083,CD1C-CD141- dendritic cell,EMR1
+2084,CD1C-CD141- dendritic cell,EMR2
+2085,Multilymphoid progenitor cell,EPB42
+2087,Multilymphoid progenitor cell,EPHA1-AS1
+2088,Naive CD8+ T cell,EPHX2
+2090,Plasmacytoid dendritic cell,ERO1LB
+2092,Naive CD8+ T cell,EXOSC8
+2093,Multilymphoid progenitor cell,EZH1
+2095,Naive CD8+ T cell,FAM102A
+2096,Multilymphoid progenitor cell,FAM103A1
+2097,AXL+SIGLEC6+ dendritic cell,FAM105A
+2100,AXL+SIGLEC6+ dendritic cell,FAM129A
+2101,Multilymphoid progenitor cell,FAM134B
+2102,Multilymphoid progenitor cell,FAM157C
+2103,Plasmacytoid dendritic cell,FAM160A1
+2105,CD141+CLEC9A+ dendritic cell,FAM190A
+2107,Multilymphoid progenitor cell,FAM219A
+2108,Multilymphoid progenitor cell,FAM222B
+2109,CD1C-CD141- dendritic cell,FAM26F
+2110,Granulocyte-monocyte progenitor,FAM45A
+2111,CD1C-CD141- dendritic cell,FAM45B
+2112,CD1C-CD141- dendritic cell,FAM46A
+2113,Naive CD8+ T cell,FAM60A
+2114,Multilymphoid progenitor cell,FAM69A
+2115,Multilymphoid progenitor cell,FAM83D
+2116,Multilymphoid progenitor cell,FAM83G
+2117,Granulocyte-monocyte progenitor,FAM96A
+2119,Fibroblast,FAP
+2120,Multilymphoid progenitor cell,FBRS
+2122,Multilymphoid progenitor cell,FBXO38
+2123,Multilymphoid progenitor cell,FCRL1
+2124,Lymphoid-primed multipotent progenitor cell(LMPP),FCRL3
+2125,Multilymphoid progenitor cell,FFAR1
+2126,Multilymphoid progenitor cell,FFAR2
+2127,Lymphoid-primed multipotent progenitor cell(LMPP),FGD6
+2128,Naive CD4+ T cell,FHIT
+2129,Naive CD8+ T cell,FKBP5
+2130,Plasmacytoid dendritic cell,FLJ43663
+2131,Multilymphoid progenitor cell,FLYWCH1
+2134,Multilymphoid progenitor cell,FOSB
+2135,Multilymphoid progenitor cell,FOXN3
+2136,Multilymphoid progenitor cell,FPGT-TNNI3K
+2137,Multilymphoid progenitor cell,FURIN
+2138,Effector CD8+ memory T (Tem) cell,FUT11
+2140,Multilymphoid progenitor cell,FZD8
+2141,Effector CD8+ memory T (Tem) cell,GAB3
+2143,Granulocyte-monocyte progenitor,GAPDHP42
+2144,Naive CD8+ T cell,GAS5
+2147,CD141+CLEC9A+ dendritic cell,GCET2
+2148,Granulocyte-monocyte progenitor,GCNT1
+2149,Multilymphoid progenitor cell,GFOD1
+2150,AXL+SIGLEC6+ dendritic cell,GGTA1P
+2151,Naive CD4+ T cell,GIMAP8
+2153,Regulatory T (Treg) cell,GLRX
+2154,Multilymphoid progenitor cell,GLTSCR2
+2155,Red blood cell (erythrocyte),GlyA
+2156,Multilymphoid progenitor cell,GNA12
+2157,Multilymphoid progenitor cell,GNAI2
+2158,Multilymphoid progenitor cell,GNPTAB
+2161,Plasmacytoid dendritic cell,GPR114
+2163,Lymphoid-primed multipotent progenitor cell(LMPP),GRB2
+2164,Multilymphoid progenitor cell,GRIK1
+2166,Multilymphoid progenitor cell,GSTP1
+2167,Multilymphoid progenitor cell,GUSBP2
+2168,Multilymphoid progenitor cell,GVINP1
+2169,Multilymphoid progenitor cell,GYPB
+2170,Granulocyte-monocyte progenitor,HAL
+2171,Regulatory T (Treg) cell,HAPLN3
+2172,Multilymphoid progenitor cell,HECW2
+2173,Lymphoid-primed multipotent progenitor cell(LMPP),HERC4
+2174,Multilymphoid progenitor cell,HES1
+2175,Multilymphoid progenitor cell,HHLA1
+2176,Multilymphoid progenitor cell,HIC1
+2177,Multilymphoid progenitor cell,HIST1H2BK
+2178,Multilymphoid progenitor cell,HIST1H4C
+2179,Multilymphoid progenitor cell,HIST1H4I
+2180,Multilymphoid progenitor cell,HIVEP1
+2181,Multilymphoid progenitor cell,HIVEP3
+2182,CD141+CLEC9A+ dendritic cell,HLA-DQB
+2183,Multilymphoid progenitor cell,HMGCS1
+2184,Multilymphoid progenitor cell,HMHA1
+2185,Multilymphoid progenitor cell,HNRNPUL1
+2186,Multilymphoid progenitor cell,HOXA3
+2187,Multilymphoid progenitor cell,HOXA5
+2188,Granulocyte-monocyte progenitor,HTATSF1
+2189,Multilymphoid progenitor cell,IER2
+2190,Multilymphoid progenitor cell,IER5
+2191,Multilymphoid progenitor cell,IFFO2
+2193,Multilymphoid progenitor cell,IGF1R
+2194,Multilymphoid progenitor cell,IGF2R
+2196,Plasmacytoid dendritic cell,IGJ
+2197,Regulatory T (Treg) cell,IL10RA
+2198,Multilymphoid progenitor cell,IL18RAP
+2199,Granulocyte-monocyte progenitor,IL1RAP
+2201,Multilymphoid progenitor cell,IL24
+2202,Plasmacytoid dendritic cell,IL28RA
+2203,Multilymphoid progenitor cell,INADL
+2205,Multilymphoid progenitor cell,INPP5K
+2207,Naive CD8+ T cell,ITFG2
+2210,Multilymphoid progenitor cell,JARID2
+2211,Multilymphoid progenitor cell,JUND
+2212,Granulocyte-monocyte progenitor,KBTBD11
+2213,Effector CD8+ memory T (Tem) cell,KCNAB2
+2214,Multilymphoid progenitor cell,KCNMB1
+2215,Lymphoid-primed multipotent progenitor cell(LMPP),KCTD9
+2216,Multilymphoid progenitor cell,KDM2A
+2217,Multilymphoid progenitor cell,KDM2B
+2218,Multilymphoid progenitor cell,KDM7A
+2221,Plasmacytoid dendritic cell,KIAA0226L
+2222,Multilymphoid progenitor cell,KIAA0355
+2223,Multilymphoid progenitor cell,KIAA0430
+2224,Multilymphoid progenitor cell,KIAA0556
+2225,Multilymphoid progenitor cell,KIAA1024
+2226,Lymphoid-primed multipotent progenitor cell(LMPP),KIAA1147
+2228,Multilymphoid progenitor cell,KIAA2013
+2230,Multilymphoid progenitor cell,KLF7
+2231,Lymphoid-primed multipotent progenitor cell(LMPP),KLKB1
+2232,Multilymphoid progenitor cell,KMT2B
+2233,Lymphoid-primed multipotent progenitor cell(LMPP),LCAT
+2234,Lymphoid-primed multipotent progenitor cell(LMPP),LDB2
+2235,Granulocyte-monocyte progenitor,LDHA
+2236,Naive CD8+ T cell,LDHB
+2237,Naive CD4+ T cell,LDLRAP1
+2238,Naive CD8+ T cell,LEF1-AS1
+2239,Multilymphoid progenitor cell,LENG8-AS1
+2240,Effector CD8+ memory T (Tem) cell,LGALS1
+2241,Multilymphoid progenitor cell,LGSN
+2242,Multilymphoid progenitor cell,LIMS2
+2243,Multilymphoid progenitor cell,LINC00304
+2244,Multilymphoid progenitor cell,LINC00869
+2245,Lymphoid-primed multipotent progenitor cell(LMPP),LINC01059
+2246,Lymphoid-primed multipotent progenitor cell(LMPP),LINC01125
+2247,Lymphoid-primed multipotent progenitor cell(LMPP),LINC01359
+2248,Naive CD8+ T cell,LINC01550
+2249,Multilymphoid progenitor cell,LINC01554
+2250,Effector CD8+ memory T (Tem) cell,LITAF
+2251,Effector CD8+ memory T (Tem) cell,LLGL2
+2252,Multilymphoid progenitor cell,LMBR1L
+2253,Multilymphoid progenitor cell,LMF2
+2254,Multilymphoid progenitor cell,LMLN
+2255,Naive CD8+ T cell,LMO7
+2256,Plasmacytoid dendritic cell,LOC100131089
+2257,Plasmacytoid dendritic cell,LOC100131564
+2258,CD1C-CD141- dendritic cell,LOC100133161
+2259,Plasmacytoid dendritic cell,LOC100233209
+2260,Plasmacytoid dendritic cell,LOC100507600
+2261,CD1C-CD141- dendritic cell,LOC200772
+2262,CD1C+_B dendritic cell,LOC284454
+2263,Plasmacytoid dendritic cell,LOC284551
+2264,Plasmacytoid dendritic cell,LOC285972
+2265,CD1C-CD141- dendritic cell,LOC388312
+2266,Plasmacytoid dendritic cell,LOC400657
+2267,CD141+CLEC9A+ dendritic cell,LOC541471
+2268,Plasmacytoid dendritic cell,LOC642776
+2271,Multilymphoid progenitor cell,LRCH1
+2272,Granulocyte-monocyte progenitor,LRPPRC
+2273,Multilymphoid progenitor cell,LRRC43
+2274,Multilymphoid progenitor cell,LRRC69
+2275,Naive CD8+ T cell,LRRC75A
+2276,Naive CD4+ T cell,LRRC75A-AS1
+2277,Multilymphoid progenitor cell,LRRK1
+2278,Naive CD4+ T cell,LRRN3
+2280,Multilymphoid progenitor cell,LSM14B
+2281,Multilymphoid progenitor cell,LSM7
+2282,Effector CD8+ memory T (Tem) cell,LUZP6
+2283,Lymphoid-primed multipotent progenitor cell(LMPP),LY6G5C
+2284,Granulocyte-monocyte progenitor,M1AP
+2285,Multilymphoid progenitor cell,MAGEE1
+2286,Naive CD4+ T cell,MAL
+2288,Granulocyte-monocyte progenitor,MAMDC2
+2289,Multilymphoid progenitor cell,MAML2
+2290,Multilymphoid progenitor cell,MAN1A2
+2291,Multilymphoid progenitor cell,MANEA-AS1
+2292,Multilymphoid progenitor cell,MAP3K11
+2293,Multilymphoid progenitor cell,MAP3K7CL
+2294,Multilymphoid progenitor cell,MAPKBP1
+2295,Multilymphoid progenitor cell,MB
+2296,Multilymphoid progenitor cell,MBD6
+2297,Effector CD8+ memory T (Tem) cell,MBP
+2298,Granulocyte-monocyte progenitor,MCM10
+2299,Granulocyte-monocyte progenitor,MCM4
+2300,Granulocyte-monocyte progenitor,MCM6
+2301,Multilymphoid progenitor cell,MDGA2
+2302,Multilymphoid progenitor cell,MED13L
+2303,Multilymphoid progenitor cell,MEF2C
+2304,Regulatory T (Treg) cell,METTL7A
+2305,Granulocyte-monocyte progenitor,METTL7B
+2306,Multilymphoid progenitor cell,MEX3C
+2307,Multilymphoid progenitor cell,MFSD4
+2308,Multilymphoid progenitor cell,MGAM
+2309,Multilymphoid progenitor cell,MGRN1
+2310,Multilymphoid progenitor cell,MIDN
+2311,Plasmacytoid dendritic cell,MINA
+2312,Multilymphoid progenitor cell,MKNK1
+2313,Cancer cell,MLANA
+2314,Multilymphoid progenitor cell,MLLT6
+2315,Multilymphoid progenitor cell,MLXIP
+2317,Multilymphoid progenitor cell,MN1
+2318,Multilymphoid progenitor cell,MNT
+2319,Multilymphoid progenitor cell,MOB3A
+2321,Multilymphoid progenitor cell,MPHOSPH8
+2322,Multilymphoid progenitor cell,MPRIP
+2323,Multilymphoid progenitor cell,MREG
+2324,Multilymphoid progenitor cell,MRPL55
+2325,Multilymphoid progenitor cell,MRPS24
+2327,CD141+CLEC9A+ dendritic cell,MTERFD3
+2328,Granulocyte-monocyte progenitor,MTND4P15
+2329,Multilymphoid progenitor cell,MTURN
+2330,Lymphoid-primed multipotent progenitor cell(LMPP),MTUS1
+2331,Multilymphoid progenitor cell,MVD
+2332,Multilymphoid progenitor cell,MVK
+2334,Multilymphoid progenitor cell,MYO9B
+2335,Multilymphoid progenitor cell,MYPOP
+2336,Multilymphoid progenitor cell,MZF1-AS1
+2337,Multilymphoid progenitor cell,NAA60
+2338,Multilymphoid progenitor cell,NATD1
+2339,Naive CD8+ T cell,NDFIP1
+2340,Multilymphoid progenitor cell,NEDD9
+2341,Multilymphoid progenitor cell,NEGR1
+2343,Naive CD4+ T cell,NELL2
+2344,CD1C-CD141- dendritic cell,NEURL
+2345,Multilymphoid progenitor cell,NFIA-AS2
+2346,Multilymphoid progenitor cell,NFKBIA
+2347,Multilymphoid progenitor cell,NHLRC3
+2348,Lymphoid-primed multipotent progenitor cell(LMPP),NKAIN2
+2349,Multilymphoid progenitor cell,NKIRAS1
+2350,Granulocyte-monocyte progenitor,NOG
+2351,Naive CD4+ T cell,NOSIP
+2353,Naive CD8+ T cell,NPAT
+2354,Naive CD8+ T cell,NPM1
+2355,Granulocyte-monocyte progenitor,NPM1P37
+2357,Multilymphoid progenitor cell,NRCAM
+2358,Multilymphoid progenitor cell,NRDE2
+2359,Multilymphoid progenitor cell,NSUN2
+2360,Multilymphoid progenitor cell,NUAK2
+2361,Granulocyte-monocyte progenitor,NUF2
+2362,Multilymphoid progenitor cell,NYNRIN
+2363,Lymphoid-primed multipotent progenitor cell(LMPP),OAS2
+2364,Multilymphoid progenitor cell,OCEL1
+2365,Multilymphoid progenitor cell,OCIAD2
+2366,Multilymphoid progenitor cell,OSTN
+2368,Naive CD8+ T cell,OXNAD1
+2369,Lymphoid-primed multipotent progenitor cell(LMPP),OXR1
+2370,Multilymphoid progenitor cell,PAK1
+2371,Multilymphoid progenitor cell,PALB2
+2372,Multilymphoid progenitor cell,PALD1
+2373,Multilymphoid progenitor cell,PALLD
+2375,Multilymphoid progenitor cell,PANX2
+2376,Multilymphoid progenitor cell,PAQR6
+2377,Naive CD8+ T cell,PASK
+2378,Effector CD8+ memory T (Tem) cell,PATL2
+2379,Multilymphoid progenitor cell,PBXIP1
+2381,Plasmacytoid dendritic cell,PCNX
+2383,Lymphoid-primed multipotent progenitor cell(LMPP),PDE1A
+2384,Granulocyte-monocyte progenitor,PDE3B
+2385,Multilymphoid progenitor cell,PDE7A
+2386,Multilymphoid progenitor cell,PDE9A
+2387,Granulocyte-monocyte progenitor,PEG3
+2388,Multilymphoid progenitor cell,PET100
+2389,Multilymphoid progenitor cell,PFDN5
+2390,Multilymphoid progenitor cell,PHKA2
+2391,Regulatory T (Treg) cell,PI16
+2392,Multilymphoid progenitor cell,PI4KA
+2394,Multilymphoid progenitor cell,PIK3C2B
+2395,Multilymphoid progenitor cell,PIK3R1
+2396,Effector CD8+ memory T (Tem) cell,PIK3R5
+2398,Multilymphoid progenitor cell,PIM3
+2399,Multilymphoid progenitor cell,PIP5KL1
+2400,Multilymphoid progenitor cell,PITHD1
+2401,Megakaryocyte progenitor cell,PLA2G12A
+2404,Lymphoid-primed multipotent progenitor cell(LMPP),PLAGL2
+2405,Lymphoid-primed multipotent progenitor cell(LMPP),PLCXD2
+2406,Granulocyte-monocyte progenitor,PLD1
+2407,Multilymphoid progenitor cell,PLEKHA2
+2410,Multilymphoid progenitor cell,PLEKHO1
+2411,Multilymphoid progenitor cell,PLLP
+2412,Multilymphoid progenitor cell,PLXND1
+2413,Cancer cell,PMEL
+2414,Plasmacytoid dendritic cell,PMS2L2
+2416,Multilymphoid progenitor cell,POMT1
+2417,Multilymphoid progenitor cell,PPAP2C
+2419,Multilymphoid progenitor cell,PPP1R10
+2420,Multilymphoid progenitor cell,PPP1R12C
+2423,Lymphoid-primed multipotent progenitor cell(LMPP),PPP2R3B
+2425,Lymphoid-primed multipotent progenitor cell(LMPP),PRAME
+2426,Multilymphoid progenitor cell,PRKACA
+2427,Effector CD8+ memory T (Tem) cell,PRKCB
+2428,Multilymphoid progenitor cell,PRKCQ-AS1
+2430,Multilymphoid progenitor cell,PRKRIP1
+2431,Multilymphoid progenitor cell,PRKRIRP3
+2432,Multilymphoid progenitor cell,PRMT6
+2433,Lymphoid-primed multipotent progenitor cell(LMPP),PROB1
+2434,Lymphoid-primed multipotent progenitor cell(LMPP),PROX2
+2437,Lymphoid-primed multipotent progenitor cell(LMPP),PSPN
+2439,Granulocyte-monocyte progenitor,PTPRE
+2440,Lymphoid-primed multipotent progenitor cell(LMPP),PWRN1
+2441,Effector CD8+ memory T (Tem) cell,PXN
+2443,Naive CD8+ T cell,R3HDM4
+2444,Multilymphoid progenitor cell,RAB31
+2445,Multilymphoid progenitor cell,RAB33A
+2446,Granulocyte-monocyte progenitor,RAB44
+2447,Multilymphoid progenitor cell,RAB4B
+2448,Naive CD8+ T cell,RACK1
+2449,Granulocyte-monocyte progenitor,RAD51AP1
+2450,Multilymphoid progenitor cell,RANBP10
+2451,Effector CD8+ memory T (Tem) cell,RAP2B
+2452,Multilymphoid progenitor cell,RAPGEF1
+2453,Multilymphoid progenitor cell,RASAL3
+2454,Effector CD8+ memory T (Tem) cell,RASSF1
+2455,Multilymphoid progenitor cell,RASSF5
+2456,Multilymphoid progenitor cell,RBM17
+2457,Multilymphoid progenitor cell,RBM38
+2458,Multilymphoid progenitor cell,RBPMS
+2459,Naive CD8+ T cell,RCAN3
+2460,Multilymphoid progenitor cell,RERE
+2461,Regulatory T (Treg) cell,REREP3
+2462,Granulocyte-monocyte progenitor,RETSAT
+2463,Multilymphoid progenitor cell,REXO1L1P
+2464,Multilymphoid progenitor cell,RFC1
+2465,Multilymphoid progenitor cell,RGL4
+2466,Effector CD8+ memory T (Tem) cell,RGS19
+2467,Multilymphoid progenitor cell,RHOT2
+2468,Multilymphoid progenitor cell,RHPN1
+2469,Naive CD8+ T cell,RIC3
+2470,Granulocyte-monocyte progenitor,RMI2
+2471,Lymphoid-primed multipotent progenitor cell(LMPP),RNF103
+2472,Effector CD8+ memory T (Tem) cell,RNF166
+2473,Lymphoid-primed multipotent progenitor cell(LMPP),RNF213
+2474,Regulatory T (Treg) cell,RNF214
+2475,Multilymphoid progenitor cell,RNF220
+2476,Lymphoid-primed multipotent progenitor cell(LMPP),RNPEPL1
+2477,Multilymphoid progenitor cell,RNU6-645P
+2478,Multilymphoid progenitor cell,RPAIN
+2479,Lymphoid-primed multipotent progenitor cell(LMPP),RPGRIP1L
+2480,Multilymphoid progenitor cell,RPL32P3
+2481,Lymphoid-primed multipotent progenitor cell(LMPP),RPL7P52
+2482,Multilymphoid progenitor cell,RPS27
+2483,Multilymphoid progenitor cell,RPS4XP16
+2484,Naive CD4+ T cell,RPS5
+2485,Multilymphoid progenitor cell,RPS6KA2
+2486,Naive CD8+ T cell,RPS8
+2487,Multilymphoid progenitor cell,RRAGC
+2488,Naive CD4+ T cell,RSL1D1
+2490,Multilymphoid progenitor cell,RSRC1
+2492,Multilymphoid progenitor cell,RWDD1
+2493,Effector CD8+ memory T (Tem) cell,S1PR5
+2494,Regulatory T (Treg) cell,SAMHD1
+2495,Multilymphoid progenitor cell,SAP30L-AS1
+2496,Multilymphoid progenitor cell,SASH3
+2497,Multilymphoid progenitor cell,SAT2
+2498,Naive CD8+ T cell,SCML4
+2500,Multilymphoid progenitor cell,SCRG1
+2501,Granulocyte-monocyte progenitor,SDC4
+2502,Plasmacytoid dendritic cell,SELS
+2504,Multilymphoid progenitor cell,SENCR
+2505,Plasmacytoid dendritic cell,11-Sep
+2506,Multilymphoid progenitor cell,9-Sep
+2507,Plasmacytoid dendritic cell,SEPT1'
+2508,AXL+SIGLEC6+ dendritic cell,SEPT6'
+2509,Naive CD4+ T cell,SERINC5
+2511,Multilymphoid progenitor cell,SGIP1
+2512,Lymphoid-primed multipotent progenitor cell(LMPP),SGMS1-AS1
+2513,Effector CD8+ memory T (Tem) cell,SH3BP5
+2514,Effector CD8+ memory T (Tem) cell,SH3BP5-AS1
+2515,Multilymphoid progenitor cell,SH3GL1P1
+2516,Naive CD8+ T cell,SH3YL1
+2518,Lymphoid-primed multipotent progenitor cell(LMPP),SIGLEC17P
+2519,Multilymphoid progenitor cell,SIN3B
+2520,Multilymphoid progenitor cell,SIPA1
+2521,Granulocyte-monocyte progenitor,SKA3
+2522,Multilymphoid progenitor cell,SLC13A4
+2523,Lymphoid-primed multipotent progenitor cell(LMPP),SLC22A17
+2524,Multilymphoid progenitor cell,SLC25A5-AS1
+2525,Multilymphoid progenitor cell,SLC30A5
+2527,Multilymphoid progenitor cell,SLC35E3
+2528,Multilymphoid progenitor cell,SLC43A2
+2530,Multilymphoid progenitor cell,SLC8A1-AS1
+2531,Multilymphoid progenitor cell,SLC8B1
+2532,Effector CD8+ memory T (Tem) cell,SLC9A3R1
+2533,Effector CD8+ memory T (Tem) cell,SLCO4C1
+2534,Multilymphoid progenitor cell,SLCO5A1
+2535,Multilymphoid progenitor cell,SLITRK5
+2536,CD1C+_A dendritic cell,SMA
+2537,Multilymphoid progenitor cell,SMARCA4
+2538,Granulocyte-monocyte progenitor,SMIM24
+2539,Multilymphoid progenitor cell,SMIM3
+2540,Naive CD8+ T cell,SNED1
+2541,Multilymphoid progenitor cell,SNHG6
+2543,Multilymphoid progenitor cell,SNHG9
+2544,Multilymphoid progenitor cell,SNRNP70
+2545,Naive CD8+ T cell,SNURF
+2546,Plasmacytoid dendritic cell,SNURF-SNRPN
+2547,Lymphoid-primed multipotent progenitor cell(LMPP),SNX10
+2548,Multilymphoid progenitor cell,SNX33
+2549,Plasmacytoid dendritic cell,SOLH
+2550,Multilymphoid progenitor cell,SON
+2551,Multilymphoid progenitor cell,SOX11
+2552,Multilymphoid progenitor cell,SOX2-OT
+2554,Multilymphoid progenitor cell,SPACA6P
+2555,Multilymphoid progenitor cell,SPAG5
+2556,Multilymphoid progenitor cell,SPATA21
+2557,Multilymphoid progenitor cell,SPECC1
+2559,Naive CD8+ T cell,SPINT2
+2560,Multilymphoid progenitor cell,SPON1
+2561,Multilymphoid progenitor cell,SPRTN
+2562,Naive CD8+ T cell,SPTBN1
+2563,Multilymphoid progenitor cell,SRP72P2
+2564,Effector CD8+ memory T (Tem) cell,SRPK2
+2565,Plasmacytoid dendritic cell,SRPR
+2566,Multilymphoid progenitor cell,SRSF4
+2567,Multilymphoid progenitor cell,SSBP3
+2568,Lymphoid-primed multipotent progenitor cell(LMPP),SSC4D
+2569,Multilymphoid progenitor cell,SSSCA1
+2570,Multilymphoid progenitor cell,ST20-AS1
+2571,Multilymphoid progenitor cell,ST3GAL1
+2572,Lymphoid-primed multipotent progenitor cell(LMPP),ST3GAL5
+2573,Regulatory T (Treg) cell,STAM
+2574,Multilymphoid progenitor cell,STK4
+2575,Naive CD8+ T cell,STMN3
+2576,Multilymphoid progenitor cell,STRN4
+2577,Multilymphoid progenitor cell,STX6
+2578,Lymphoid-primed multipotent progenitor cell(LMPP),STXBP5L
+2579,Granulocyte-monocyte progenitor,SUCNR1
+2580,Plasmacytoid dendritic cell,SUZ12P
+2581,Multilymphoid progenitor cell,SYN3
+2583,Multilymphoid progenitor cell,SYT4
+2584,Multilymphoid progenitor cell,TAF5
+2585,Effector CD8+ memory T (Tem) cell,TAGLN2
+2587,Multilymphoid progenitor cell,TBC1D17
+2588,Multilymphoid progenitor cell,TBX10
+2589,Multilymphoid progenitor cell,TBX19
+2592,Multilymphoid progenitor cell,TENM1
+2593,Naive CD4+ T cell,TESPA1
+2594,Multilymphoid progenitor cell,TFE3
+2595,Effector CD8+ memory T (Tem) cell,TGFBR3
+2596,Naive CD8+ T cell,THAP7
+2597,Multilymphoid progenitor cell,THBS3
+2599,Regulatory T (Treg) cell,TLDC2
+2600,Effector CD8+ memory T (Tem) cell,TM4SF19
+2603,Multilymphoid progenitor cell,TMC8
+2604,Multilymphoid progenitor cell,TMEM106A
+2605,Naive CD8+ T cell,TMEM123
+2606,Multilymphoid progenitor cell,TMEM136
+2607,CD1C+_B dendritic cell,TMEM173
+2608,Multilymphoid progenitor cell,TMEM192
+2609,Naive CD4+ T cell,TMEM204
+2610,Multilymphoid progenitor cell,TMEM38A
+2611,Multilymphoid progenitor cell,TMSB10
+2612,Multilymphoid progenitor cell,TNS3
+2613,Naive CD8+ T cell,TOMM7
+2615,Naive CD8+ T cell,TPCN1
+2619,Naive CD4+ T cell,TRABD2A
+2620,Naive CD8+ T cell,TRAP1
+2621,Multilymphoid progenitor cell,TRAPPC2B
+2622,Multilymphoid progenitor cell,TRAT1
+2623,Multilymphoid progenitor cell,TRBV23-1
+2624,Lymphoid-primed multipotent progenitor cell(LMPP),TRBV29-1
+2625,Multilymphoid progenitor cell,TRIAP1
+2626,Multilymphoid progenitor cell,TRIB2
+2627,Regulatory T (Treg) cell,TRIM16
+2628,Multilymphoid progenitor cell,TRIM71
+2629,Naive CD8+ T cell,TRMT1
+2630,Lymphoid-primed multipotent progenitor cell(LMPP),TRPM2
+2631,Multilymphoid progenitor cell,TSC22D1
+2633,Multilymphoid progenitor cell,TTBK2
+2634,Multilymphoid progenitor cell,TTC13
+2635,Effector CD8+ memory T (Tem) cell,TTC16
+2636,Multilymphoid progenitor cell,TTC21A
+2637,Effector CD8+ memory T (Tem) cell,TTC38
+2638,Regulatory T (Treg) cell,TTC39C
+2639,Granulocyte-monocyte progenitor,TTK
+2640,Multilymphoid progenitor cell,TTN
+2641,Multilymphoid progenitor cell,TUSC7
+2642,Granulocyte-monocyte progenitor,TYMSOS
+2643,Cancer cell,TYR
+2644,Multilymphoid progenitor cell,UBE2Z
+2645,Naive CD8+ T cell,UBQLN2
+2646,Granulocyte-monocyte progenitor,UBTD2
+2647,Multilymphoid progenitor cell,UGT3A2
+2648,Granulocyte-monocyte progenitor,UHRF1
+2649,Multilymphoid progenitor cell,ULBP1
+2650,Multilymphoid progenitor cell,ULK1
+2651,Multilymphoid progenitor cell,UPF2
+2653,Regulatory T (Treg) cell,USP15
+2656,Multilymphoid progenitor cell,USP36
+2657,Multilymphoid progenitor cell,UTP14C
+2658,Multilymphoid progenitor cell,VAMP2
+2659,Effector CD8+ memory T (Tem) cell,VCL
+2660,Granulocyte-monocyte progenitor,VDAC1
+2661,Effector CD8+ memory T (Tem) cell,VEZF1
+2662,Multilymphoid progenitor cell,VHL
+2664,Naive CD8+ T cell,VIPR1
+2665,Multilymphoid progenitor cell,VPS13D
+2666,Multilymphoid progenitor cell,VPS37B
+2667,Lymphoid-primed multipotent progenitor cell(LMPP),VPS54
+2668,CD1C-CD141- dendritic cell,WARS
+2669,Multilymphoid progenitor cell,WDR20
+2670,Effector CD8+ memory T (Tem) cell,WDR37
+2671,Naive CD8+ T cell,WDR43
+2672,Multilymphoid progenitor cell,WDR53
+2674,Cancer cell,WFDC2
+2675,Multilymphoid progenitor cell,WFS1
+2676,Multilymphoid progenitor cell,WIPF2
+2678,Multilymphoid progenitor cell,XIRP2
+2679,Multilymphoid progenitor cell,YPEL3
+2680,Multilymphoid progenitor cell,YTHDF1
+2681,Multilymphoid progenitor cell,YTHDF3-AS1
+2682,Multilymphoid progenitor cell,ZBTB4
+2683,Multilymphoid progenitor cell,ZBTB7A
+2685,Multilymphoid progenitor cell,ZC3H13
+2686,Plasmacytoid dendritic cell,ZCCHC11
+2687,CD1C-CD141- dendritic cell,ZCCHC6
+2688,Effector CD8+ memory T (Tem) cell,ZEB2-AS1
+2689,Multilymphoid progenitor cell,ZFAND2A
+2690,Multilymphoid progenitor cell,ZFAS1
+2691,Multilymphoid progenitor cell,ZFP36L1
+2692,Granulocyte-monocyte progenitor,ZFP37
+2693,Lymphoid-primed multipotent progenitor cell(LMPP),ZKSCAN8
+2695,Naive CD8+ T cell,ZNF101
+2696,Multilymphoid progenitor cell,ZNF12
+2697,Multilymphoid progenitor cell,ZNF133
+2698,Multilymphoid progenitor cell,ZNF230
+2699,Multilymphoid progenitor cell,ZNF274
+2700,Lymphoid-primed multipotent progenitor cell(LMPP),ZNF367
+2701,Multilymphoid progenitor cell,ZNF430
+2702,Multilymphoid progenitor cell,ZNF444
+2704,Multilymphoid progenitor cell,ZNF532
+2705,Effector CD8+ memory T (Tem) cell,ZNF600
+2707,Multilymphoid progenitor cell,ZNF608
+2708,Multilymphoid progenitor cell,ZNF626
+2709,Natural killer T (NKT) cell,ZNF683
+2711,Multilymphoid progenitor cell,ZNF740
+2712,Multilymphoid progenitor cell,ZNF843
+2713,Multilymphoid progenitor cell,ZP1
+2714,Multilymphoid progenitor cell,ZSCAN30
+2715,Lymphoid-primed multipotent progenitor cell(LMPP),ZSWIM1
+2716,Multilymphoid progenitor cell,ZSWIM8
