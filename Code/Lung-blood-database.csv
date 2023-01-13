@@ -56,8 +56,6 @@
 54,Leukocyte,GP1BA
 55,Cancer stem cell,PROM1
 56,Plasmacytoid dendritic cell,NRP1
-57,Endothelial progenitor cell,CD34
-58,Endothelial progenitor cell,PTPRC
 59,Responder T cell,LRRC32
 60,Cancer stem cell,CD44
 61,Cancer stem cell,ALDH1A1
@@ -79,7 +77,6 @@
 78,Lymphocyte,ANXA5
 79,Lymphocyte,CX3CR1
 81,Endothelial cell,PECAM1
-82,Endothelial progenitor cell,KDR
 83,Granulocyte,CEACAM8
 84,Regulatory T (Treg) cell,TNFRSF18
 85,Vascular stem cell,KIT
@@ -184,14 +181,7 @@
 185,Fibroblast,PDGFRA
 186,Fibroblast,PDGFRB
 187,Fibroblast,VIM
-188,Macrophage,CCL18
-189,Macrophage,CCL2
-190,Macrophage,IL1RN
 191,M1 macrophage,CXCL10
-192,Macrophage,FCGR1A
-193,Macrophage,CD80
-194,Macrophage,RETNLB
-195,Macrophage,ITGAL
 196,Myofibroblast,FN1
 197,T cell,FOXP3
 198,CD8+ T cell,ITGAE
@@ -2327,268 +2317,6 @@
 2328,CD1C+_B dendritic cell,STING1
 2329,CD1C+_B dendritic cell,TREM1
 2330,CD1C+_B dendritic cell,VCAN
-2331,CD1C-CD141- dendritic cell,ABCC3
-2332,CD1C-CD141- dendritic cell,ABHD3
-2333,CD1C-CD141- dendritic cell,ABI3
-2334,CD1C-CD141- dendritic cell,ACOT9
-2335,CD1C-CD141- dendritic cell,AGTRAP
-2336,CD1C-CD141- dendritic cell,AIF1
-2337,CD1C-CD141- dendritic cell,ALOX5
-2338,CD1C-CD141- dendritic cell,AMPD2
-2339,CD1C-CD141- dendritic cell,AP2A1
-2340,CD1C-CD141- dendritic cell,APOBEC3A
-2341,CD1C-CD141- dendritic cell,ARAP2
-2342,CD1C-CD141- dendritic cell,ARHGEF3
-2343,CD1C-CD141- dendritic cell,ARRB1
-2344,CD1C-CD141- dendritic cell,ARRB2
-2345,CD1C-CD141- dendritic cell,ARRDC3
-2346,CD1C-CD141- dendritic cell,ASAH1
-2347,CD1C-CD141- dendritic cell,BACH1
-2348,CD1C-CD141- dendritic cell,BCL2A1
-2349,CD1C-CD141- dendritic cell,BID
-2350,CD1C-CD141- dendritic cell,BIN2
-2351,CD1C-CD141- dendritic cell,BLOC1S3
-2352,CD1C-CD141- dendritic cell,BLVRA
-2353,CD1C-CD141- dendritic cell,C3AR1
-2354,CD1C-CD141- dendritic cell,CAMK1
-2355,CD1C-CD141- dendritic cell,CAMKK2
-2356,CD1C-CD141- dendritic cell,CASP1
-2357,CD1C-CD141- dendritic cell,CASP4
-2358,CD1C-CD141- dendritic cell,CCM2
-2359,CD1C-CD141- dendritic cell,CCPG1
-2360,CD1C-CD141- dendritic cell,CD300A
-2361,CD1C-CD141- dendritic cell,CD300E
-2362,CD1C-CD141- dendritic cell,CD300LF
-2363,CD1C-CD141- dendritic cell,CD52
-2364,CD1C-CD141- dendritic cell,CD79B
-2365,CD1C-CD141- dendritic cell,CDC42EP3
-2366,CD1C-CD141- dendritic cell,CDKN1C
-2367,CD1C-CD141- dendritic cell,CLEC12A
-2368,CD1C-CD141- dendritic cell,CLEC4F
-2369,CD1C-CD141- dendritic cell,CLEC7A
-2370,CD1C-CD141- dendritic cell,CMTM7
-2371,CD1C-CD141- dendritic cell,CNIH4
-2372,CD1C-CD141- dendritic cell,CORO2A
-2373,CD1C-CD141- dendritic cell,CPPED1
-2374,CD1C-CD141- dendritic cell,CSF1R
-2375,CD1C-CD141- dendritic cell,CSGALNACT2
-2376,CD1C-CD141- dendritic cell,CSK
-2377,CD1C-CD141- dendritic cell,CXCL16
-2378,CD1C-CD141- dendritic cell,CYTIP
-2379,CD1C-CD141- dendritic cell,DDX58
-2380,CD1C-CD141- dendritic cell,DDX60
-2381,CD1C-CD141- dendritic cell,DDX60L
-2382,CD1C-CD141- dendritic cell,DENND3
-2383,CD1C-CD141- dendritic cell,DENND5A
-2384,CD1C-CD141- dendritic cell,DMXL2
-2385,CD1C-CD141- dendritic cell,DNAJB1
-2386,CD1C-CD141- dendritic cell,DOK2
-2387,CD1C-CD141- dendritic cell,DOK3
-2388,CD1C-CD141- dendritic cell,DPEP2
-2389,CD1C-CD141- dendritic cell,DRAP1
-2390,CD1C-CD141- dendritic cell,DUSP1
-2391,CD1C-CD141- dendritic cell,EHD1
-2392,CD1C-CD141- dendritic cell,ERICH1
-2393,CD1C-CD141- dendritic cell,EVL
-2394,CD1C-CD141- dendritic cell,FAM110A
-2395,CD1C-CD141- dendritic cell,FAM126A
-2396,CD1C-CD141- dendritic cell,FCGR2A
-2397,CD1C-CD141- dendritic cell,FCGR2C
-2398,CD1C-CD141- dendritic cell,FGD3
-2399,CD1C-CD141- dendritic cell,FGD4
-2400,CD1C-CD141- dendritic cell,FGR
-2401,CD1C-CD141- dendritic cell,FLNA
-2402,CD1C-CD141- dendritic cell,FOXO1
-2403,CD1C-CD141- dendritic cell,FTH1
-2404,CD1C-CD141- dendritic cell,FTL
-2405,CD1C-CD141- dendritic cell,GBP1
-2406,CD1C-CD141- dendritic cell,GBP2
-2407,CD1C-CD141- dendritic cell,GBP5
-2408,CD1C-CD141- dendritic cell,GIMAP1
-2409,CD1C-CD141- dendritic cell,GIMAP2
-2410,CD1C-CD141- dendritic cell,GIMAP4
-2411,CD1C-CD141- dendritic cell,GIMAP7
-2412,CD1C-CD141- dendritic cell,GLUL
-2413,CD1C-CD141- dendritic cell,GNG2
-2414,CD1C-CD141- dendritic cell,GNS
-2415,CD1C-CD141- dendritic cell,GPBAR1
-2416,CD1C-CD141- dendritic cell,HCK
-2417,CD1C-CD141- dendritic cell,HEG1
-2418,CD1C-CD141- dendritic cell,HK1
-2419,CD1C-CD141- dendritic cell,HK3
-2420,CD1C-CD141- dendritic cell,HLA-E
-2421,CD1C-CD141- dendritic cell,HMOX1
-2422,CD1C-CD141- dendritic cell,HSBP1
-2423,CD1C-CD141- dendritic cell,HSPA7
-2424,CD1C-CD141- dendritic cell,ICAM2
-2425,CD1C-CD141- dendritic cell,IFI30
-2426,CD1C-CD141- dendritic cell,IFI6
-2427,CD1C-CD141- dendritic cell,IFIT2
-2428,CD1C-CD141- dendritic cell,IFIT3
-2429,CD1C-CD141- dendritic cell,IFITM2
-2430,CD1C-CD141- dendritic cell,IFNGR2
-2431,CD1C-CD141- dendritic cell,IL12RB1
-2432,CD1C-CD141- dendritic cell,IMPDH1
-2433,CD1C-CD141- dendritic cell,IRAK3
-2434,CD1C-CD141- dendritic cell,IRF1
-2435,CD1C-CD141- dendritic cell,ISG15
-2436,CD1C-CD141- dendritic cell,ITM2B
-2437,CD1C-CD141- dendritic cell,KDM1B
-2438,CD1C-CD141- dendritic cell,KIAA0513
-2439,CD1C-CD141- dendritic cell,KLF11
-2440,CD1C-CD141- dendritic cell,KLF3
-2441,CD1C-CD141- dendritic cell,KSR1
-2442,CD1C-CD141- dendritic cell,LCP2
-2443,CD1C-CD141- dendritic cell,LGALS3
-2444,CD1C-CD141- dendritic cell,LILRA2
-2445,CD1C-CD141- dendritic cell,LILRA6
-2446,CD1C-CD141- dendritic cell,LILRB2
-2447,CD1C-CD141- dendritic cell,LIMS1
-2448,CD1C-CD141- dendritic cell,UICLM
-2449,CD1C-CD141- dendritic cell,LRP1
-2450,CD1C-CD141- dendritic cell,LRRC25
-2451,CD1C-CD141- dendritic cell,LST1
-2452,CD1C-CD141- dendritic cell,LTA4H
-2453,CD1C-CD141- dendritic cell,LY6E
-2454,CD1C-CD141- dendritic cell,LYN
-2455,CD1C-CD141- dendritic cell,LYST
-2456,CD1C-CD141- dendritic cell,MAFB
-2457,CD1C-CD141- dendritic cell,MAGED2
-2458,CD1C-CD141- dendritic cell,MAP3K1
-2459,CD1C-CD141- dendritic cell,MARCKS
-2460,CD1C-CD141- dendritic cell,MBD2
-2461,CD1C-CD141- dendritic cell,MCTP1
-2462,CD1C-CD141- dendritic cell,MPP1
-2463,CD1C-CD141- dendritic cell,MS4A4A
-2464,CD1C-CD141- dendritic cell,MS4A7
-2465,CD1C-CD141- dendritic cell,MSN
-2466,CD1C-CD141- dendritic cell,MT2A
-2467,CD1C-CD141- dendritic cell,MTSS1
-2468,CD1C-CD141- dendritic cell,MXD3
-2469,CD1C-CD141- dendritic cell,MYO1G
-2470,CD1C-CD141- dendritic cell,MYOF
-2471,CD1C-CD141- dendritic cell,NAAA
-2472,CD1C-CD141- dendritic cell,NADK
-2473,CD1C-CD141- dendritic cell,NAMPT
-2474,CD1C-CD141- dendritic cell,NAP1L1
-2475,CD1C-CD141- dendritic cell,NBEAL2
-2476,CD1C-CD141- dendritic cell,NCF2
-2477,CD1C-CD141- dendritic cell,NDUFB3
-2478,CD1C-CD141- dendritic cell,NECAP2
-2479,CD1C-CD141- dendritic cell,NFAM1
-2480,CD1C-CD141- dendritic cell,NFKBIZ
-2481,CD1C-CD141- dendritic cell,NINJ1
-2482,CD1C-CD141- dendritic cell,NLRP1
-2483,CD1C-CD141- dendritic cell,NPL
-2484,CD1C-CD141- dendritic cell,NR4A1
-2485,CD1C-CD141- dendritic cell,NUDT16
-2486,CD1C-CD141- dendritic cell,OAS1
-2487,CD1C-CD141- dendritic cell,P2RX1
-2488,CD1C-CD141- dendritic cell,P2RY13
-2489,CD1C-CD141- dendritic cell,PAG1
-2490,CD1C-CD141- dendritic cell,PDLIM5
-2491,CD1C-CD141- dendritic cell,PDP1
-2492,CD1C-CD141- dendritic cell,PELI1
-2493,CD1C-CD141- dendritic cell,PHTF2
-2494,CD1C-CD141- dendritic cell,PIEZO1
-2495,CD1C-CD141- dendritic cell,PIK3AP1
-2496,CD1C-CD141- dendritic cell,PIK3IP1
-2497,CD1C-CD141- dendritic cell,PILRA
-2498,CD1C-CD141- dendritic cell,PLEKHO2
-2499,CD1C-CD141- dendritic cell,PLIN2
-2500,CD1C-CD141- dendritic cell,PLXNC1
-2501,CD1C-CD141- dendritic cell,POU2F2
-2502,CD1C-CD141- dendritic cell,PPM1F
-2503,CD1C-CD141- dendritic cell,PRAM1
-2504,CD1C-CD141- dendritic cell,PSAP
-2505,CD1C-CD141- dendritic cell,PSTPIP2
-2506,CD1C-CD141- dendritic cell,PTGER2
-2507,CD1C-CD141- dendritic cell,PTGER4
-2508,CD1C-CD141- dendritic cell,PTP4A3
-2509,CD1C-CD141- dendritic cell,PTPN6
-2510,CD1C-CD141- dendritic cell,PYGL
-2511,CD1C-CD141- dendritic cell,RAB10
-2512,CD1C-CD141- dendritic cell,RAB24
-2513,CD1C-CD141- dendritic cell,RALB
-2514,CD1C-CD141- dendritic cell,RAP1B
-2515,CD1C-CD141- dendritic cell,RAP1GAP2
-2516,CD1C-CD141- dendritic cell,RASGRP4
-2517,CD1C-CD141- dendritic cell,RELT
-2518,CD1C-CD141- dendritic cell,RHOC
-2519,CD1C-CD141- dendritic cell,RNF144B
-2520,CD1C-CD141- dendritic cell,RXRA
-2521,CD1C-CD141- dendritic cell,S100A11
-2522,CD1C-CD141- dendritic cell,S100A4
-2523,CD1C-CD141- dendritic cell,SAMSN1
-2524,CD1C-CD141- dendritic cell,SASH1
-2525,CD1C-CD141- dendritic cell,SAT1
-2526,CD1C-CD141- dendritic cell,SCPEP1
-2527,CD1C-CD141- dendritic cell,SDCBP
-2528,CD1C-CD141- dendritic cell,SERPINA1
-2529,CD1C-CD141- dendritic cell,SGPL1
-2530,CD1C-CD141- dendritic cell,SH2D1B
-2531,CD1C-CD141- dendritic cell,SH3BP2
-2532,CD1C-CD141- dendritic cell,SIDT2
-2533,CD1C-CD141- dendritic cell,SIGLEC10
-2534,CD1C-CD141- dendritic cell,SIRPB1
-2535,CD1C-CD141- dendritic cell,SLA
-2536,CD1C-CD141- dendritic cell,SLC11A1
-2537,CD1C-CD141- dendritic cell,SLC2A6
-2538,CD1C-CD141- dendritic cell,SLC31A2
-2539,CD1C-CD141- dendritic cell,SLC44A2
-2540,CD1C-CD141- dendritic cell,SLC7A7
-2541,CD1C-CD141- dendritic cell,SMAP2
-2542,CD1C-CD141- dendritic cell,SNX18
-2543,CD1C-CD141- dendritic cell,SOD2
-2544,CD1C-CD141- dendritic cell,SSH2
-2545,CD1C-CD141- dendritic cell,STK10
-2546,CD1C-CD141- dendritic cell,STK38
-2547,CD1C-CD141- dendritic cell,STX11
-2548,CD1C-CD141- dendritic cell,STXBP2
-2549,CD1C-CD141- dendritic cell,SULT1A1
-2550,CD1C-CD141- dendritic cell,SWAP70
-2551,CD1C-CD141- dendritic cell,SYTL1
-2552,CD1C-CD141- dendritic cell,TAGLN
-2553,CD1C-CD141- dendritic cell,TBCD
-2554,CD1C-CD141- dendritic cell,TBXAS1
-2555,CD1C-CD141- dendritic cell,TCF7L2
-2556,CD1C-CD141- dendritic cell,TCIRG1
-2557,CD1C-CD141- dendritic cell,TESC
-2558,CD1C-CD141- dendritic cell,TIAM1
-2559,CD1C-CD141- dendritic cell,TKT
-2560,CD1C-CD141- dendritic cell,TLE4
-2561,CD1C-CD141- dendritic cell,TLR2
-2562,CD1C-CD141- dendritic cell,TLR4
-2563,CD1C-CD141- dendritic cell,TMBIM1
-2564,CD1C-CD141- dendritic cell,TMC6
-2565,CD1C-CD141- dendritic cell,TMEM11
-2566,CD1C-CD141- dendritic cell,TMEM134
-2567,CD1C-CD141- dendritic cell,TMEM154
-2568,CD1C-CD141- dendritic cell,TMEM176B
-2569,CD1C-CD141- dendritic cell,TMPO
-2570,CD1C-CD141- dendritic cell,TMTC1
-2571,CD1C-CD141- dendritic cell,TNFRSF14
-2572,CD1C-CD141- dendritic cell,TNFRSF1B
-2573,CD1C-CD141- dendritic cell,TNFSF10
-2574,CD1C-CD141- dendritic cell,TSC22D3
-2575,CD1C-CD141- dendritic cell,TSPAN32
-2576,CD1C-CD141- dendritic cell,TTYH3
-2577,CD1C-CD141- dendritic cell,TXNIP
-2578,CD1C-CD141- dendritic cell,TYMP
-2579,CD1C-CD141- dendritic cell,TYROBP
-2580,CD1C-CD141- dendritic cell,UBXN11
-2581,CD1C-CD141- dendritic cell,UNC13D
-2582,CD1C-CD141- dendritic cell,UPP1
-2583,CD1C-CD141- dendritic cell,VAMP5
-2584,CD1C-CD141- dendritic cell,VASP
-2585,CD1C-CD141- dendritic cell,VMP1
-2586,CD1C-CD141- dendritic cell,WARS1
-2587,CD1C-CD141- dendritic cell,WDFY1
-2588,CD1C-CD141- dendritic cell,WDR11
-2589,CD1C-CD141- dendritic cell,YPEL2
-2590,CD1C-CD141- dendritic cell,ZEB2
-2591,CD1C-CD141- dendritic cell,ZFAND5
-2592,CD1C-CD141- dendritic cell,ZNFX1
 2593,AXL+SIGLEC6+ dendritic cell,ACP3
 2594,AXL+SIGLEC6+ dendritic cell,ADAM33
 2595,AXL+SIGLEC6+ dendritic cell,ALDH2
@@ -3055,14 +2783,6 @@
 3056,CD141+CLEC9A+ dendritic cell,CCSER1
 3057,CD141+CLEC9A+ dendritic cell,GCSAM
 3058,CD141+CLEC9A+ dendritic cell,MTERF2
-3059,CD1C-CD141- dendritic cell,GRK2
-3060,CD1C-CD141- dendritic cell,CTSL
-3061,CD1C-CD141- dendritic cell,ADGRE1
-3062,CD1C-CD141- dendritic cell,ADGRE2
-3063,CD1C-CD141- dendritic cell,CALHM6
-3064,CD1C-CD141- dendritic cell,DENND10P1
-3065,CD1C-CD141- dendritic cell,TENT5A
-3066,CD1C-CD141- dendritic cell,TUT7
 3067,AXL+SIGLEC6+ dendritic cell,OTULINL
 3068,AXL+SIGLEC6+ dendritic cell,NIBAN1
 3069,Plasmacytoid dendritic cell,SEPTIN11
@@ -3405,14 +3125,8 @@
 3406,Classical Monocytes,CD11c
 3407,Classical Monocytes,CST3
 3408,Classical Monocytes,Elane1
-3409,Non-classical monocytes,FCER1G
-3410,Non-classical monocytes,C1QC
-3411,Macrophage,CD206
-3412,Macrophage,CD64
-3413,Macrophage,CD115
-3414,Macrophage,MRC1
-3415,Macrophage,MSR1
-3416,Macrophage,Pf4
+3409,Macrophage,FCER1G
+3410,Macrophage,C1QC
 3417,Megakaryocyte,CD41a
 3418,Megakaryocyte,CD42a
 3419,Endothelial cell,VCAM1
@@ -3792,46 +3506,6 @@
 3793,Gamma delta T cells,TRDV1
 3794,Gamma delta T cells,TRDV3
 3795,Ionocyte cell,SLC9A4
-3796,Macrophage,GPR34
-3797,Macrophage,CHIT1
-3798,Macrophage,TGFBR1
-3799,Macrophage,SLAMF9
-3800,Macrophage,STAB1
-3801,Macrophage,PARP14
-3802,Macrophage,RBPJ
-3803,Macrophage,SLCO2B1
-3804,Macrophage,1-Mar
-3805,Macrophage,JAML
-3806,Macrophage,FGL2
-3807,Macrophage,CLEC4D
-3808,Macrophage,MMP12
-3809,Macrophage,PLTP
-3810,Macrophage,GDF15
-3811,Macrophage,RAB20
-3812,Macrophage,TNF
-3813,Macrophage,SNX20
-3814,Macrophage,FMNL1
-3815,Macrophage,NCEH1
-3816,Macrophage,CCL24
-3817,Macrophage,CCL7
-3818,Macrophage,IRF5
-3819,Macrophage,GPR171
-3820,Macrophage,NRP2
-3821,Macrophage,SLC37A2
-3822,Macrophage,CTSK
-3823,Macrophage,LPCAT2
-3824,Macrophage,IFNAR2
-3825,Macrophage,CD5L
-3826,Macrophage,TREML4
-3827,Macrophage,CYBB
-3828,Macrophage,CD200
-3829,Macrophage,CD200R1
-3830,Macrophage,GATA6
-3831,Macrophage,PPARG
-3832,Macrophage,RGS1
-3833,Macrophage,SLC15A3
-3834,Macrophage,CYP27A1
-3835,Macrophage,SYK
 3836,Mast cells,IL17A
 3837,Mast cells,CRH
 3838,Mast cells,HSD11B1
@@ -4197,13 +3871,10 @@
 1786,Ly6c+ monocyte,Lyz2
 1787,Dendritic cell,Fscn1
 1788,Plasmacytoid dendritic cell,Bst2
-1789,Macrophage,Cd5l
-1790,Macrophage,Vcam1
 1791,Activated B cell,Cd22
 1792,Dendritic cell,Il3ra
 1793,Natural killer cell,Ncr1
 1794,Hematopoietic stem cell,Cd34
-1795,Macrophage,Adgre1
 1796,Granulocyte,Ly6c1
 1797,Platelet,Itgb3
 1798,Platelet,Cd9
@@ -4225,7 +3896,6 @@
 1817,Multilymphoid progenitor cell,ADGRL1
 1818,Granulocyte-monocyte progenitor,ADK
 1819,Effector CD8+ memory T (Tem) cell,ADRB2
-1820,CD1C-CD141- dendritic cell,ADRBK1
 1821,Multilymphoid progenitor cell,AES
 1822,Multilymphoid progenitor cell,AFF1
 1823,Multilymphoid progenitor cell,AFF3
@@ -4235,13 +3905,9 @@
 1829,Plasmacytoid dendritic cell,AK057596
 1830,Plasmacytoid dendritic cell,AK093551
 1831,Plasmacytoid dendritic cell,AK095700
-1832,CD1C-CD141- dendritic cell,AK123771
-1833,CD1C-CD141- dendritic cell,AK124399
 1834,AXL+SIGLEC6+ dendritic cell,AK125727
 1835,Plasmacytoid dendritic cell,AK128525
-1836,CD1C-CD141- dendritic cell,AK307192
 1837,Multilymphoid progenitor cell,AKAP17A
-1840,CD1C-CD141- dendritic cell,AL137655
 1841,Plasmacytoid dendritic cell,AL833181
 1842,Granulocyte-monocyte progenitor,ALDH4A1
 1843,Multilymphoid progenitor cell,ALOX12P2
@@ -4295,28 +3961,22 @@
 1898,Plasmacytoid dendritic cell,BX647938
 1899,Plasmacytoid dendritic cell,C10ORF118
 1900,CD1C+_A dendritic cell,C10ORF128
-1901,CD1C-CD141- dendritic cell,C10ORF46
-1902,CD1C-CD141- dendritic cell,C10ORF54
 1903,Plasmacytoid dendritic cell,C10ORF58
 1904,Multilymphoid progenitor cell,C10orf76
-1905,CD1C-CD141- dendritic cell,C11ORF21
 1906,Multilymphoid progenitor cell,C11orf72
 1907,Plasmacytoid dendritic cell,C12ORF44
 1908,Plasmacytoid dendritic cell,C12ORF45
 1910,Plasmacytoid dendritic cell,C12ORF75
-1911,CD1C-CD141- dendritic cell,C15ORF39
 1912,Multilymphoid progenitor cell,C15orf39
 1913,Multilymphoid progenitor cell,C15orf52
 1915,Plasmacytoid dendritic cell,C17ORF109
 1916,Plasmacytoid dendritic cell,C18ORF8
-1917,CD1C-CD141- dendritic cell,C19ORF38
 1918,Multilymphoid progenitor cell,C19orf43
 1920,Naive CD4+ T cell,C1orf162
 1921,Plasmacytoid dendritic cell,C1ORF186
 1922,CD141+CLEC9A+ dendritic cell,C1ORF21
 1923,Effector CD8+ memory T (Tem) cell,C1orf21
 1925,Plasmacytoid dendritic cell,C1ORF55
-1926,CD1C-CD141- dendritic cell,C20ORF112
 1927,Lymphoid-primed multipotent progenitor cell(LMPP),C20orf197
 1928,Multilymphoid progenitor cell,C2CD2L
 1929,AXL+SIGLEC6+ dendritic cell,C5ORF25
@@ -4328,7 +3988,6 @@
 1935,Multilymphoid progenitor cell,C6orf48
 1936,Multilymphoid progenitor cell,C6orf99
 1937,Plasmacytoid dendritic cell,C9ORF142
-1938,CD1C-CD141- dendritic cell,C9ORF72
 1939,CD1C+_B dendritic cell,C9ORF89
 1940,Plasmacytoid dendritic cell,C9ORF91
 1941,Naive CD8+ T cell,CA6
@@ -4359,7 +4018,6 @@
 1970,Multilymphoid progenitor cell,CCZ1
 1974,Naive CD8+ T cell,CD248
 1978,Lymphoid-primed multipotent progenitor cell(LMPP),CD47
-1980,CD1C-CD141- dendritic cell,CD97
 1982,Lymphoid-primed multipotent progenitor cell(LMPP),CDK9
 1983,Multilymphoid progenitor cell,CDKN2D
 1984,Granulocyte-monocyte progenitor,CDKN3
@@ -4397,7 +4055,6 @@
 2021,Multilymphoid progenitor cell,CSN1S1
 2022,Multilymphoid progenitor cell,CSNK1G2
 2024,Multilymphoid progenitor cell,CTSD
-2025,CD1C-CD141- dendritic cell,CTSL1
 2026,Multilymphoid progenitor cell,CUBN
 2027,Multilymphoid progenitor cell,CUTA
 2028,Plasmacytoid dendritic cell,CXORF21
@@ -4412,7 +4069,6 @@
 2039,Multilymphoid progenitor cell,DHFRL1
 2040,Multilymphoid progenitor cell,DHX30
 2041,Multilymphoid progenitor cell,DHX8
-2043,CD1C-CD141- dendritic cell,DKFZP451J181
 2044,Plasmacytoid dendritic cell,DKFZP667P0924
 2045,Multilymphoid progenitor cell,DLGAP1-AS1
 2046,Multilymphoid progenitor cell,DLGAP4-AS1
@@ -4449,8 +4105,6 @@
 2080,Multilymphoid progenitor cell,ELP5
 2081,Multilymphoid progenitor cell,EMC8
 2082,Effector CD8+ memory T (Tem) cell,EMP3
-2083,CD1C-CD141- dendritic cell,EMR1
-2084,CD1C-CD141- dendritic cell,EMR2
 2085,Multilymphoid progenitor cell,EPB42
 2087,Multilymphoid progenitor cell,EPHA1-AS1
 2088,Naive CD8+ T cell,EPHX2
@@ -4467,10 +4121,7 @@
 2105,CD141+CLEC9A+ dendritic cell,FAM190A
 2107,Multilymphoid progenitor cell,FAM219A
 2108,Multilymphoid progenitor cell,FAM222B
-2109,CD1C-CD141- dendritic cell,FAM26F
 2110,Granulocyte-monocyte progenitor,FAM45A
-2111,CD1C-CD141- dendritic cell,FAM45B
-2112,CD1C-CD141- dendritic cell,FAM46A
 2113,Naive CD8+ T cell,FAM60A
 2114,Multilymphoid progenitor cell,FAM69A
 2115,Multilymphoid progenitor cell,FAM83D
@@ -4592,14 +4243,11 @@
 2255,Naive CD8+ T cell,LMO7
 2256,Plasmacytoid dendritic cell,LOC100131089
 2257,Plasmacytoid dendritic cell,LOC100131564
-2258,CD1C-CD141- dendritic cell,LOC100133161
 2259,Plasmacytoid dendritic cell,LOC100233209
 2260,Plasmacytoid dendritic cell,LOC100507600
-2261,CD1C-CD141- dendritic cell,LOC200772
 2262,CD1C+_B dendritic cell,LOC284454
 2263,Plasmacytoid dendritic cell,LOC284551
 2264,Plasmacytoid dendritic cell,LOC285972
-2265,CD1C-CD141- dendritic cell,LOC388312
 2266,Plasmacytoid dendritic cell,LOC400657
 2267,CD141+CLEC9A+ dendritic cell,LOC541471
 2268,Plasmacytoid dendritic cell,LOC642776
@@ -4669,7 +4317,6 @@
 2340,Multilymphoid progenitor cell,NEDD9
 2341,Multilymphoid progenitor cell,NEGR1
 2343,Naive CD4+ T cell,NELL2
-2344,CD1C-CD141- dendritic cell,NEURL
 2345,Multilymphoid progenitor cell,NFIA-AS2
 2346,Multilymphoid progenitor cell,NFKBIA
 2347,Multilymphoid progenitor cell,NHLRC3
@@ -4944,7 +4591,6 @@
 2665,Multilymphoid progenitor cell,VPS13D
 2666,Multilymphoid progenitor cell,VPS37B
 2667,Lymphoid-primed multipotent progenitor cell(LMPP),VPS54
-2668,CD1C-CD141- dendritic cell,WARS
 2669,Multilymphoid progenitor cell,WDR20
 2670,Effector CD8+ memory T (Tem) cell,WDR37
 2671,Naive CD8+ T cell,WDR43
@@ -4960,7 +4606,6 @@
 2683,Multilymphoid progenitor cell,ZBTB7A
 2685,Multilymphoid progenitor cell,ZC3H13
 2686,Plasmacytoid dendritic cell,ZCCHC11
-2687,CD1C-CD141- dendritic cell,ZCCHC6
 2688,Effector CD8+ memory T (Tem) cell,ZEB2-AS1
 2689,Multilymphoid progenitor cell,ZFAND2A
 2690,Multilymphoid progenitor cell,ZFAS1
