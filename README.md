@@ -20,5 +20,9 @@ The images for the stitching section can be found in two folders:
 2. CellOverlay the cell segmented images.
 *Both folders need to be stitched.
 
+Download the results of the pipline from the following link https://drive.google.com/drive/folders/1jr-BvK8LVTIIf0HBPw30KyQLenentMVa?usp=share_link
+For downloading the results from the clustering refer to the file 'Lung5-1-RNA-new-sct.h5ad'
+
 The data was obtained from:
 He, S., Bhatt, R., Brown, C. et al. High-plex imaging of RNA and proteins at subcellular resolution in fixed tissue by spatial molecular imaging. Nat Biotechnol 40, 1794–1806 (2022). https://doi-org.libweb.lib.utsa.edu/10.1038/s41587-022-01483-z
+
